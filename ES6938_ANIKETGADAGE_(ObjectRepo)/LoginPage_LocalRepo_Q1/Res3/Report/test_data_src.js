@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\agadage\\Desktop\\UFT\\ES6938_ANIKETGADAGE_(ObjectRepo)\\LoginPage_LocalRepo_Q1\\Res3',namePairs:[]}]};

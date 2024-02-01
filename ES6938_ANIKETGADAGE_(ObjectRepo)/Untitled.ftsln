@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "Q2", "..\ES6938_ANIKETGADAGE_(Record & PlayBack Assignment)\Q2\Test.tsp", "639C2830-F18C-4494-8AFE-B67A64FF758D"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Users\agadage\Desktop\UFT\ES6938_ANIKETGADAGE_(Record && PlayBack Assignment)\Q2\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		639C2830-F18C-4494-8AFE-B67A64FF758D.Debug|Any CPU.Build.0 = Debug|Any CPU
+		639C2830-F18C-4494-8AFE-B67A64FF758D.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		639C2830-F18C-4494-8AFE-B67A64FF758D.Release|Any CPU.Build.0 = Release|Any CPU
+		639C2830-F18C-4494-8AFE-B67A64FF758D.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
