@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Username.SetValue</Name>
+    <Description>"standard_user"</Description>
+    <StartTime>2024-02-05 12:55:48</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs - Google Chrome]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAEdit</Type>
+            <Name><![CDATA[Username]]></Name>
+          </Object>
+        </Path>
+        <Operation>SetValue</Operation>
+        <OperationData><![CDATA["standard_user"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[supportedpatterns]]></Name>
+            <Value><![CDATA[Invoke;Value;Text;ScrollItem;LegacyIAccessible;TextPattern2_ID10024;TextChild;TextEditPattern_ID10032]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[path]]></Name>
+            <Value><![CDATA[*:*:Swag Labs:root::login_button_container:::user-name]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[controltype]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>5c115e899b184be0a1cae3cbbd220b56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Password.SetValue</Name>
+    <Description>"secret_sauce"</Description>
+    <StartTime>2024-02-05 12:55:48</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs - Google Chrome]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAEdit</Type>
+            <Name><![CDATA[Password]]></Name>
+          </Object>
+        </Path>
+        <Operation>SetValue</Operation>
+        <OperationData><![CDATA["secret_sauce"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[supportedpatterns]]></Name>
+            <Value><![CDATA[Invoke;Value;Text;ScrollItem;LegacyIAccessible;TextPattern2_ID10024;TextChild;TextEditPattern_ID10032]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[path]]></Name>
+            <Value><![CDATA[*:*:Swag Labs:root::login_button_container:::password]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[controltype]]></Name>
+            <Value><![CDATA[Edit]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>5c115e899b184be0a1cae3cbbd220b56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Login.Click</Name>
+    <Description />
+    <StartTime>2024-02-05 12:55:49</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs - Google Chrome]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAButton</Type>
+            <Name><![CDATA[Login]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[supportedpatterns]]></Name>
+            <Value><![CDATA[Invoke;ScrollItem;LegacyIAccessible;TextChild]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[path]]></Name>
+            <Value><![CDATA[*:*:Swag Labs:root::login_button_container::login-button]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Login]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[controltype]]></Name>
+            <Value><![CDATA[Button]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f8b3a0a0b7684a98b352279ca49ab26a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Open Menu.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2024-02-05 12:55:49</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs - Google Chrome]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAButton</Type>
+            <Name><![CDATA[Open Menu]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[supportedpatterns]]></Name>
+            <Value><![CDATA[Invoke;ScrollItem;LegacyIAccessible;TextChild]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[path]]></Name>
+            <Value><![CDATA[*:*:Swag Labs:root:page_wrapper:contents_wrapper:header_container:menu_button_container::react-burger-menu-btn]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Open Menu]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[controltype]]></Name>
+            <Value><![CDATA[Button]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f8b3a0a0b7684a98b352279ca49ab26a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Open Menu.Click</Name>
+    <Description />
+    <StartTime>2024-02-05 12:55:52</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs - Google Chrome]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAButton</Type>
+            <Name><![CDATA[Open Menu]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[supportedpatterns]]></Name>
+            <Value><![CDATA[Invoke;ScrollItem;LegacyIAccessible;TextChild]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[path]]></Name>
+            <Value><![CDATA[*:*:Swag Labs:root:page_wrapper:contents_wrapper:header_container:menu_button_container::react-burger-menu-btn]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Open Menu]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[controltype]]></Name>
+            <Value><![CDATA[Button]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f8b3a0a0b7684a98b352279ca49ab26a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Logout.Click</Name>
+    <Description />
+    <StartTime>2024-02-05 12:55:53</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs - Google Chrome]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAHyperlink</Type>
+            <Name><![CDATA[Logout]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[supportedpatterns]]></Name>
+            <Value><![CDATA[Invoke;Value;ScrollItem;LegacyIAccessible;TextChild]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[path]]></Name>
+            <Value><![CDATA[*:*:Swag Labs:root:page_wrapper:contents_wrapper:header_container:menu_button_container::::logout_sidebar_link]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Logout]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[controltype]]></Name>
+            <Value><![CDATA[Hyperlink]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>e1f59b62c728441f8debd98a348978e3</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Swag Labs</Name>
+    <Description>UIAObject</Description>
+    <StartTime>2024-02-05 12:55:48</StartTime>
+    <Duration>5</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs - Google Chrome]]></Name>
+          </Object>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[UIAObject]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[supportedpatterns]]></Name>
+            <Value><![CDATA[Value;Scroll;Text;ScrollItem;LegacyIAccessible;TextPattern2_ID10024]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[path]]></Name>
+            <Value><![CDATA[*:*:Swag Labs]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Chrome_RenderWidgetHostHWND]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Swag Labs]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[frameworkid]]></Name>
+            <Value><![CDATA[Chrome]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[controltype]]></Name>
+            <Value><![CDATA[Document]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>1ef0777ad93a48b981284f78fe508bf5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Swag Labs - Google Chrome</Name>
+    <Description>UIAObject</Description>
+    <StartTime>2024-02-05 12:55:48</StartTime>
+    <Duration>5</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>UIAObject</Type>
+            <Name><![CDATA[Swag Labs - Google Chrome]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[UIAObject]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[supportedpatterns]]></Name>
+            <Value><![CDATA[Window;Transform;ScrollItem;LegacyIAccessible]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[path]]></Name>
+            <Value><![CDATA[*:*]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[nativeclass]]></Name>
+            <Value><![CDATA[Chrome_WidgetWin_1]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[Swag Labs - Google Chrome]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[frameworkid]]></Name>
+            <Value><![CDATA[Win32]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[controltype]]></Name>
+            <Value><![CDATA[Pane]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>1ef0777ad93a48b981284f78fe508bf5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2024-02-05 12:55:47</StartTime>
+    <Duration>6</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>077cd193e6f849f4837972d8ff1bdaf5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Q4_SauceDemo.com_LoginTest</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2024-02-05 12:55:43</StartTime>
+    <Duration>11</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <ParallelRunnerEnvInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ID />
+        <Manufacturer />
+        <Model />
+        <OsType />
+        <OsVersion />
+        <DesktopBrowser>Google Chrome</DesktopBrowser>
+        <ErrorMessage />
+      </ParallelRunnerEnvInfo>
+      <IconKey>a39d2df410c84874be4c0f7d489a1be9</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>ARDIANET\agadage</User>
+      <CpuInfo>Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz</CpuInfo>
+      <NumberOfCores>6</NumberOfCores>
+      <TotalMemory>8015</TotalMemory>
+      <HostName>ardianet.net\D-INE-FWTG9R2</HostName>
+      <OSInfo>Windows 10 22H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Google Chrome</Name>
+        <Path>C:\Program Files\Google\Chrome\Application\chrome.exe</Path>
+        <Version>121.0</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>https://www.saucedemo.com/</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res7</ResultName>
+    <RunStartTime>2024-02-05 12:55:43</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

@@ -1,0 +1,392 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>wbtbl_DemoQA.Exist</Name>
+    <Description>"Object exists"</Description>
+    <StartTime>2024-02-05 15:05:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[brw_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[wpg_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>WebTable</Type>
+            <Name><![CDATA[wbtbl_DemoQA]]></Name>
+          </Object>
+        </Path>
+        <Operation>Exist</Operation>
+        <OperationData><![CDATA["Object exists"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[WebTable]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>b67cda1e05d7421fb02a55c0738916f5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>wbtbl_DemoQA.RowCount</Name>
+    <Description />
+    <StartTime>2024-02-05 15:05:18</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[brw_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[wpg_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>WebTable</Type>
+            <Name><![CDATA[wbtbl_DemoQA]]></Name>
+          </Object>
+        </Path>
+        <Operation>RowCount</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[WebTable]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>b67cda1e05d7421fb02a55c0738916f5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>wbtbl_DemoQA.ColumnCount</Name>
+    <Description>2</Description>
+    <StartTime>2024-02-05 15:05:18</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[brw_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[wpg_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>WebTable</Type>
+            <Name><![CDATA[wbtbl_DemoQA]]></Name>
+          </Object>
+        </Path>
+        <Operation>ColumnCount</Operation>
+        <OperationData><![CDATA[2]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[WebTable]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>b67cda1e05d7421fb02a55c0738916f5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>wpg_DemoQA</Name>
+    <Description>Page</Description>
+    <StartTime>2024-02-05 15:05:17</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[brw_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[wpg_DemoQA]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[title]]></Name>
+            <Value><![CDATA[DEMOQA]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8e14873daa414d428def1accc01e6b84</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>brw_DemoQA</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2024-02-05 15:05:17</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[brw_DemoQA]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[title]]></Name>
+            <Value><![CDATA[DEMOQA]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>779d046835d7465e8457b73df6b41e8b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>wbtbl_DemoQA</Name>
+    <ErrorText>The parameter is incorrect.
+</ErrorText>
+    <Description>The&amp;nbsp;parameter&amp;nbsp;is&amp;nbsp;incorrect.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Object's physical description:&lt;br&gt;Name = WebTable&lt;br&gt;miccommentproperty = &lt;br&gt;Mercury Class = WebTable&lt;br&gt;Html Tag = DIV&lt;br&gt;_xpath = //DIV[2]/DIV[2]/DIV[3]/DIV[@role="grid"][1]&lt;br&gt;|Html Id = &lt;br&gt;</Description>
+    <StartTime>2024-02-05 15:05:18</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Print objDemoQAWebtable.GetCellData(1,1)]]></Scripts>
+          <LineNo><![CDATA[14]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[brw_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[wpg_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>WebTable</Type>
+            <Name><![CDATA[wbtbl_DemoQA]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[The&nbsp;parameter&nbsp;is&nbsp;incorrect.<br/>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[name]]></Name>
+            <Value><![CDATA[WebTable]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>b67cda1e05d7421fb02a55c0738916f5</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <NodeType>Run Error</NodeType>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\5b2fb8ea-1224-452e-a9ec-c4084de35824.jpeg" highlight="346,480,586,288" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2024-02-05 15:05:20</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>b82385f9d8c24b51885ee4a1ebcc511e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>wpg_DemoQA</Name>
+    <Description>Page</Description>
+    <StartTime>2024-02-05 15:05:18</StartTime>
+    <Duration>2</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[brw_DemoQA]]></Name>
+          </Object>
+          <Object>
+            <Type>Page</Type>
+            <Name><![CDATA[wpg_DemoQA]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Page]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[title]]></Name>
+            <Value><![CDATA[DEMOQA]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>8e14873daa414d428def1accc01e6b84</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>brw_DemoQA</Name>
+    <Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+    <StartTime>2024-02-05 15:05:18</StartTime>
+    <Duration>2</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>Browser</Type>
+            <Name><![CDATA[brw_DemoQA]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[title]]></Name>
+            <Value><![CDATA[DEMOQA]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>779d046835d7465e8457b73df6b41e8b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2024-02-05 15:05:17</StartTime>
+    <Duration>3</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>47db48c2e8f74328822d024f2c6b2022</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2024-02-05 15:05:13</StartTime>
+    <Duration>7</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>6f36e3ec4cf04e4cb500cbb4d9b25714</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications>
+      <TestedApplication>
+        <RuntimeEngineInfo />
+        <Name>Google Chrome</Name>
+        <Path>C:\Program Files\Google\Chrome\Application\chrome.exe</Path>
+        <Version>121.0</Version>
+        <Technology>web</Technology>
+        <Reserved />
+        <AdditionalInfos>
+          <Info>https://demoqa.com/</Info>
+        </AdditionalInfos>
+      </TestedApplication>
+    </TestedApplications>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>WebTable</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2024-02-05 15:05:12</StartTime>
+    <Duration>8</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <ParallelRunnerEnvInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ID />
+        <Manufacturer />
+        <Model />
+        <OsType />
+        <OsVersion />
+        <DesktopBrowser>Google Chrome</DesktopBrowser>
+        <ErrorMessage />
+      </ParallelRunnerEnvInfo>
+      <IconKey>e9aaeded9b134fa7835f141716971dcc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>ARDIANET\agadage</User>
+      <CpuInfo>Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz</CpuInfo>
+      <NumberOfCores>6</NumberOfCores>
+      <TotalMemory>8015</TotalMemory>
+      <HostName>ardianet.net\D-INE-FWTG9R2</HostName>
+      <OSInfo>Windows 10 22H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res7</ResultName>
+    <RunStartTime>2024-02-05 15:05:12</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

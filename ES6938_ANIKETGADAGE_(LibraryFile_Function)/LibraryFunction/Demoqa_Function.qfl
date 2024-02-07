@@ -1,0 +1,41 @@
+﻿
+Option Explicit
+
+Dim Full_Name,Email,Current_Address, Permanent_Address,str_txt
+Dim Child_Obj,ObjDesc
+Dim Iterator
+
+ Function TextFill(Full_Name,Email,Current_Address, Permanent_Address )
+ 	msgbox Email
+	Browser("DEMOQA").Page("DEMOQA_2").WebElement("item-0").Click 
+	Browser("DEMOQA").Page("DEMOQA_2").WebEdit("Full Name").Set Full_Name
+	Browser("DEMOQA").Page("DEMOQA_2").WebEdit("name@example.com").Set Email
+	Browser("DEMOQA").Page("DEMOQA_2").WebEdit("Current Address").Set Current_address
+	Browser("DEMOQA").Page("DEMOQA_2").WebEdit("Permanent Address").Set Permanent_Address
+	Browser("DEMOQA").Page("DEMOQA_2").WebButton("Submit").Click
+End Function
+
+ Function ValidateTextBox(Full_Name,Email,Current_Address, Permanent_Address )
+		'Full_Name="SASA"
+		Dim Flag:Flag=True
+		Dim Result_flag
+		If Browser("DEMOQA").Page("DEMOQA_2").WebElement("Name").Exist(4) Then
+		
+				set ObjDesc=Description.Create
+				ObjDesc("html tag").Value="p"
+
+				Set Child_Obj=Browser("DEMOQA").Page("DEMOQA_2").ChildObjects(ObjDesc)
+
+				For Iterator = 0 To Child_Obj.count-1 Step 1
+						str_txt = Child_Obj(Iterator).GetROProperty("innerhtml") 
+						Result_flag = Not (Instr(str_txt,Full_Name)>0  OR Instr(str_txt,Email)>0 OR  Instr(str_txt,Current_address)>0 OR  Instr(str_txt,Permanent_Address)>0 )
+						If Result_flag Then
+							Flag=False
+							Exit For		
+						End If				
+				Next
+		Else
+			ValidateTextBox=False
+		End If	
+		ValidateTextBox=Flag
+End Function

@@ -1,0 +1,40 @@
+﻿
+Option Explicit
+
+Dim User_Name,User_Password
+Dim Valid_User,Valid_Password
+
+Valid_User="standard_user"
+Valid_Password="secret_sauce"
+
+Public Function  Authauthentication(User_Name,User_Password)
+
+	If User_Name=Valid_User And User_Password=Valid_Password Then
+		
+		UIAObject("Swag Labs - Google Chrome").UIAObject("Swag Labs").UIAEdit("Username").SetValue User_Name
+
+		UIAObject("Swag Labs - Google Chrome").UIAObject("Swag Labs").UIAEdit("Password").SetValue User_Password
+
+		UIAObject("Swag Labs - Google Chrome").UIAObject("Swag Labs").UIAButton("Login").Click
+
+		Authauthentication=True
+	Else
+		Authauthentication	=False
+	End If
+		
+End Function
+
+
+Public Function  Logout()
+
+If UIAObject("Swag Labs - Google Chrome").UIAObject("Swag Labs").UIAButton("Open Menu").Exist(10) then
+	UIAObject("Swag Labs - Google Chrome").UIAObject("Swag Labs").UIAButton("Open Menu").Click
+	UIAObject("Swag Labs - Google Chrome").UIAObject("Swag Labs").UIAHyperlink("Logout").Click
+	Logout=True
+Else
+	Logout=False
+End If
+
+		
+End Function
+
