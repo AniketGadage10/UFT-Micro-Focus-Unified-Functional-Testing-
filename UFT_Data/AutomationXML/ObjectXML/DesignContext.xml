@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>DesignContextApplet</Name>
+		<Value>JavaWindow("DesignContextWindow").JavaWindow("DesignContextApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>ContextConfiguration</Name>
+		<Value>JavaWindow("DesignContextWindow").JavaWindow("DesignContextApplet").JavaDialog("ContextConfiguration")</Value>
+	</Variable>
+	<Variable>
+		<Name>There are unsaved Structure</Name>
+		<Value>Window("DesConWindow").Dialog("There are unsaved Structure")</Value>
+	</Variable>
+	<Variable>
+		<Name>DesignContextExit</Name>
+		<Value>Window("DesConWindow").Dialog("DesignContextExit")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewZone</Name>
+		<Value>JavaWindow("DesignContextWindow").JavaWindow("DesignContextApplet").JavaDialog("NewZone")</Value>
+	</Variable>
+</Environment>

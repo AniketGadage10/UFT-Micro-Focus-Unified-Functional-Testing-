@@ -1,0 +1,58 @@
+<Environment>
+	<Variable>
+		<Name>Notice</Name>
+		<Value>Create a new Notice</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>Paste a reference to the object contained in the clipboard (Ctrl+V)</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignNotices</Name>
+		<Value>Assign Notices</Value>
+	</Variable>
+	<Variable>
+		<Name>Lot</Name>
+		<Value>Lot...</Value>
+	</Variable>
+	<Variable>
+		<Name>Activity</Name>
+		<Value>Create a new Activity</Value>
+	</Variable>
+	<Variable>
+		<Name>ServicePlan</Name>
+		<Value>Create a new Service Plan</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveLine</Name>
+		<Value>Remove a line (Ctrl+R)</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeTableContents</Name>
+		<Value>Change Table Contents</Value>
+	</Variable>
+	<Variable>
+		<Name>LifeCharacteristic</Name>
+		<Value>Life Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>ObservationCharacteristic</Name>
+		<Value>Observation Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>DateCharacteristic</Name>
+		<Value>Date Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>Completed</Name>
+		<Value>Completed</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowInProgress</Name>
+		<Value>Show In Progress</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowPartMovements</Name>
+		<Value>Show Part Movements</Value>
+	</Variable>
+</Environment>

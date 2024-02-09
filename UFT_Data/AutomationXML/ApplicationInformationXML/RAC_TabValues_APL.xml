@@ -1,0 +1,42 @@
+<Environment>
+	<Variable>
+		<Name>Tab_Home</Name>
+		<Value>Home</Value>
+	</Variable>
+	<Variable>
+		<Name>Tab_Summary</Name>
+		<Value>Summary</Value>
+	</Variable>
+	<Variable>
+		<Name>Tab_Details</Name>
+		<Value>Details</Value>
+	</Variable>
+	<Variable>
+		<Name>Tab_Viewer</Name>
+		<Value>Viewer</Value>
+	</Variable>
+	<Variable>
+		<Name>Tab_ImpactAnalysis</Name>
+		<Value>Impact Analysis</Value>
+	</Variable>
+	<Variable>
+		<Name>Tab_Search</Name>
+		<Value>Search</Value>
+	</Variable>
+	<Variable>
+		<Name>InnerTab_Overview</Name>
+		<Value>Overview</Value>
+	</Variable>
+	<Variable>
+		<Name>Tab_Requirement</Name>
+		<Value>Requirement</Value>
+	</Variable>
+	<Variable>
+		<Name>Tab_AvailableParameters</Name>
+		<Value>Available Parameters</Value>
+	</Variable>
+	<Variable>
+		<Name>Tab_Definition</Name>
+		<Value>Definition</Value>
+	</Variable>
+</Environment>

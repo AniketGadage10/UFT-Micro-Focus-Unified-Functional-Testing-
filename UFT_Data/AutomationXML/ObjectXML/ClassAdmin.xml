@@ -1,0 +1,38 @@
+<Environment>
+	<Variable>
+		<Name>ClassificationApplet</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassSubWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>Classify Object</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassSubWindow").JavaDialog("Classify Object")</Value>
+	</Variable>
+	<Variable>
+		<Name>ListofAttriValues</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassSubWindow").JavaDialog("ListofAttriValues")</Value>
+	</Variable>
+	<Variable>
+		<Name>ClassAdminApplet</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassSubWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddClassDia</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassSubWindow").JavaDialog("AddClassDia")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddNewClass</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassSubWindow").JavaDialog("AddNewClass")</Value>
+	</Variable>	
+	<Variable>
+		<Name>HierarchyTree</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassSubWindow").JavaTree("Hierarchy")</Value>
+	</Variable>
+	<Variable>
+		<Name>ClassAttributeChkProperties</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassSubWindow").JavaCheckBox("ChkProperties")</Value>
+	</Variable>
+	<Variable>
+		<Name>UnitStaticText</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassSubWindow").JavaStaticText("UnitStaticText")</Value>
+	</Variable>	
+</Environment>

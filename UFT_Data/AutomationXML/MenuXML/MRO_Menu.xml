@@ -1,0 +1,98 @@
+<Environment>
+	<Variable>
+		<Name>FileNewServiceGroup</Name>
+		<Value>File:New:Service Group...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewServiceEvent</Name>
+		<Value>File:New:Service Event...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewServiceDiscrepancy</Name>
+		<Value>File:New:Service Discrepancy...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewPartRequest</Name>
+		<Value>File:New:Part Request...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewActivity</Name>
+		<Value>File:New:Activity...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewLifeCharacteristic</Name>
+		<Value>File:New:Life Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewObservationCharacteristic</Name>
+		<Value>File:New:Observation Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewDateCharacteristic</Name>
+		<Value>File:New:Date Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewFrequency</Name>
+		<Value>File:New:Frequency...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewSkill</Name>
+		<Value>File:New:Skill...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewJobCard</Name>
+		<Value>File:New:Job Card...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewPartMovement</Name>
+		<Value>File:New:Part Movement...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewProxyTask</Name>
+		<Value>File:New:Proxy Task...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewLogBook</Name>
+		<Value>File:New:Log Book...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewReportedDiscrepancy</Name>
+		<Value>File:New:Reported Discrepancy...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsInstallPhysicalPart</Name>
+		<Value>Tools:Install Physical Part</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewServicePlan</Name>
+		<Value>File:New:Service Plan...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewServiceRequirement</Name>
+		<Value>File:New:Service Requirement...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewWorkCard</Name>
+		<Value>File:New:Work Card...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAssignQualifications</Name>
+		<Value>Tools:Assign Qualifications...</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleAssignmentAssigntoTask</Name>
+		<Value>Schedule:Assignment:Assign to Task...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRebasePhysicalPart</Name>
+		<Value>Tools:Rebase Physical Part...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewWorkOrder</Name>
+		<Value>File:New:Work Order...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewNotice</Name>
+		<Value>File:New:Notice...</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,14 @@
+<Environment>
+	<Variable>
+		<Name>FailedToCreateTraceLink</Name>
+		<Value>If Manufacturing object selected as target for Trace Link then source should be Requirement object</Value>
+	</Variable>
+	<Variable>
+		<Name>GoToObjectNotSupported</Name>
+		<Value>Go To Object is not supported in current application.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeletePreferenceMessage</Name>
+		<Value>Do you want to delete the selected preference instance(s)?</Value>
+	</Variable>	
+</Environment>

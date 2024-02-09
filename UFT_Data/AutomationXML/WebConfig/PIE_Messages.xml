@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>ExportCompleteMessage</Name>
+		<Value>Export completed successfully, do you want to view log file for more details?</Value>
+	</Variable>
+</Environment>

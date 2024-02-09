@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>AssignParticipants</Name>
+		<Value>Tools:Assign Participants...</Value>
+	</Variable>	
+</Environment>

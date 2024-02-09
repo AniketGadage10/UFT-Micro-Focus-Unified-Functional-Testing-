@@ -1,0 +1,7 @@
+<Environment>
+	<Variable>
+		<Name>OwnershipTransErr</Name>
+		<Value>Ownership Transfer is applicable for local parts only.
+No local parts were found in the selected sub assembly.</Value>	
+	</Variable>
+</Environment>

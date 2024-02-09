@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>InteroperatecomponentstoStructureManagerViewer</Name>
+		<Value>Interoperate components to Structure Manager Viewer</Value>
+	</Variable>
+	<Variable>
+		<Name>SynchronizewithStructureManager</Name>
+		<Value>Synchronize with Structure Manager</Value>
+	</Variable>
+</Environment>

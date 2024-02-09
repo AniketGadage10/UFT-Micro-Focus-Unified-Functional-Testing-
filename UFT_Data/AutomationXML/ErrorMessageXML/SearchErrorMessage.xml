@@ -1,0 +1,42 @@
+<Environment>
+	<Variable>
+		<Name>ExistingQueryError</Name>
+		<Value>Query with the same name already exists or the name length is greater than 128. Please choose a different name.</Value>
+	</Variable>
+	<Variable>
+		<Name>objectdescError</Name>
+		<Value>You must enter at least 4 character(s) before the wildcard character for object_desc.</Value>
+	</Variable>
+	<Variable>
+		<Name>objUserError</Name>
+		<Value>Wildcard cannot be specified at the given position.Enter the required number of characters before a wildcard.</Value>
+	</Variable>
+	<Variable>
+		<Name>TabSelectError</Name>
+		<Value>No viewable data could be found. If the object contains some Datasets, however, please check the configuration of the following preferences to activate their rendering: VMU_Datasets, VMU_SecondaryDatasets, VMU_FileSearchOrder.</Value>
+	</Variable>
+	<Variable>
+		<Name>DelSSError</Name>
+		<Value>You do not have write access to object My Saved Searches</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidTypeError</Name>
+		<Value>Invalid Business Object Type: Item;Item Revision;Dataset</Value>
+	</Variable>
+	<Variable>
+		<Name>MySavedSrchFldrCanntRenamed</Name>
+		<Value>My Saved Search Folders can not be renamed.</Value>
+	</Variable>
+	<Variable>
+		<Name>objectNameError</Name>
+		<Value>You must enter at least 2 character(s) before the wildcard character for object_name.</Value>
+	</Variable>
+	<Variable>
+		<Name>Noaccessibleobjectsfound</Name>
+		<Value>Your search returned zero objects for which you have access permission. Refine your search criteria.</Value>
+	</Variable>	
+	<Variable>
+		<Name>SavedSearchmusthavecriterion</Name>
+		<Value>A Saved Search must have at least one criterion</Value>
+	</Variable>	
+</Environment>

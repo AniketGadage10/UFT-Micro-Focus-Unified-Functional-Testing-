@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>Teamcenter Web - Design</Name>
+		<Value>Browser("Teamcenter Web - Design").Page("Teamcenter Web - Design")</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,27 @@
+<Environment>
+	<Variable>
+		<Name>EditCopy</Name>
+		<Value>Edit:Copy</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPaste</Name>
+		<Value>Edit:Paste</Value>
+	</Variable>
+	<Variable>
+		<Name>NewClassificationObject</Name>
+		<Value>New:Classification Object</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsBookmarkClass</Name>
+		<Value>Tools:Bookmark Class</Value>
+	</Variable>
+	<Variable>
+		<Name>EditSaveAs</Name>
+		<Value>Edit:Save As...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditEditClassificationObject</Name>
+		<Value>Edit:Edit Classification Object</Value>
+	</Variable>
+	
+</Environment>

@@ -1,0 +1,26 @@
+<Environment>
+	<Variable>
+		<Name>SubscriptionError</Name>
+		<Value>The subscription could not be created with the given criteria. Please verify that the input values are valid and will not cause duplicate subscriptions.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpiredSubscriptionError</Name>
+		<Value>The subscription is already expired. Please re-specify the expiration date.</Value>
+	</Variable>
+	<Variable>
+		<Name>AttributeDuplicateError</Name>
+		<Value>A subscription already exists with the attributes you have specified. Please change this using the "Modify Subscription" command.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidObject</Name>
+		<Value>Invalid Object</Value>
+	</Variable>
+	<Variable>
+		<Name>SubscriptionModificationErrMsg</Name>
+		<Value>You don't have access to modify Subscription_Name
+You don't have access to modify Subscription_Name
+You don't have access to modify Subscription_Name
+You don't have access to modify Subscription_Name
+</Value>
+	</Variable>
+</Environment>

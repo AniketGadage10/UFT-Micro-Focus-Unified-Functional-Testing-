@@ -1,0 +1,57 @@
+<Environment>
+	<Variable>
+		<Name>Create3DProductViews</Name>
+		<Value>Create 3D Product Views</Value>
+	</Variable>	
+	<Variable>
+		<Name>CreateMarkup</Name>
+		<Value>Create Markup</Value>
+	</Variable>	
+	<Variable>
+		<Name>EnableMarkup</Name>
+		<Value>Enable Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>MarkupPreferences</Name>
+		<Value>Markup Preferences</Value>
+	</Variable>	
+	<Variable>
+		<Name>3DMarkup</Name>
+		<Value>3D Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>3DGDTMarkup</Name>
+		<Value>3D GDT Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>2DViewing</Name>
+		<Value>2D Viewing</Value>
+	</Variable>
+	<Variable>
+		<Name>3DNavigation</Name>
+		<Value>3D Navigation</Value>
+	</Variable>
+	<Variable>
+		<Name>Comparison</Name>
+		<Value>Comparison</Value>
+	</Variable>
+	<Variable>
+		<Name>SetPartGroup1</Name>
+		<Value>Set Part Group 1</Value>
+	</Variable>
+	<Variable>
+		<Name>SetPartGroup2</Name>
+		<Value>Set Part Group 2</Value>
+	</Variable>
+	<Variable>
+		<Name>TricolorMapping</Name>
+		<Value>Tricolor Mapping</Value>
+	</Variable>
+	<Variable>
+		<Name>DistanceMapping</Name>
+		<Value>Distance Mapping</Value>
+	</Variable>
+</Environment>
+
+
+

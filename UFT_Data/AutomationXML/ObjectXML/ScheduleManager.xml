@@ -1,0 +1,220 @@
+<Environment>
+	<Variable>
+		<Name>Baseline Schedule</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Baseline Schedule")</Value>
+	</Variable>
+	<Variable>
+		<Name>Choose Schedules...</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Choose Schedules...")</Value>
+	</Variable>
+	<Variable>
+		<Name>Column Chooser</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Column Chooser")</Value>
+	</Variable>
+	<Variable>
+		<Name>Dependencies</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Dependencies")</Value>
+	</Variable>
+	<Variable>
+		<Name>Insert Schedules</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Insert Schedules")</Value>
+	</Variable>
+	<Variable>
+		<Name>SchTaskTable</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaTable("SchTaskTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>Edit Schedule Calendar</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Edit Schedule Calendar")</Value>
+	</Variable>
+	<Variable>
+		<Name>Schedule Calendar Information</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Edit Schedule Calendar").JavaDialog("Schedule Calendar Information")</Value>
+	</Variable>
+	<Variable>
+		<Name>Schedule Calendar Information1</Name>
+		<Value>Window("SchMgrWin").JavaDialog("Schedule Calendar Information")</Value>
+	</Variable>
+	<Variable>
+		<Name>Costs</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").Dialog("Costs")</Value>
+	</Variable>
+	<Variable>
+		<Name>Costs@1</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("Costs")</Value>
+	</Variable>
+	
+	<Variable>
+		<Name>ScheduleSearch</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("Search")</Value>
+	</Variable>
+	
+	<Variable>
+		<Name>Schedule Membership</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Schedule Membership")</Value>
+	</Variable>
+	<Variable>
+		<Name>Schedule Manager Deferred</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("Schedule Manager Deferred")</Value>
+	</Variable>
+	<Variable>
+		<Name>Create Schedule Member</Name>
+		<Value>JavaDialog("Create Schedule Member")</Value>
+	</Variable>
+	<Variable>
+		<Name>Confirmation Dialog</Name>
+		<Value>JavaDialog("Confirmation Dialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>ApplyConstraintConfirm</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("ApplyConstraintConfirm")</Value>
+	</Variable>
+	<Variable>
+		<Name>Working Day Exception</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Working Day Exception")</Value>
+	</Variable>
+	<Variable>
+		<Name>Workflow Rule Configuration</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Workflow Rule Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Schedule Manager Table</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaTable("SchTaskTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>Filter Settings</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Filter Settings")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete</Name>
+		<Value>JavaDialog("Delete")</Value>
+	</Variable>
+	<Variable>
+		<Name>Error</Name>
+		<Value>JavaDialog("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleProperties</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("ScheduleProperties")</Value>
+	</Variable>
+	<Variable>
+		<Name>TaskProperties</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("TaskProperties")</Value>
+	</Variable>
+	<Variable>
+		<Name>Insert Template</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Insert Templates")</Value>
+	</Variable>
+	<Variable>
+		<Name>Object Not Found</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Insert Templates").JavaDialog("Object Not Found")</Value>
+	</Variable>
+	<Variable>
+		<Name>Schedule Manger Error</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>Task Assignment</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("Task Assignment")</Value>
+	</Variable>
+	<Variable>
+		<Name>Recalculate Schedule</Name>
+		<Value>JavaDialog("Recalculate Schedule")</Value>
+	</Variable>
+	<Variable>
+		<Name>Edit Dependency</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Edit Dependency")</Value>
+	</Variable>
+	<Variable>
+		<Name>Warning</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Warning")</Value>
+	</Variable>
+	<Variable>
+		<Name>Task Deliverables</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Task Deliverables")</Value>
+	</Variable>
+	<Variable>
+		<Name>Confirm</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("SchMgrWindow").JavaDialog("Confirm")</Value>
+	</Variable>
+	<Variable>
+		<Name>Confirm_EditDependency</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Confirm")</Value>
+	</Variable>
+	<Variable>
+		<Name>Information</Name>
+		<Value>Window("SchMgrWin").JavaWindow("JApplet").JavaDialog("Information")</Value>
+	</Variable>
+	<Variable>
+		<Name>Revert Assignments</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Revert Assignments")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Task @1</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("SchMgrWindow").JavaDialog("New Task")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Task @2</Name>
+		<Value>Window("SchMgrWin").JavaDialog("New Task")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Task</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("New Task")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save As</Name>
+		<Value>Window("SchMgrWin").JavaWindow("JApplet").JavaDialog("Save As")</Value>
+	</Variable>
+	<Variable>
+		<Name>Date Chooser</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Date Chooser")</Value>
+	</Variable>
+	<Variable>
+		<Name>Date Chooser@2</Name>
+		<Value>JavaDialog("Date Chooser")</Value>
+	</Variable>
+	<Variable>
+		<Name>Schedule Deliverables</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Schedule Deliverables")</Value>
+	</Variable>
+	<Variable>
+		<Name>Open by Name</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Open by Name")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorDialog</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").Dialog("ErrorDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>Manage Rate Error</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("Manage Rate Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>Information@1</Name>
+		<Value>Dialog("Information")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save As@1</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Save As")</Value>
+	</Variable>
+	<Variable>
+		<Name>Fixed Cost</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("Fixed Cost")</Value>
+	</Variable>
+	<Variable>
+		<Name>Shift Schedule</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Shift Schedule")</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleManagerWindow</Name>
+		<Value>JavaWindow("ScheduleManagerWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleManagerAppletWindow</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleManagerAppletWindow@1</Name>
+		<Value>Window("SchMgrWin").JavaWindow("JApplet")</Value>
+	</Variable>
+</Environment>

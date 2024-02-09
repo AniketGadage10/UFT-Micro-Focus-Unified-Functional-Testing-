@@ -1,0 +1,49 @@
+<Environment>
+	<Variable>
+		<Name>OpenCADAssembly</Name>
+		<Value>Open CAD Assembly</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenBriefcase</Name>
+		<Value>Open Briefcase</Value>
+	</Variable>	
+	<Variable>
+		<Name>RemoveAllFinishedOperations</Name>
+		<Value>Remove All Finished Operations</Value>
+	</Variable>		
+	<Variable>
+		<Name>ClearLogViewer</Name>
+		<Value>Clear Log Viewer</Value>
+	</Variable>			
+	<Variable>
+		<Name>SaveBriefcase</Name>
+		<Value>Save Briefcase</Value>
+	</Variable>	
+	<Variable>
+		<Name>OwnershipTransfer</Name>
+		<Value>Ownership Transfer</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddDataset</Name>
+		<Value>Add Dataset</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewJTModel</Name>
+		<Value>View JT Model</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewCADModelinNX</Name>
+		<Value>View CAD Model in NX</Value>
+	</Variable>	
+	<Variable>
+		<Name>CompareBriefcase</Name>
+		<Value>Compare Briefcase</Value>
+	</Variable>	
+	<Variable>
+		<Name>Synchronize</Name>
+		<Value>Synchronize</Value>
+	</Variable>	
+</Environment>
+
+
+

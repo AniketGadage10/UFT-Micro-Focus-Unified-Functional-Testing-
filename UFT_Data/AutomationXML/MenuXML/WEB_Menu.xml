@@ -1,0 +1,258 @@
+<Environment>
+	<Variable>
+		<Name>ViewOpeninRichClient</Name>
+		<Value>View:Open in Rich Client</Value>
+	</Variable>
+	<Variable>
+		<Name>NewItem</Name>
+		<Value>New:Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewParagraph</Name>
+		<Value>New:Paragraph...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewFolder</Name>
+		<Value>New:Folder...</Value>
+	</Variable>
+	<Variable>
+		<Name>HelpAbout</Name>
+		<Value>Help:About Teamcenter</Value>
+	</Variable>
+	<Variable>
+		<Name>EditChangePassword</Name>
+		<Value>Edit:Change Password...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewForm</Name>
+		<Value>New:Form...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewDataset</Name>
+		<Value>New:Dataset...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewWebLink</Name>
+		<Value>New:Web Link...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewConnectionRevisable</Name>
+		<Value>New:Connection:Revisable...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewProperties</Name>
+		<Value>View:Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsCheckOut</Name>
+		<Value>Tools:Check-In/Out:Check-Out...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditProperties</Name>
+		<Value>Edit:Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>EditUserSettings</Name>
+		<Value>Edit:User Settings...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewStructure</Name>
+		<Value>View:Structure</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPaste</Name>
+		<Value>Edit:Paste</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPasteAs</Name>
+		<Value>Edit:Paste Special...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsCheckIn</Name>
+		<Value>Tools:Check-In/Out:Check-In</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCopy</Name>
+		<Value>Edit:Copy</Value>
+	</Variable>
+	<Variable>
+		<Name>NewOther</Name>
+		<Value>New:Other...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditDelete</Name>
+		<Value>Edit:Delete</Value>
+	</Variable>
+	<Variable>
+		<Name>EditOptions</Name>
+		<Value>Edit:Options...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewChange</Name>
+		<Value>New:Change:Create...</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeInContext</Name>
+		<Value>New:Change:Create In Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>DeriveChange</Name>
+		<Value>New:Change:Derive Change...</Value>
+	</Variable>	
+	<Variable>
+		<Name>EditCut</Name>
+		<Value>Edit:Cut</Value>
+	</Variable>
+	<Variable>
+		<Name>EditRevise</Name>
+		<Value>Edit:Revise...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewProcess</Name>
+		<Value>New:Workflow Process...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewWhereUsed</Name>
+		<Value>View:Where Used</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewWhereUsedTopLv</Name>
+		<Value>View:Where Used (Top Level)</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignParticipants</Name>
+		<Value>Tools:Assign Participants...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsIdDisplayRules</Name>
+		<Value>Tools:Id Display rules...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewSignal</Name>
+		<Value>New:PSSignal...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewConnectionRevisable</Name>
+		<Value>New:Connection:Revisable...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditMakeImmune</Name>
+		<Value>Edit:Make Immune</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPurge</Name>
+		<Value>Edit:Purge</Value>
+	</Variable>
+	<Variable>
+		<Name>EditRemove</Name>
+		<Value>Edit:Remove</Value>
+	</Variable>
+	<Variable>
+		<Name>EditRemoveImmunity</Name>
+		<Value>Edit:Remove Immunity</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewWhereReferenced</Name>
+		<Value>View:Where Referenced</Value>
+	</Variable>
+	<Variable>
+		<Name>EditChangeOwnnership</Name>
+		<Value>Edit:Change Ownership...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditSaveAs</Name>
+		<Value>Edit:Save As...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewRequirements</Name>
+		<Value>View:Requirements</Value>
+	</Variable>
+	<Variable>
+		<Name>NewRequirement</Name>
+		<Value>New:Requirement...</Value>
+	</Variable>
+	<Variable>
+		<Name>ClassicChangeCreate</Name>
+		<Value>New:Classic Change...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsProjectAssign</Name>
+		<Value>Tools:Project:Assign</Value>
+	</Variable>
+	<Variable>
+		<Name>NewBusinessObject</Name>
+		<Value>New:Other...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditMassUpdate</Name>
+		<Value>Edit:Mass Update</Value>
+	</Variable>	
+	<Variable>
+		<Name>ExportToExcel</Name>
+		<Value>Tools:Export to Excel</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsProjectRemove</Name>
+		<Value>Tools:Project:Remove</Value>
+	</Variable>	
+	<Variable>
+		<Name>EditAttachStandardNote</Name>
+		<Value>Edit:Attach Requirements/Notes:Standard Note</Value>
+	</Variable>
+	<Variable>
+		<Name>EditAttachCustomNote</Name>
+		<Value>Edit:Attach Requirements/Notes:Custom Note</Value>
+	</Variable>
+	<Variable>
+		<Name>NewAudit</Name>
+		<Value>New:Audit...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAssignFinish</Name>
+		<Value>Tools:Assign Finish</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMakeFrom</Name>
+		<Value>Tools:Make From...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPropertiesOnRelation</Name>
+		<Value>Edit:Properties On Relation</Value>
+	</Variable>
+	<Variable>
+		<Name>EditStandardNoteParameters</Name>
+		<Value>Edit:Standard Note Parameters</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewDesignContext</Name>
+		<Value>View:Design Context</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsEndTraceLink</Name>
+		<Value>Tools:End Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsStartTraceLink</Name>
+		<Value>Tools:Start Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsPLMXMLImport</Name>
+		<Value>Tools:PLMXML Import...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignProjects</Name>
+		<Value>Tools:Project:Assign</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveProject</Name>
+		<Value>Tools:Project:Remove</Value>
+	</Variable>
+	<Variable>
+		<Name>EditProperties@1</Name>
+		<Value>Edit:Properties...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsPLMXMLExport</Name>
+		<Value>Tools:PLMXML Export...</Value>
+	</Variable>
+</Environment>

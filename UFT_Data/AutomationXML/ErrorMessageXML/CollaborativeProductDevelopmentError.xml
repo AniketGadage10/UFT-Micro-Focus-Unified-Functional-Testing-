@@ -1,0 +1,218 @@
+<Environment>
+	<Variable>
+		<Name>BoundingBoxError</Name>
+		<!--Value>The selected proximity targets are missing valid bounding box definitions.</Value-->
+		<Value>The following proximity targets are missing valid bounding box definitions: 
+DEName.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnsupportedMenuOperation</Name>
+		<Value>This action is not supported for type ObjectName.</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportToBriefcaseErr</Name>
+		<Value>Only Item and Item Revision can be selected for export.</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportToBriefcaseOnWorkSetErr</Name>
+		<Value>No GMS site was found.</Value>
+	</Variable>
+	<Variable>
+		<Name>PastePartitionToPartitionErr</Name>
+		<Value>You cannot paste a Partition to a Partition in the context of a Subset Definition.</Value>
+	</Variable>
+	<Variable>
+		<Name>DelPartitionTemplateWithPartitionsErr</Name>
+		<Value>The Model object cannot be deleted because it is not empty. Remove its contents first and try again to delete it.</Value>
+	</Variable>
+	<Variable>
+		<Name>RevisedErrDueToStatus</Name>
+		<Value>The object "Object1Name" cannot be revised because the object "Object2Name" does not have a status.</Value>
+	</Variable>
+	<Variable>
+		<Name>NewPartitionError</Name>
+		<Value>You cannot create a new Partition until a Partition Scheme has been selected.</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicatePartitionTemp</Name>
+		<Value>A Business Object "Type" already exists with properties "{Partition Template ID = PTID}". Please specify at least one unique value to create the Business Object "Type".</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfigSaveErr</Name>
+		<Value>Cannot save configuration as Stored Option Set because preference 'DisableSaveSos' is set to 'True'. Please reset preference to 'False' to allow saving Stored Option Set.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsError</Name>
+		<Value>An error has occurred while performing the "Save As" operation. Please refer to the Teamcenter server syslog file for more details.
+The instance cannot be saved because it contains at least one attribute that violates a unique attribute rule.
+The instance cannot be saved because it contains at least one attribute that violates a unique attribute rule.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsVariantRuleWarning</Name>
+		<Value>It is not recommended to save the configuration as Stored Option Set because all currently set variant options are legacy variants.
+Instead do you want to save the configuration as a variant rule?</Value>
+	</Variable>
+	<Variable>
+		<Name>SubsetDefinitionCreateError</Name>
+		<Value>Subset Definition cannot be created from Partition Template Search Result.</Value>
+	</Variable>
+	<Variable>
+		<Name>ADD_CONTENT_Error</Name>
+		<Value>The operation could not be performed, because the current user does not have the needed "ADD_CONTENT" access privilege on the object "PTName"</Value>
+	</Variable>
+	<Variable>
+		<Name>ThereAreUnsavedChanges</Name>
+		<Value>Do you want to save the changes in the Variant Expression Editor?</Value>
+	</Variable>
+	<Variable>
+		<Name>NoSearchResults</Name>
+		<Value>No results found. Please update your search criteria and try again.</Value>
+	</Variable>
+	<Variable>
+		<Name>RaisesActionItemsCreatable</Name>
+		<Value>The condition Cm0isCm0RaisesActionItemsCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorMessage</Name>
+		<Value>Object sObjValue is already in the target folder as Raises Action Items.</Value>
+	</Variable>
+	<Variable>
+		<Name>InstanceReferenced</Name>
+		<Value>The instance is referenced</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteWarning</Name>
+		<Value>Do you want to delete the selected Variant object?</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchError</Name>
+		<Value>Internal error in QSearch module: No bounding box information is present for selected BOM line.</Value>
+	</Variable>
+	<Variable>
+		<Name>DEPasteCDError</Name>
+		<Value>The Design Component DENodeName cannot be pasted directly under the Product Design CDNodeName in the tree when a partition scheme is applied. Paste is performed under the NewStuff folder.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeletePartitionError</Name>
+		<Value>The Partition object cannot be deleted because it contains at least one child Partition. Please delete all child Partitions first.</Value>
+	</Variable>	
+	<Variable>
+		<Name>CutIsNotSupportedForDesignElementCustomError</Name>
+		<Value>Cut operation is not supported for Design Component in this view.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExistingAllocationError</Name>
+		<Value>The selected variant object(s) have already been allocated.</Value>
+	</Variable>
+	<Variable>
+		<Name>InactiveTargetPartitionPasteError</Name>
+		<Value>The add operation could not be performed because the target Partition 'Partition Name' is inactive. Please check the Teamcenter server syslog file for more information.</Value>
+	</Variable>
+	<Variable>
+		<Name>InactiveUpdatefromPartitionTemplateError</Name>
+	<Value>The "Update from Partition Template" operation cannot be performed on the selected Partition "'Partition Name'", because its source Partition is inactive.</Value>
+	</Variable>
+	<Variable>
+		<Name>InactiveSourcePartitionPasteError</Name>
+		<Value>The add operation could not be performed because the following source Partitions are inactive: 'Partition Name'. Please check the Teamcenter server syslog file for more information.</Value>
+	</Variable>
+	<Variable>
+		<Name>ParentPartitionInactiveError</Name>
+		<Value>Action handler 'PARTITION-activate-or-inactivate' on action 'Start' in task 'MakePartitions_Active' recorded the following 1 entries.
+The selected Partition "Partition2" could not be activated, because its following parent Partitions are inactive: Partition1.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteError</Name>
+		<Value>You cannot paste multiple object types when instancing is required.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorMessage@1</Name>
+		<Value>sObjValue is an invalid source object for paste operation.</Value>
+	</Variable>
+	<Variable>
+		<Name>EmptySDPastePartitionError</Name>
+		<Value>The operation has no object to work on, because either the supplied input objects are invalid or the supplied subset definition is empty.</Value>
+	</Variable>
+	<Variable>
+		<Name>AggregateMessage</Name>
+		<Value>This action updates the aggregate baseline recipe by combining the recipes of all it's supporting baselines. Do you want to continue?</Value>
+	</Variable>	
+	<Variable>
+		<Name>PasteErrorMessage@2</Name>
+		<Value>Paste operation is not supported on Baseline in this view as the baseline is unmodifiable.</Value>
+	</Variable>
+	<Variable>
+		<Name>PartitionReviseError</Name>
+		<Value>The object "PTNName1" cannot be revised because the object "PTNName2" does not have a status.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteSDToAnotherBaselineError</Name>
+		<Value>The source object must be from the same Application Model as the target object.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddContentAccessError</Name>
+		<Value>The current user does not have the requested "ADD_CONTENT" access privilege on the object "PTNName" to be able to update the Partition.</Value>
+	</Variable>
+	<Variable>
+		<Name>AccountabilityCheckError</Name>
+		<Value>The Workset "WS_Name" cannot be compared by the "4GD to 4GD compare and accountability" functionality, because it contains subset elements belonging to more than one Application Model. Please select individual subset elements to compare.</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrBaselineRevisions</Name>
+		<Value>Action handler 'MDL-snapshot-baseline-revisions' on action 'Start' in task 'TC Close Baseline Process' recorded the following 1 entries.
+A snapshot date cannot be set on the baseline "BaseLine2", because the supporting baseline "BaseLine1" has no snapshot date.
+		</Value>
+	</Variable>
+	<Variable>
+		<Name>InstantiationBlockError</Name>
+		<Value>The operation is not supported for source objects that exist in a Change Context different from the target Change Context.</Value>
+	</Variable>
+	<Variable>
+		<Name>AddtoCurrentChangeMsg</Name>
+		<Value>The following objects will be added as Impacted to change ChangeNoticeRev:</Value>
+	</Variable>
+	<Variable>
+		<Name>GeneratePreViewErrorMsg</Name>
+		<Value>The initial population Revision Rule "Precise; Any Status" configured in "CPD_4GPopulate_RevisionRule" preference is not a valid Revision Rule for Populate 4G preview-based Item Realization operation.</Value>
+	</Variable>
+	<Variable>
+		<Name>InformationMessage</Name>
+		<Value>Pasting a latest public object into the Baseline updates the recipe. However, the view does not show the configured version of the latest public. Please refresh the view.</Value>
+	</Variable>
+	<Variable>
+		<Name>GeneratePreViewRevRuleErrorMsg</Name>
+		<Value>An invalid Revision rule "RevRuleName" is provided while performing Imprecise Realization. Please provide a supported Revision rule.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveResource</Name>
+		<Value>Save changes in "Variant Configuration"?</Value>
+	</Variable>	
+	<Variable>
+		<Name>SaveResource@1</Name>
+		<Value>Save changes in "$ (Variant Formula Expression Editor View)"?</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveResource@2</Name>
+		<Value>Save changes in "Variant Configuration"?</Value>
+	</Variable>
+	<Variable>
+		<Name>SwitchConfigurationModeMessage</Name>
+		<Value>While switching the configuration mode, the configuration view will only retain all user selections. All system selections, violations and completeness status, if any, will be cleared.</Value>
+	</Variable>
+	<Variable>
+		<Name>ValidationErrorMessage</Name>
+		<Value>1. The object "FAMILYNAME/001" of type "Family" has an invalid selection, because multiple Features are selected from a single select mutually exclusive family. Use the operator "=" to select a Feature.</Value>
+	</Variable>
+	<Variable>
+		<Name>ValidationErrorMessage@1</Name>
+		<Value>1. The object "FAMILYNAME/001" of type "Family" has an invalid selection, because selection using the operator "!=" is not allowed for a single select mutually exclusive family. Use the operator "=" to select a Feature.</Value>
+	</Variable>
+	<Variable>
+		<Name>EffectivityValidationMessage</Name>
+		<Value>The Effectivity validation has failed for the object "OPTIONVALUEREV" of type "TYPE", because not all of its member's revisions are effective in the range of input object Effectivity.</Value>
+	</Variable>
+	<Variable>
+		<Name>PreviewGenerationWarningMsg</Name>
+		<Value>The mapping file "MappingFileName" is ignored because a mapping file "CDName" is already attached to the Product Design "CDName". The latter file is used to generate the preview model.</Value>
+	</Variable>
+</Environment>

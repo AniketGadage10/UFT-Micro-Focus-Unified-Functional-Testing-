@@ -1,0 +1,138 @@
+<Environment>
+	<Variable>
+		<Name>NewBusinessObject</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("NewBusinessObject")</Value>
+	</Variable>
+	<Variable>
+		<Name>IncludeChildPartitions</Name>
+		<Value>JavaWindow("Collaborative Product").JavaCheckBox("IncludeChildPartitions")</Value>
+	</Variable>
+	<Variable>
+		<Name>SummaryTabToolbar</Name>
+		<Value>JavaWindow("Collaborative Product").JavaToolbar("SummaryTabToolbar")</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties_Button</Name>
+		<Value>JavaWindow("Collaborative Product").JavaButton("Properties_Button")</Value>
+	</Variable>
+	<Variable>
+		<Name>Search</Name>
+		<Value>JavaWindow("Collaborative Product").JavaEdit("Search")</Value>
+	</Variable>
+	<Variable>
+		<Name>NavTree</Name>
+		<Value>JavaWindow("Collaborative Product").JavaTree("NavTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchResultTree</Name>
+		<Value>JavaWindow("Collaborative Product").JavaTree("SearchResultTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>TCComponentTab</Name>
+		<Value>JavaWindow("Collaborative Product").JavaObject("TCComponentTab")</Value>
+	</Variable>
+	<Variable>
+		<Name>Collaborative Product</Name>
+		<Value>JavaWindow("Collaborative Product")</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateDesignElement</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("CreateDesignElement")</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEditEffectivity</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("ViewEditEffectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>CategoryChange</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("CategoryChange")</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateDesignElement</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("UpdateDesignElement")</Value>
+	</Variable>
+	<Variable>
+		<Name>Revise</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("Revise")</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdatePartitionFromPartitionItem</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("UpdatePartitionFromPartitionItem")</Value>
+	</Variable>
+	<Variable>
+		<Name>TargetModelCarryoverOptions</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("TargetModelCarryoverOptions")</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdatePartitionFromPartitionTemplate</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("UpdatePartitionFromPartitionTemplate")</Value>
+	</Variable>
+	<Variable>
+		<Name>CreatePartitionInPartitionTemplate</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("CreatePartitionInPartitionTemplate")</Value>
+	</Variable>
+	<Variable>
+		<Name>SummaryTab</Name>
+		<Value>JavaWindow("Collaborative Product").JavaTab("SummaryTab")</Value>
+	</Variable>
+	<Variable>
+		<Name>CreatePartitionInCD</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("CreatePartitionInCD")</Value>
+	</Variable>
+	<Variable>
+		<Name>Modelcontentcloneandinstantiation</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("Modelcontentcloneandinstantiation")</Value>
+	</Variable>
+	<Variable>
+		<Name>Modelcloneandrealization</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("Modelcloneandrealization")</Value>
+	</Variable>
+	<Variable>
+		<Name>ImageHyperlink</Name>
+		<Value>JavaWindow("Collaborative Product").JavaObject("ImageHyperlink")</Value>
+	</Variable>
+	<Variable>
+		<Name>MorePropertiesHyperlink</Name>
+		<Value>JavaWindow("Collaborative Product").JavaObject("MorePropertiesHyperlink")</Value>
+	</Variable>
+	<Variable>
+		<Name>TargetProperties</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("TargetProperties")</Value>
+	</Variable>
+	<Variable>
+		<Name>EffectivityTable</Name>
+		<Value>JavaWindow("Collaborative Product").JavaTree("EffectivityTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>AdvancedAccountabilityCheck</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("AdvancedAccountabilityCheck")</Value>
+	</Variable>
+	<Variable>
+		<Name>ComponentTree</Name>
+		<Value>JavaWindow("Collaborative Product").JavaTree("ComponentTree")</Value>
+	</Variable>	
+		<Variable>
+		<Name>TCComponentTab1</Name>
+		<Value>JavaWindow("Collaborative Product").JavaTab("TCComponentTab")</Value>
+	</Variable>
+	<Variable>
+		<Name>Options</Name>
+		<Value>JavaWindow("Collaborative Product").JavaObject("Options")</Value>
+	</Variable>	
+	<Variable>
+		<Name>VariantNatTable</Name>
+		<Value>JavaWindow("Collaborative Product").JavaObject("VariantNatTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>DateTimeImageHyperlink</Name>
+		<Value>JavaWindow("Collaborative Product").JavaObject("DateTimeImageHyperlink")</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantConfigurationTable</Name>
+		<Value>JavaWindow("Collaborative Product").JavaTable("VariantConfigurationTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>LoadVariantRule</Name>
+		<Value>JavaWindow("Collaborative Product").JavaWindow("LoadVariantRule")</Value>
+	</Variable>
+</Environment>

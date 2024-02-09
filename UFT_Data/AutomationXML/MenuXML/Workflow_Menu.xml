@@ -1,0 +1,70 @@
+<Environment>
+	<Variable>
+		<Name>Assign Participants</Name>
+		<Value>Tools:Assign Participants...</Value>
+	</Variable>
+	<Variable>
+		<Name>Action Perform</Name>
+		<Value>Actions:Perform</Value>
+	</Variable>
+	<Variable>
+		<Name>ResourcePoolSubscription</Name>
+		<Value>Tools:Resource Pool Subscription...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCopyWorkflowProcess</Name>
+		<Value>Edit:Copy Workflow Process</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsClaimTask</Name>
+		<Value>Actions:Claim Task</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewRootTemplate</Name>
+		<Value>File:New Root Template...</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionAbort</Name>
+		<Value>Actions:Abort</Value>
+	</Variable>	
+	<Variable>
+		<Name>ActionSuspend</Name>
+		<Value>Actions:Suspend</Value>
+	</Variable>	
+	<Variable>
+		<Name>ActionsPromote</Name>
+		<Value>Actions:Promote</Value>
+	</Variable>	
+	<Variable>
+		<Name>ProcessAssignmentList</Name>
+		<Value>Tools:Process Assignment List:Create/Edit...</Value>
+	</Variable>
+	<Variable>
+		<Name>Action StandIn</Name>
+		<Value>Actions:Stand-In</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionResume</Name>
+		<Value>Actions:Resume</Value>
+	</Variable>
+		<Variable>
+		<Name>ActionComplete</Name>
+		<Value>Actions:Complete</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsDemote</Name>
+		<Value>Actions:Demote</Value>
+	</Variable>
+	<Variable>
+		<Name>OutOfOfficeAssistant</Name>
+		<Value>Tools:Out Of Office Assistant...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditModeBrowse</Name>
+		<Value>Edit:Mode:Browse</Value>
+	</Variable>
+	<Variable>
+		<Name>EditTemplateFilter</Name>
+		<Value>Edit:Template Filter</Value>
+	</Variable>
+</Environment>

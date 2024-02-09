@@ -1,0 +1,165 @@
+<Environment>
+	<Variable>
+		<Name>InvalidFinishDate</Name>
+		<Value>The Task "taskname" cannot finish (FinishDate) before it starts (StartDate).</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidEndDate</Name>
+		<Value>The activities end date cannot be earlier than the activities start date.</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignCharacteristic</Name>
+		<Value>"Assign Characteristic" cannot be performed as the Job Activity is not a leaf level Job Activity.</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLifeCharErr</Name>
+		<Value>Characteristic values can be recorded only for leaf level job card or job task.</Value>
+	</Variable>
+	<Variable>
+		<Name>CannotCreatePartMovement</Name>
+		<Value>The selected Job Card (JobCardName) has characteristics. A Part Movement cannot be related to a Job Card with characteristics.</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignCharacteristicPartMovementExist</Name>
+		<Value>"Assign Characteristic" cannot be performed on the Job Card since Job Activity has Part Movements defined.</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLifeCharacterErr</Name>
+		<Value>The characteristics definition cannot be added because a part movement exists for the job activity.</Value>
+	</Variable>
+	<Variable>
+		<Name>CannotPartMovementWithJobTask</Name>
+		<Value>The selected Job Card (JobCardName) has children. A Part Movement cannot be related to a Job Card with children.</Value>
+	</Variable>
+	<Variable>
+		<Name>PleaseConfirm</Name>
+		<Value>Selected Job Card or Job Task contains Part Movements.
+
+Do you want to create the Job Task?</Value>
+	</Variable>
+	<Variable>
+		<Name>CancelPartRequest</Name>
+		<Value>Are you sure you want to cancel part request PartRequestName?</Value>
+	</Variable>
+	<Variable>
+		<Name>ClosePartRequest</Name>
+		<Value>Are you sure you want to close part request PartRequestName?</Value>
+	</Variable>
+	<Variable>
+		<Name>DeferredSessions</Name>
+		<Value>Deferred Sessions are not allowed for Service Scheduler Schedules.</Value>
+	</Variable>	
+	<Variable>
+		<Name>InstallationDatecantbefuturedate</Name>
+		<Value>"[PartName]" was not installed, because the "Installation Time" property value cannot be a future date.</Value>
+	</Variable>	
+	<Variable>
+		<Name>InstallationDatecantbeearlierdate</Name>
+		<Value>The Installation Time cannot be earlier than the Manufacturing Date.</Value>
+	</Variable>		
+	<Variable>
+		<Name>ReturnPartsError</Name>
+		<Value>There are currently no parts to return in the "PhysicalLocation" location</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeLocationErrorinReturnPart</Name>
+		<Value>The installation date of the Physical Part "[PartId]" at this location cannot be earlier than the installation date at the source location.</Value>
+	</Variable>
+	<Variable>
+		<Name>IssuePartError</Name>
+		<Value>Action not permitted because Quantity in Part Request is being exceeded.</Value>
+	</Variable>
+	<Variable>
+		<Name>SetupUpgradeError</Name>
+		<Value>"Setup Upgrade" cannot be performed as the Job Card is not a leaf level Job Card.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnInstallPhysicalPartError</Name>
+		<Value>Do you want to uninstall the Physical Part from As-Built structure?</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteError</Name>
+		<Value>No additional objects of type "Physical Element Revision" can be attached with a relation "Product Physical Part" under the object "RequestedAct" of type "Requested Activity Revision", because this would exceed the set limit for the secondary objects. Please refer to the rule for "Requested Activity Revision, Physical Element Revision, Product Physical Part"</Value>
+	</Variable>
+	<Variable>
+		<Name>RequiresServiceRequirementError</Name>
+		<Value>The object "@1" is already related to the object "@2" through the relation "Requires Service Requirement".</Value>
+	</Variable>
+	<Variable>
+		<Name>SatisfiesServiceRequirementRelationcreationfailed</Name>
+		<Value>Unable to create Business Object.EndLineThe relation "Satisfies Service Requirement" is only allowed for single level.</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateQualificationLevelError</Name>
+		<Value>Cannot add Qualification Level. A Level with the same name already exits.</Value>
+	</Variable>	
+	<Variable>
+		<Name>UniqueAttributeNameRuleError</Name>
+		<Value>The instance cannot be saved because it contains at least one attribute that violates a unique attribute rule.</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveReferencedLevelError</Name>
+		<Value>Cannot remove Qualification Level. The level is referenced by objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>QualificationlevelBlankError</Name>
+		<Value>The operation cannot be performed, because Qualifications cannot persist without qualification levels. Please add at least one qualification level to the Qualification "@", and try again.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteQualificationRefByJobcard</Name>
+		<Value>The instance is referenced.@The object is referenced by ", WorkCardName (SSP0WorkCardRevision)". Please report it to your system administrator.</Value>
+	</Variable>
+	<Variable>
+		<Name>QualificationUserAssignError</Name>
+		<Value>Qualifications cannot be assigned because the task "@" already has users assigned.</Value>
+	</Variable>
+	<Variable>
+		<Name>DesignateDisciplineQualAsgnmntError</Name>
+		<Value>Qualifications are assigned to the task. The designate discipline operation cannot be performed from here.</Value>
+	</Variable>	
+	<Variable>
+		<Name>ModifyReferencedQualificationError</Name>
+		<Value>Cannot modify this property. This Qualification has been assigned to Users.</Value>
+	</Variable>
+	<Variable>
+		<Name>QualificationReferencedbyanyObjectError</Name>
+		<Value>The instance is referenced.The object is referenced by ", JobCardName (SSS0JobCard)". Please report it to your system administrator.
+       </Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteQualificationRefByJobTask</Name>
+		<Value>The instance is referenced.@The object is referenced by ", JobTaskName (SSS0JobTask)". Please report it to your system administrator.</Value>
+	</Variable>
+	<Variable>
+		<Name>NoServicePlansErrorMsg</Name>
+		<Value>There are no service plans applicable for the selected physical part</Value>
+	</Variable>
+	<Variable>
+		<Name>SrcDisprelatetoSecReqMsg</Name>
+		<Value>Service Discrepancy is not related to Service Requirement. Please relate Service Discrepancy with Service Requirement to create Maintenance Action.</Value>
+	</Variable>
+	<Variable>
+		<Name>AffectingRelationMsg</Name>
+		<Value>Satisfies or Requires relations exist on the selected Requirement(s) which affect the generated Maintenance Actions and Tasks.@SrcReq</Value>
+	</Variable>
+	<Variable>
+		<Name>ManageDueDateMsg</Name>
+		<Value>Maintenance Extensions are submitted for Approval.</Value>
+	</Variable>
+	<Variable>
+		<Name>ManageDueDateError</Name>
+		<Value>The Maintenance Action "SrcReq" is already in due date extension process. The new process, therefore, cannot be started until the previous process has completed.</Value>
+	</Variable>
+	<Variable>
+		<Name>MACompletionErrorMsg</Name>
+		<Value>The maintenance action "RQ1" cannot be completed, because the required maintenance action "RQ2" is still open.</Value>
+	</Variable>
+	<Variable>
+		<Name>MACompletionConfirmationMsg</Name>
+		<Value>Job cards are scheduled and in-progress. Click OK if you still want to complete.</Value>
+	</Variable>
+	<Variable>
+		<Name>MACompletionMsg</Name>
+		<Value>Maintenance Action completed successfully.</Value>
+	</Variable>
+</Environment>

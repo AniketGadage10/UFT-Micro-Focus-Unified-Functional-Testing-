@@ -1,0 +1,231 @@
+<Environment>
+	<Variable>
+		<Name>Business Modeler</Name>
+		<Value>JavaWindow("Business Modeler")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewEventType</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewEventType")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewBusinessObject</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewBusinessObject")</Value>
+	</Variable>
+	<Variable>
+		<Name>Deleteobject</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("Deleteobject")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewAuditDefinition</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewAuditDefinition")</Value>
+	</Variable>
+	<Variable>
+		<Name>SubLOVAttachment</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("SubLOVAttachment")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewEventTypeMapping</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewEventTypeMapping")</Value>
+	</Variable>
+	<Variable>
+		<Name>Find Business Object</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("Find Business Object")</Value>
+	</Variable>
+	<Variable>
+		<Name>AuditTypeMapping</Name>
+		<Value>JavaWindow("Business Modeler").JavaTable("AuditTypeMapping")</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectEventType</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("SelectEventType")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewRevisionNamingRules</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewRevisionNamingRules")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewOperationInputProperty</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewOperationInputProperty")</Value>
+	</Variable>
+	<Variable>
+		<Name>AttachmentProperties</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("AttachmentProperties")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewServiceLibrary</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewServiceLibrary")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddLOVValue</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("AddLOVValue")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLOV</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewLOV")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewExternalDataType</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewExternalDataType")</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectProject</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("SelectProject")</Value>
+	</Variable>
+	<Variable>
+		<Name>MergeDataModel</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("MergeDataModel")</Value>
+	</Variable>
+	<Variable>
+		<Name>DataModelMergeResult</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("DataModelMergeResult")</Value>
+	</Variable>
+	<Variable>
+		<Name>AttachNamingRule</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("AttachNamingRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>RevisionNamingRuleAttach</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("RevisionNamingRuleAttach")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeepCopyRule</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("DeepCopyRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertyAttachment</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("PropertyAttachment")</Value>
+	</Variable>
+	<Variable>
+		<Name>DataModelInSynch</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("DataModelInSynch")</Value>
+	</Variable>
+	<Variable>
+		<Name>SynchronizingDataDialog</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("SynchronizingDataDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>Deployment Complete</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("Deployment Complete")</Value>
+	</Variable>
+	<Variable>
+		<Name>AttributeKeysNotification</Name>
+		<Value>Dialog("AttributeKeysNotification")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewCustomProperty</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewCustomProperty")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddFavorite</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("AddFavorite")</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertySelection</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("PropertySelection")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewDynamicLOV</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewDynamicLOV")</Value>
+	</Variable>
+	<Variable>
+		<Name>MainInnerTab2</Name>
+		<Value>JavaWindow("Business Modeler").JavaTab("MainInnerTab2")</Value>
+	</Variable>
+	<Variable>
+		<Name>Localization</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("Localization")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewGRMRule</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewGRMRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertyConstant</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("PropertyConstant")</Value>
+	</Variable>
+	<Variable>
+		<Name>TestDynamicLOV</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("TestDynamicLOV")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddNewModelElement</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("AddNewModelElement")</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfirmSaveModelAndReload</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("ConfirmSaveModelAndReload")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorWindow</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("ErrorWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewIdContext</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewIdContext")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewAlternateIdRule</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewAlternateIdRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewProject</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewProject")</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewConfiguration</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewProject").JavaWindow("ViewConfiguration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Reports</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("Reports")</Value>
+	</Variable>	
+	<Variable>
+		<Name>ConditionUsageReport</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("ConditionUsageReport")</Value>
+	</Variable>
+	<Variable>
+		<Name>InterdependentLOVAttachment</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("InterdependentLOVAttachment")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLibrary</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("NewLibrary")</Value>
+	</Variable>
+	<Variable>
+		<Name>NamingRuleAttachTable</Name>
+		<Value>JavaWindow("Business Modeler").JavaTable("NamingRuleAttachTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectProperties</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("ProjectProperties")</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertiesOfObject</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("PropertiesOfObject")</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertyTable</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("PropertiesOfObject").JavaTable("PropertyTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>OperationsTree</Name>
+		<Value>JavaWindow("Business Modeler").JavaTree("OperationsTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>OperationsTable</Name>
+		<Value>JavaWindow("Business Modeler").JavaTable("OperationsTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>OverrideOperation</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("OverrideOperation")</Value>
+	</Variable>
+	<Variable>
+		<Name>UpgradeAndLoad</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("ImportProject").JavaWindow("Upgrade and Load projects")</Value>
+	</Variable>
+	<Variable>
+		<Name>BmideGenericWindowToCloseDialogs</Name>
+		<Value>JavaWindow("Business Modeler").JavaWindow("BmideGenericWindowToCloseDialogs")</Value>
+	</Variable>
+	
+</Environment>

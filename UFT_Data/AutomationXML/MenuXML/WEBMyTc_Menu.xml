@@ -1,0 +1,42 @@
+<Environment>
+	<Variable>
+		<Name>NewVendor</Name>
+		<Value>New:Vendor...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewBidPackage</Name>
+		<Value>New:Bid Package...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewCommercialPart</Name>
+		<Value>New:Commercial Part...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewVendorPart</Name>
+		<Value>New:Vendor Part...</Value>
+	</Variable>
+	<Variable>
+		<Name>AddVendorRole</Name>
+		<Value>Tools:Add Vendor Role...</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveVendorRole</Name>
+		<Value>Tools:Remove Vendor Role...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsImportSpecification</Name>
+		<Value>Tools:Import Specification...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsGlobalAlternates</Name>
+		<Value>Tools:Global Alternates</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsChangeVendor</Name>
+		<Value>Tools:Change Vendor...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewAuditLogs</Name>
+		<Value>View:Audit:View Audit Logs</Value>
+	</Variable>
+</Environment>

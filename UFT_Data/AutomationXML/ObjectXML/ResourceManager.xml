@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>NewResourceDialog</Name>
+		<Value>JavaWindow("ResourceManagerWindow").JavaWindow("ResourceManagerSubWindow").JavaDialog("NewResource")</Value>
+	</Variable>
+	<Variable>
+		<Name>ClassificationInformationDialog</Name>
+		<Value>JavaWindow("ResourceManagerWindow").JavaWindow("ResourceManagerSubWindow").JavaDialog("ClassificationInformation")</Value>
+	</Variable>
+	<Variable>
+		<Name>NavTreeTable</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame").JavaTable("NavTreeTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>ResourceMgrApplet</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>ResourceMgrApplet1</Name>
+		<Value>JavaWindow("ResourceManagerWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>	
+</Environment>

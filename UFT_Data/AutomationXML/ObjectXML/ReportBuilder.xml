@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>CreateReportDefinition</Name>
+		<Value>JavaWindow("ReportBuilderWindow").JavaApplet("ReportBuilderApplet").JavaDialog("CreateReportDefinition")</Value>
+	</Variable>
+</Environment>

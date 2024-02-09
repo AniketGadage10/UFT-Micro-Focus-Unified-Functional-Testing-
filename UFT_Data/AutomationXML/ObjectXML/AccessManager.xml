@@ -1,0 +1,18 @@
+<Environment>
+	<Variable>
+		<Name>AccMgrApplet</Name>
+		<Value>JavaWindow("Default Teamcenter Window").JavaWindow("AccMgrApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>AccMgrApplet @2</Name>
+		<Value>Window("AccessManagerWindow").JavaApplet("AccMgrApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>AMRules</Name>
+		<Value>JavaWindow("Default Teamcenter Window").JavaWindow("AMRules")</Value>
+	</Variable>
+	<Variable>
+		<Name>AMCRules</Name>
+		<Value>JavaWindow("Default Teamcenter Window").JavaWindow("AMRules")</Value>
+	</Variable>
+</Environment>

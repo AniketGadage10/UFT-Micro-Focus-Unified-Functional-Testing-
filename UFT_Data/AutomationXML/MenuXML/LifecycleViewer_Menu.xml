@@ -1,0 +1,150 @@
+<Environment>
+	<Variable>
+		<Name>SaveSession</Name>
+		<Value>File:Save Session</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveSessionAs</Name>
+		<Value>File:Save Session As...</Value>
+	</Variable>
+	<Variable>
+		<Name>SavePLMXML</Name>
+		<Value>File:Save As...</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowNewWindow</Name>
+		<Value>Window:New Window</Value>
+	</Variable>
+	<Variable>
+		<Name>Toolbars2DViewing</Name>
+		<Value>Toolbars:2D Viewing</Value>
+	</Variable>
+	<Variable>
+		<Name>Toolbars2DGDTMarkup</Name>
+		<Value>Toolbars:2D GDT Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsGDTMarkup</Name>
+		<Value>Tools:GD&amp;T Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>GDTMarkupNewLayer</Name>
+		<Value>GD&amp;T Markup:New Layer</Value>
+	</Variable>
+	<Variable>
+		<Name>Toolbars2DMarkup</Name>
+		<Value>Toolbars:2D Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>Toolbars2DMeasurement</Name>
+		<Value>Toolbars:2D Measurement</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsSection3D</Name>
+		<Value>Tools:Section3D</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DCreateSectionZ</Name>
+		<Value>Section3D:Create Section:Z</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DSendto2D</Name>
+		<Value>Section3D:Send to 2D</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DSendto3D</Name>
+		<Value>Section3D:Send to 3D</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAssembly</Name>
+		<Value>Tools:Assembly</Value>
+	</Variable>
+	<Variable>
+		<Name>AssemblyCreateAltHierarchyFromVisible</Name>
+		<Value>Assembly:Create Alt Hierarchy:From Visible</Value>
+	</Variable>
+	<Variable>
+		<Name>FileExport</Name>
+		<Value>File:Export...</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DPreferences</Name>
+		<Value>Section3D:Preferences...</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DPositionPlane</Name>
+		<Value>Section3D:Position Plane:Use Slider...</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DCreateSectionY</Name>
+		<Value>Section3D:Create Section:Y</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DCreateSectionX</Name>
+		<Value>Section3D:Create Section:X</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DClippingNear</Name>
+		<Value>Section3D:Clipping:Near</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsOutlineCaptureCurrent3DWindow</Name>
+		<Value>Actions:Outline Capture:Current 3D Window</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DDelete</Name>
+		<Value>Section3D:Delete</Value>
+	</Variable>
+	<Variable>
+		<Name>Section3DClippingBoth</Name>
+		<Value>Section3D:Clipping:Both</Value>
+	</Variable>
+	<Variable>
+		<Name>LCVActionsFilters</Name>
+		<Value>Actions:Filters...</Value>
+	</Variable>
+	<Variable>
+		<Name>MarkupNewLayer</Name>
+		<Value>Markup:New Layer</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSnapshots</Name>
+		<Value>Tools:Snapshots</Value>
+	</Variable>
+	<Variable>
+		<Name>SnapshotsAdd</Name>
+		<Value>Snapshots:Add</Value>
+	</Variable>
+	<Variable>
+		<Name>SnapshotsToggleView</Name>
+		<Value>Snapshots:Toggle View</Value>
+	</Variable>
+	<Variable>
+		<Name>AssemblyShowLeafStructure</Name>
+		<Value>Assembly:Show Leaf Structure</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsComparison</Name>
+		<Value>Tools:Comparison</Value>
+	</Variable>
+	<Variable>
+		<Name>ComparisonGeometrySetPartGroup1</Name>
+		<Value>Comparison:Geometry:Set Part Group 1</Value>
+	</Variable>
+	<Variable>
+		<Name>ComparisonGeometrySetPartGroup2</Name>
+		<Value>Comparison:Geometry:Set Part Group 2</Value>
+	</Variable>
+	<Variable>
+		<Name>ComparisonGeometryTricolorMapping</Name>
+		<Value>Comparison:Geometry:Tricolor Mapping</Value>
+	</Variable>
+	<Variable>
+		<Name>ComparisonPreferences</Name>
+		<Value>Comparison:Preferences...</Value>
+	</Variable>
+	<Variable>
+		<Name>GDTMarkupAnnotationEditor</Name>
+		<Value>GD&amp;T Markup:GD&amp;T Annotation Editor...</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,94 @@
+<Environment>	
+	<Variable>
+		<Name>Collaborative Design</Name>
+		<Value>Product Design</Value>
+	</Variable>
+	<Variable>
+		<Name>Design Element</Name>
+		<Value>Design Component</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Scheme Functional</Name>
+		<Value>Function</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Scheme Physical</Name>
+		<Value>Physical</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Scheme Spatial</Name>
+		<Value>Spatial Zone</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Scheme System</Name>
+		<Value>System</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Design</Name>
+		<Value>Design Partition</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Functional</Name>
+		<Value>Functional Partition</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Manufacturing</Name>
+		<Value>Manufacturing Partition</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition System</Name>
+		<Value>System Partition</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Zone</Name>
+		<Value>Zone Partition</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Design Item</Name>
+		<Value>Design Partition Item</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Functional Item</Name>
+		<Value>Functional Partition Item</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Manufacturing Item</Name>
+		<Value>Manufacturing Partition Item</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition System Item</Name>
+		<Value>System Partition Item</Value>
+	</Variable>
+	<Variable>
+		<Name>Partition Zone Item</Name>
+		<Value>Zone Partition Item</Value>
+	</Variable>
+	<Variable>
+		<Name>Design Element Name</Name>
+		<Value>Name</Value>
+	</Variable>
+	<Variable>
+		<Name>Design Element ID</Name>
+		<Value>ID</Value>
+	</Variable>
+	<Variable>
+		<Name>Clone of Design Elements</Name>
+		<Value>Clone of Design Components</Value>
+	</Variable>
+	<Variable>
+		<Name>Instantiation of Design Elements</Name>
+		<Value>Instantiation of Design Components</Value>
+	</Variable>
+	<Variable>
+		<Name>Apply effecitivity based on source Design Elements</Name>
+		<Value>Apply effecitivity based on source Design Components</Value>
+	</Variable>
+	<Variable>
+		<Name>Apply variant conditions based on source Design Elements</Name>
+		<Value>Apply variant conditions based on source Design Components</Value>
+	</Variable>
+	<Variable>
+		<Name>Model Reuse Element Information</Name>
+		<Value>Model Reuse Information</Value>
+	</Variable>
+</Environment>

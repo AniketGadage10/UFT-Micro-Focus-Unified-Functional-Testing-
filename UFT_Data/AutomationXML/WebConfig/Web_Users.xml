@@ -1,0 +1,18 @@
+<Environment>
+	<Variable>
+		<Name>webChangeAnalyst</Name>
+		<Value>webuser01:webuser01:Change Analysts &amp; leads:Change Analyst::webuser01</Value>
+	</Variable>
+	<Variable>
+		<Name>webUser02</Name>
+		<Value>webuser02:webuser02:Engineering:Designer::webuser02</Value>
+	</Variable>
+	<Variable>
+		<Name>webUser03</Name>
+		<Value>webuser03:webuser03:Engineering:Designer::webuser03</Value>
+	</Variable>
+	<Variable>
+		<Name>webUser04</Name>
+		<Value>webuser04:webuser04:CommandSuppression:Designer::webuser04</Value>
+	</Variable>
+</Environment>

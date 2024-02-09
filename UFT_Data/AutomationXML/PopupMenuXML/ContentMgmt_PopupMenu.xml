@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>EditTopic</Name>
+		<Value>Edit:Edit Topic</Value>
+	</Variable>	
+	<Variable>
+		<Name>ShowInPublicationStructure</Name>
+		<Value>Show In Publication Structure</Value>
+	</Variable>	
+</Environment>

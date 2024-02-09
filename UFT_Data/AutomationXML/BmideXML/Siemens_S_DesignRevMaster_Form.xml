@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rendering>
+    <page title="General" titleKey="General" >
+         <property name="s4_WeldingDrawing" renderingHint="lovuicomp"/>
+      
+         <property name="item_revision_id" renderingHint="textfield"/>
+         <property name="x_RevisionState"/>
+   </page>
+</rendering>

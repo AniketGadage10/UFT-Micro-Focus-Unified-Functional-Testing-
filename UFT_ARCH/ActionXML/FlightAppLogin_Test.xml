@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>AgentName</Name>
+		<Value><![CDATA[John]]></Value>
+	</Variable>
+	<Variable>
+		<Name>Password</Name>
+		<Value><![CDATA[65b8b54d807c0665c46a]]></Value>
+	</Variable>
+</Environment>

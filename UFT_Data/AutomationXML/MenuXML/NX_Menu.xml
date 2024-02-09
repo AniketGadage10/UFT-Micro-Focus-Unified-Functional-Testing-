@@ -1,0 +1,70 @@
+<Environment>
+	<Variable>
+		<Name>SaveAll</Name>
+		<Value>File:Save:Save All</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveOptions</Name>
+		<Value>File:Save:Save Options...</Value>
+	</Variable>
+	<Variable>
+		<Name>CloseAllParts</Name>
+		<Value>File:Close:All Parts</Value>
+	</Variable>
+	<Variable>
+		<Name>Exit</Name>
+		<Value>File:Exit</Value>
+	</Variable>
+	<Variable>
+		<Name>Copy</Name>
+		<Value>Menu:Edit:Copy</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>Menu:Edit:Paste</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandtoVisible</Name>
+		<Value>Tools:Assembly Navigator:Expand to Visible</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandAllComponents</Name>
+		<Value>Tools:Assembly Navigator:Expand All Components</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties</Name>
+		<Value>Edit:Properties...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignMaterials</Name>
+		<Value>Tools:Materials:Assign Materials...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileUtilitiesCustomerDefaults</Name>
+		<Value>File:Utilities:Customer Defaults...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileSaveSaveAs</Name>
+		<Value>File:Save:Save As...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewItem</Name>
+		<Value>File:New:Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateCloneAssembly</Name>
+		<Value>Menu:Assemblies:Cloning:Create Clone Assembly</Value>
+	</Variable>
+	<Variable>
+		<Name>MenuInsertDesignFeatureBlock</Name>
+		<Value>Menu:Insert:Design Feature:Block...</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsNonMasterParts</Name>
+		<Value>File:Save:Save As Non-master Parts</Value>
+	</Variable>
+	<Variable>
+		<Name>FileOpen</Name>
+		<Value>File:Open...	Ctrl+O</Value>
+	</Variable>
+</Environment>

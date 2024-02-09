@@ -1,0 +1,58 @@
+ <Environment>
+	<Variable>
+		<Name>Requirement Revision_Paragraph Revision_default_relation</Name>
+		<Value>Requirement Revision_Paragraph Revision_default_relation</Value>
+	</Variable>
+	<Variable>
+		<Name>Requirement Revision_M3SEItem_AutoRevision_default_relation</Name>
+		<Value>Requirement Revision_M3SEItem_AutoRevision_default_relation</Value>
+	</Variable>
+	<Variable>
+		<Name>Requirement Revision_M3SEFunc_AutoRevision_default_relation</Name>
+		<Value>Requirement Revision_M3SEFunc_AutoRevision_default_relation</Value>
+	</Variable>
+	<Variable>
+		<Name>Requirement Revision_Requirement Revision_default_relation</Name>
+		<Value>Requirement Revision_Requirement Revision_default_relation</Value>
+	</Variable>
+	<Variable>
+		<Name>FunctionalityRevision_FunctionalityRevision_default_relation</Name>
+		<Value>FunctionalityRevision_FunctionalityRevision_default_relation</Value>
+	</Variable>
+	<Variable>
+		<Name>FunctionalityRevision_Requirement Revision_default_relation</Name>
+		<Value>FunctionalityRevision_Requirement Revision_default_relation</Value>
+	</Variable>
+	<Variable>
+		<Name>M3SEFunc_AutoRevision_Requirement Revision_default_relation</Name>
+		<Value>M3SEFunc_AutoRevision_Requirement Revision_default_relation</Value>
+	</Variable>	
+		<Variable>
+		<Name>M3SEFunc_AutoRevision_M3SEItem_AutoRevision_default_relation</Name>
+		<Value>M3SEFunc_AutoRevision_M3SEItem_AutoRevision_default_relation</Value>
+	</Variable>	
+	<Variable>
+		<Name>Paragraph Revision_FunctionalityRevision_default_relation</Name>
+		<Value>Paragraph Revision_FunctionalityRevision_default_relation</Value>
+	</Variable>	
+	<Variable>
+		<Name>M3SEFunc_AutoRevision_M3SELogic_AutoRevision_default_relation</Name>
+		<Value>M3SEFunc_AutoRevision_M3SELogic_AutoRevision_default_relation</Value>
+	</Variable>
+	<Variable>
+		<Name>M3SELogic_AutoRevision_M3SEFunc_AutoRevision_default_relation</Name>
+		<Value>M3SELogic_AutoRevision_M3SEFunc_AutoRevision_default_relation</Value>
+	</Variable>	
+	<Variable>
+		<Name>TCAllowedParentTypes_Requirement</Name>
+		<Value>TCAllowedParentTypes_Requirement</Value>
+	</Variable>	
+	<Variable>
+		<Name>TCAllowedParentTypes_Paragraph</Name>
+		<Value>TCAllowedParentTypes_Paragraph</Value>
+	</Variable>
+	<Variable>
+		<Name>Paragraph Revision_M3SEItem_AutoRevision_default_relation</Name>
+		<Value>Paragraph Revision_M3SEItem_AutoRevision_default_relation</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,53 @@
+<Environment>
+	<Variable>
+		<Name>DuplicateProjectID</Name>
+		<Value>Project ID already exists in the system. Project ID should be unique in a site.</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateProjectName</Name>
+		<Value>The group name # is used by its siblings or parent groups (either their group names or translations).</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectAssignmentError</Name>
+		<Value>0 out of 1 selections were assigned to projects.
+You have insufficient privilege to assign object (#) to Project</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteUserReferencedError</Name>
+		<Value>User is referenced by Signoff objects and hence cannot be deleted. User can be deactivated by changing the user status to inactive.</Value>
+	</Variable>
+	<Variable>
+		<Name>PORModifyErrMsg</Name>
+		<Value>Property  is not modifiable.</Value>
+	</Variable>
+	<Variable>
+		<Name>CopyPasteProjectProgramError</Name>
+		<Value>A child Project cannot be created under "#" because it is not a Program.</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemRevReviseErrmsg</Name>
+		<Value> Item  is not modifiable
+The current user does not have write access to the object "ItemName".</Value>
+	</Variable>
+	<Variable>
+		<Name>CutPasteProjectProgramError</Name>
+		<Value>#:
+SetProperties operation failed.
+The Project "*" cannot be removed from the
+Program "@" because the Program-Project hierarchy
+"%" is
+referenced in data.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveItemAsErrMsg</Name>
+		<Value> The "Save As" action performed on the object "ItemName" has failed.@The access is denied.</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectRemoveError</Name>
+		<Value>(1) [DatasetName]: The project(s) "Training" cannot be removed from the object "DatasetName" because the project(s) are propagated from some other object.</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectRemoveError1</Name>
+		<Value>(1) [ItemRev]: The project(s) "Training" cannot be removed from the object "ItemRev" because the project(s) are propagated from some other object.</Value>
+	</Variable>
+</Environment>

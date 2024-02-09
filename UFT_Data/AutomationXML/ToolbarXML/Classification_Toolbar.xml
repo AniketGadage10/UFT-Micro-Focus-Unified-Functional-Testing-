@@ -1,0 +1,30 @@
+<Environment>
+	<Variable>
+		<Name>NewInstance</Name>
+		<Value>NewInstance</Value>
+	</Variable>
+	<Variable>
+		<Name>NewICO</Name>
+		<Value>NewICO</Value>
+	</Variable>
+	<Variable>
+		<Name>Cancel</Name>
+		<Value>Cancel</Value>
+	</Variable>
+	<Variable>
+		<Name>Canceledit</Name>
+		<Value>Cancel edit</Value>
+	</Variable>	
+	<Variable>
+		<Name>SavecurrentInstance</Name>
+		<Value>Save current Instance</Value>
+	</Variable>	
+	<Variable>
+		<Name>EditcurrentInstance</Name>
+		<Value>Edit current Instance</Value>
+	</Variable>
+	<Variable>
+		<Name>Add/CreateNewInstance</Name>
+		<Value>Add or create a new Instance</Value>
+	</Variable>	
+</Environment>

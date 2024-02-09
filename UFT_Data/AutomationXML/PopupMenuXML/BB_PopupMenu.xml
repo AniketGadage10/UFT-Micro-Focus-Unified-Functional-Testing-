@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>MarkforOwnershipTransfer</Name>
+		<Value>Mark for Ownership Transfer</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddDataset</Name>
+		<Value>Add Dataset</Value>
+	</Variable>	
+</Environment>

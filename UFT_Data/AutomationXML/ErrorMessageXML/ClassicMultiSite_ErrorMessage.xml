@@ -1,0 +1,66 @@
+<Environment>
+	<Variable>
+		<Name>Checkout_ErrorMsg</Name>
+		<Value>The object cannot be checked-out because your site has neither "WRITE" nor "REMOTE CHECKOUT" access to its master copy at the site "SiteName". If the data is owned by the user "infodba", check the AM rule on objects owned by "infodba".</Value>
+	</Variable>	
+	<Variable>
+		<Name>RemoteImportCheckOutError</Name>
+		<Value>The replica to check-out is out-of-date. Re-import the object and then check it out.</Value>
+	</Variable>	
+	<Variable>
+		<Name>DeleteAccessError</Name>
+		<Value>The current user does not have delete access to the object "$".</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteItemError</Name>
+		<Value>The last revision of an Item cannot be independently deleted. Delete the Item object itself.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnabletoexportError</Name>
+		<Value>Unable to export .
+The Baseline Revision "Baseline#" used for a configured export has not been closed. Only closed Baseline Revisions can be selected to export, or used for a configured export.</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjectSyncDatasetError</Name>
+		<Value>Result of Object Synchronization
+Text - DS# replica is out of date. Use remote import to sync replica.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportObjectError</Name>
+		<Value>Insufficent privilege to perform this Import/Export operation.</Value>
+	</Variable>
+	<Variable>
+		<Name>Error</Name>
+		<Value>The requesting site is not the owning site</Value>
+	</Variable>
+	<Variable>
+	<Name>ObjectSyncItmAndDataset</Name>
+	<Value>Result of Object Synchronization
+Item Revision - Item# replica is out of date. Use remote import to sync replica.
+Text - Dataset$ replica is out of date. Use remote import to sync replica.
+</Value>
+	</Variable>	
+	<Variable>
+		<Name>ModifiableError</Name>
+		<Value>Item Revision Rev# is not modifiable
+Unable to lock a remote object - object RevB# is read-only
+"RevB#" is not checked-out.
+The instance is a local read-only copy.</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMViewError</Name>
+		<Value>All replica BOM View Revisions must be checked-in prior to checking in the associated replica BOM View.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReplicaItemRevCheckOutErrorMsg</Name>
+		<Value>The Replica object "ItemRev" cannot be checked-in because it contains checked-out attachments. Please run the "Check-In" or "Cancel Check-Out" operation on these attachments and try again.</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckedOutError</Name>
+		<Value>"Name#" is checked-out at a remote site. The operation must be performed at the remote site.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReplicaObjectCheckOutErrorMsg</Name>
+		<Value>The replica object "ObjectName" does not support the "Check-Out" operation.</Value>
+	</Variable>
+</Environment>

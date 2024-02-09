@@ -1,0 +1,34 @@
+<Environment>
+	<Variable>
+		<Name>ShowAll</Name>
+		<Value>Show All</Value>
+	</Variable>	
+	<Variable>
+		<Name>ShowOnlyLinkedObjects</Name>
+		<Value>Show Only Linked Objects</Value>
+	</Variable>	
+	<Variable>
+		<Name>ShowOnlyUnlinkedObjects</Name>
+		<Value>Show Only Unlinked Objects</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveViewConfiguration</Name>
+		<Value>Save View Configuration</Value>
+	</Variable>	
+	<Variable>
+		<Name>ApplyViewConfiguration</Name>
+		<Value>Apply View Configuration</Value>
+	</Variable>	
+	<Variable>
+		<Name>MarkAsPublishable</Name>
+		<Value>Mark As Publishable</Value>
+	</Variable>	
+	<Variable>
+		<Name>PublishColumnConfiguration</Name>
+		<Value>Publish Column Configuration</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowFilters</Name>
+		<Value>Show Filters</Value>
+	</Variable>
+</Environment>

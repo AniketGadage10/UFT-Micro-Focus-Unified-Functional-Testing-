@@ -1,0 +1,178 @@
+<Environment>
+	<Variable>
+		<Name>ArcWeldRevision</Name>
+		<Value>Arc Weld Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>CAEAnalysisRevision</Name>
+		<Value>CAE Analysis Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>CAEModelRevision</Name>
+		<Value>CAE Model Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeNoticeRevision</Name>
+		<Value>Change Request Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>ConnectionRevision</Name>
+		<Value>Connection Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>DatumPointRevision</Name>
+		<Value>Datum Point Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>DMTemplate</Name>
+		<Value>Document Template</Value>
+	</Variable>
+	<Variable>
+		<Name>DMTemplateRevision</Name>
+		<Value>Document Template Revision</Value>
+	</Variable>	
+	<Variable>
+		<Name>DocumentRevision</Name>
+		<Value>Document Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>ExcelTemplateRevision</Name>
+		<Value>Excel Template Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>Text</Name>
+		<Value>Text</Value>
+	</Variable>
+	<Variable>
+		<Name>FullText</Name>
+		<Value>Full Text</Value>
+	</Variable>
+	<Variable>
+		<Name>GCS_CP_PlugRevision</Name>
+		<Value>Plug Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>GCS_CP_SocketRevision</Name>
+		<Value>Socket Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MEDepartmentRevision</Name>
+		<Value>Department Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MELineRevision</Name>
+		<Value>Line Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MENCMachineRevision</Name>
+		<Value>NC Machine Revision</Value>
+	</Variable>	
+	<Variable>
+		<Name>MENCMachiningRevision</Name>
+		<Value>NC Machining Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MENCToolRevision</Name>
+		<Value>NC Tool Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>Coordinate_Measuring_Machine_Inspection</Name>
+		<Value>Coordinate Measuring Machine Inspection</Value>
+	</Variable>
+	<Variable>
+		<Name>MEOPRevision</Name>
+		<Value>Operation Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MEPlantRevision</Name>
+		<Value>Plant Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MEProcessRevision</Name>
+		<Value>Process Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MEResource</Name>
+		<Value>Resource</Value>
+	</Variable>
+	<Variable>
+		<Name>MEResourceRevision</Name>
+		<Value>Resource Revision</Value>
+	</Variable>	
+	<Variable>
+		<Name>MEStationRevision</Name>
+		<Value>Station Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MEWorkareaRevision</Name>
+		<Value>Workarea Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>MSExcel</Name>
+		<Value>MS Excel</Value>
+	</Variable>
+	<Variable>
+		<Name>MSExcelX</Name>
+		<Value>MS ExcelX</Value>
+	</Variable>
+	<Variable>
+		<Name>MSPowerPoint</Name>
+		<Value>MS PowerPoint</Value>
+	</Variable>
+		<Variable>
+		<Name>MSPowerPointX</Name>
+		<Value>MS PowerPointX</Value>
+	</Variable>
+		<Variable>
+		<Name>MSWord</Name>
+		<Value>MS Word</Value>
+	</Variable>
+	<Variable>
+		<Name>MSWordX</Name>
+		<Value>MS WordX</Value>
+	</Variable>
+	<Variable>
+		<Name>NetworkRevision</Name>
+		<Value>Network Revision</Value>
+	</Variable>	
+	<Variable>
+		<Name>ObjectTemplateRevision</Name>
+		<Value>Object Template Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>ProblemReportRevision</Name>
+		<Value>Problem Report Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>RequirementSpecRevision</Name>
+		<Value>Requirement Spec Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>SpecTemplateRevision</Name>
+		<Value>Spec Template Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>WeldPointRevision</Name>
+		<Value>Weld Point Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>DirectModel</Name>
+		<Value>Direct Model</Value>
+	</Variable>
+	<Variable>
+		<Name>Image</Name>
+		<Value>Image</Value>
+	</Variable>
+	<Variable>
+		<Name>TIF</Name>
+		<Value>TIF</Value>
+	</Variable>
+	<Variable>
+		<Name>PDF</Name>
+		<Value>PDF</Value>
+	</Variable>
+	<Variable>
+		<Name>UGMASTER</Name>
+		<Value>UGMASTER</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,70 @@
+<Environment>
+	<Variable>
+		<Name>EditBudget</Name>
+		<Value>Edit Budget...</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithBudgetView</Name>
+		<Value>Open with:Budget View</Value>
+	</Variable>	
+	<Variable>
+		<Name>MoveUp</Name>
+		<Value>Move Up</Value>
+	</Variable>
+	<Variable>
+		<Name>MoveDown</Name>
+		<Value>Move Down</Value>
+	</Variable>
+	<Variable>
+		<Name>PromoteOneLevel</Name>
+		<Value>Promote One Level</Value>
+	</Variable>
+	<Variable>
+		<Name>DemoteOneLevel</Name>
+		<Value>Demote One Level</Value>
+	</Variable>
+	<Variable>
+		<Name>TraceLinkEndTraceLink</Name>
+		<Value>End Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>TraceLinkStartTraceLink</Name>
+		<Value>Start Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties</Name>
+		<Value>Properties	Alt+P</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteAsNew</Name>
+		<Value>Paste as New	Ctrl+Shift+V</Value>
+	</Variable>
+	<Variable>
+		<Name>FindInAllVisibleViews</Name>
+		<Value>Find in All Visible Views</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandAll</Name>
+		<Value>Expand All</Value>
+	</Variable>
+	<Variable>
+		<Name>ModifyColumn</Name>
+		<Value>Modify Column(s)...</Value>
+	</Variable>
+	<Variable>
+		<Name>FindInView</Name>
+		<Value>Find In View</Value>
+	</Variable>
+	<Variable>
+		<Name>CustomNote</Name>
+		<Value>Custom Note</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithReqExpView</Name>
+		<Value>Open with:Requirement Expression View</Value>
+	</Variable>	
+	<Variable>
+		<Name>GoToObject</Name>
+		<Value>Go To Object</Value>
+	</Variable>
+</Environment>

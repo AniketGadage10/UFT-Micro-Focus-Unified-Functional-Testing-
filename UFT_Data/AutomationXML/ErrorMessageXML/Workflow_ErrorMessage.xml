@@ -1,0 +1,190 @@
+<Environment>
+	<Variable>
+		<Name>BusinessRuleHandlerNotMetError</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.</Value>
+	</Variable>
+	<Variable>
+		<Name>BusinessRuleHandlerNotMetDetailsError_NoProperty</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+The task attachment object "object_name" contains invalid values for the following properties: property_name</Value>
+	</Variable>
+	<Variable>
+		<Name>BusinessRuleHandlerNotMetDetailsError_CondNotSatisfy</Name>
+		<Value>Object 'object_name' of type 'Object_type' doesn't satisfy the condition.</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignedProcessWarning</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignedProcessWarning_Details</Name>
+		<Value>Action handler 'handler_name' on action 'action_name' in task 'task_name' recorded the following 1 entries.</Value>
+	</Variable>
+	<Variable>
+		<Name>Incorrectpwd_SecuredTask</Name>
+		<Value>An incorrect password is provided for the secure task.</Value>
+	</Variable>
+	<Variable>
+		<Name>TargetObjectError</Name>
+		<Value>Target object, 'ObjectName' should have 'ObjectType' in 'Relation1' attachments 'Relation2'.</Value>
+	</Variable>
+	<Variable>
+		<Name>Release_Invalid_Status</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+The release status of the target "ObjectName" is invalid.</Value>
+	</Variable>	
+	<Variable>
+		<Name>TargetObjectError01</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+Target object, 'ObjectName' should have 'ObjectType' with no release status in 'Relation' attachments.</Value>
+	</Variable>	
+	<Variable>
+		<Name>TargetObjectError02</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+Target object, 'ObjectName' should have 'ObjectType' with any of 'Process_Status' statuses, in 'Relation' attachments.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnableToOpen</Name>
+		<Value>The selected object is neither a Workflow Process nor a Task. It does not have an associated Workflow Process either. Hence it cannot be opened in Workflow Viewer.</Value>
+	</Variable>
+	<Variable>
+		<Name>InitalActionWarning</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow may have failed.</Value>
+	</Variable>
+	<Variable>
+		<Name>BusinessRuleHandlerNotMetDetailsError_Progression</Name>
+		<Value>One or more components are at lower level than the assembly status, 'ASM_STATUS'</Value>
+	</Variable>
+	<Variable>
+		<Name>NotAnAuthorizedUser</Name>
+		<Value>You are not an authorized user.</Value>
+	</Variable>
+	<Variable>
+		<Name>InitalActionWarning@2</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.
+Action handler 'handler_name' on action 'action_name' in task 'task_name' recorded the following 1 entries.
+No attachment of the specified type can be found.</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrRefreshFolder</Name>
+		<Value>The action cannot be executed because the task folder is out of date. Please refresh your "FolderName" folders and reconsider your action.</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrInvalidArguments</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.
+Action handler 'handler_name' on action 'action_name' in task 'task_name' recorded the following 1 entries.
+Invalid Arguments Supplied - Please specify 'source_task' only when '-source=task' is specified.</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrInvalidUser</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.
+Action handler 'handler_name' on action 'action_name' in task 'task_name' recorded the following 1 entries.
+The assignee argument value "argument_value" could not be resolved either as a "GroupMember", or as a "ResourcePool".</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrSourceTask</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.
+Action handler 'handler_name' on action 'action_name' in task 'task_name' recorded the following 1 entries.
+A source Task "source_task" has not been properly specified.</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrNoTask</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.
+Action handler 'handler_name' on action 'action_name' in task 'task_name' recorded the following 1 entries.
+The required arguments are missing for the handler.</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrAbortTask</Name>
+		<Value>The action cannot be executed because the task folder is out of date. Please refresh your "My Worklist" folders and reconsider your action.</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrNumberOfReviewersAssigned</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+The number of reviewers assigned to the task "task_name" must be at least Number_reviewers.</Value>
+	</Variable>
+	<Variable>
+		<Name>TaskResultToValidValue</Name>
+		<Value>The task result must be set to a valid value before performing the "action_name" action.</Value>
+	</Variable>
+	<Variable>
+		<Name>Release_Invalid_Status_Analyst</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.@One of the following must apply to the current user in order to complete the action: a member of role_name.</Value>
+	</Variable>	
+	<Variable>
+		<Name>InterprocessTaskDependenciesError</Name>
+		<Value>Interprocess Task Dependencies not met for task 'process_name'.</Value>
+	</Variable>
+	<Variable>
+	<Name>ChangeUserSettingError2</Name>
+	<Value>Your current group/role, "group_name1/role_name1", does not match the required group/role, "group_name2/role_name2".
+Do you want to change your current user setting to "group_name3/role_name3"?</Value>
+	</Variable>
+	<Variable>
+		<Name>AttachmentsPanelCutError</Name>
+		<Value>Property Targets is not modifiable.</Value>
+	</Variable>
+	<Variable>
+		<Name>BusinessRuleHandlerNotMetError_ForChecked_out_ErrorMsg</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+"rev_name" is checked-out by "user".</Value>
+	</Variable>	
+	<Variable>
+		<Name>ErrorMsgOnActionPerform</Name>
+		<Value>The action "Complete", which has been triggered by the task "task_name", is not applicable because its current state is "Completed".</Value>
+	</Variable>
+	<Variable>
+		<Name>DrawingRevisionErrMsg</Name>
+		<Value>Business rules for handler 'EPM-validate-target-objects' on action 'Start' in task 'EPM-validate-target-objects_DisallowMultiType' are not met.
+Target object type 'DocumentRevision' is invalid. The handler arguments are as follows: '-include_type=ItemRevision-exclude_type=DocumentRevision,DrawingRevision'</Value>
+	</Variable>
+	<Variable>
+		<Name>SignoffDoTaskErrMsg</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.
+Business rules for handler 'EPM-validate-target-objects' on action 'Complete' in task 'New Add Status Task 1' are not met.
+Target object type 'Drawing Revision' is invalid. The handler arguments are as follows: '-include_type=ItemRevision-exclude_type=Drawing Revision'</Value>
+	</Variable>
+	<Variable>
+		<Name>NonExistingWarningMsg</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.
+Action handler 'handler_name' on action 'action_name' in task 'task_name' recorded the following 1 entries.
+Unable to find a property with name ItemRevision/non_existing.</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemRevisionErrMsg</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+Target object revision 'obj_rev' is invalid. The handler arguments are as follows: 'arg_value'</Value>
+	</Variable>
+	<Variable>
+		<Name>SignoffsErrorMsg</Name>
+		<Value>Action handler 'handler_name' on action 'action_name' in task 'task_name' recorded the following 1 entries.
+Signoff comments required for this 'decision_name' decision.</Value>
+	</Variable>
+	<Variable>
+		<Name>BusinessRuleHandlerCheckedout_WarningMsg</Name>
+		<Value>The initial action was successful, but a subsequent task in the workflow has failed.
+Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+"rev_name" is checked-out by "user".</Value>
+	</Variable>
+	<Variable>
+		<Name>BusinessRuleHandlerCheckedout_ErrorMsg</Name>
+		<Value>Business rules for handler 'handler_name' on action 'action_name' in task 'task_name' are not met.
+"rev_name" is checked-out by "user".</Value>
+	</Variable>
+	<Variable>
+		<Name>Checkedout_ErrorMsg</Name>
+		<Value>
+"rev_name" is checked-out by "user".</Value>
+	</Variable>		
+	<Variable>
+		<Name>IncorrectPwdForSecuredTask</Name>
+		<Value>Incorrect password entered for secured task. Please enter the correct password.</Value>
+	</Variable>
+	<Variable>
+	<Name>ChangeUserSettingError3</Name>
+	<Value>Your current group/role does not match the required group/role 'group_name/role_name'. Would you like to change your current user setting to 'group_name/role_name'?</Value>
+	</Variable>
+	<Variable>
+		<Name>BusinessRuleHandlerNotMetError@1</Name>
+		<Value>The Reviewer "@UserName" does not have "Read" access to the target attachments.</Value>
+	</Variable>
+</Environment>

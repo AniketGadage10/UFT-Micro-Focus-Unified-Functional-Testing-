@@ -1,0 +1,30 @@
+<Environment>
+	<Variable>
+		<Name>FormType_OfficeDocForm</Name>
+		<Value>Office Document Form</Value>
+	</Variable>
+	<Variable>
+		<Name>FormType_CMIICNForm</Name>
+		<Value>CMII CN Form</Value>
+	</Variable>
+	<Variable>
+		<Name>FormType_AllocationMapMasterForm</Name>
+		<Value>AllocationMap Master</Value>
+	</Variable>
+	<Variable>
+		<Name>FormType_BomChangeForm</Name>
+		<Value>BomChange Form</Value>
+	</Variable>
+	<Variable>
+		<Name>FormType_ItemMaster</Name>
+		<Value>Item Master</Value>
+	</Variable>
+	<Variable>
+		<Name>FormType_ItemRevisionMaster</Name>
+		<Value>ItemRevision Master</Value>
+	</Variable>
+	<Variable>
+		<Name>FormType_SpecificationMaster</Name>
+		<Value>Specification Master</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,171 @@
+<Environment>
+	<Variable>
+		<Name>FamilySaveErrorMsg</Name>
+		<Value>Unable to create Business Object.@The family "familyName" is not allowed to be set as a "ColName" family, because its data type "DataTypeName" does not allow multiple values.</Value>
+	</Variable>
+	<Variable>
+		<Name>SummaryTypeSaveError</Name>
+		<Value>The object "familyName" of type "Typename" cannot be saved, because the settings for the following properties are incompatible: Col1="Val1", Col2="Val2"..</Value>
+	</Variable>
+	<Variable>
+		<Name>PackageTypeSaveError</Name>
+		<Value>Unable to create Business Object.@The object "familyName" of type "Typename" cannot be saved, because the settings for the following properties are incompatible: Col1="Val1", Col2="Val2"..</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeinConfiguratorContext</Name>
+		<Value>Default Configurator Context is set to @. You need to restart all BOM based applications for change in Configurator Context to take effect.</Value>
+	</Variable>	
+	<Variable>
+		<Name>DuplicateFamilyErrMsg</Name>
+		<Value>The object "FamilyName" violates a uniqueness constraint for the family "FamilyName" in the namespace "Teamcenter".</Value>
+	</Variable>	
+	<Variable>
+		<Name>RemoveallocationErrMsg</Name>
+		<Value>Do you want to remove allocation of variant object(s)?</Value>
+	</Variable>
+	<Variable>
+		<Name>BooleanValueSaveErrorMsg</Name>
+		<Value>The object "FeatureName" is not unique, because the Feature "FeatureName" already exists in the family "FeatureName" which belongs to the namespace "Teamcenter".</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfigurationBasedSelectionError</Name>
+		<Value>The input variant rule expression "((([Teamcenter]..." is invalid for current product context. Product context rules are not considered while configuring the content.
+</Value>
+	</Variable>
+   <Variable>
+		<Name>CopyPasteFeatureMsg</Name>
+		<Value>Copy FeatureType FeatureName from Family1 to Family2?</Value>
+	</Variable>
+    <Variable>
+		<Name>FeatureAllocationErrMsg</Name>
+		<Value>FeatureName( Configurator Allocation ) : 
+1. The Feature "FeatureName" is not available.
+
+</Value>
+</Variable>		
+	<Variable>
+		<Name>FeatureAllocationErrMsg@1</Name>
+		<Value>FeatureName( Configurator Allocation ) : 
+1. The Feature "FeatureName" is not available.
+
+PackageOptionName( Configurator Allocation ) : 
+2. The implication constraint between the object "[[Teamcenter]PackageFamilyName]PackageOptionName" of type "Feature Package" and its members cannot be satisfied.
+
+</Value>
+	</Variable>
+	 <Variable>
+		<Name>FreeFormValidationError</Name>
+		<Value>Validation has failed with violations.
+Please review the violation recorded on tooltip of the columns in Variant Expression Editor view.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidInputError</Name>
+		<Value>1. The input expression clause "[Teamcenter]FamilyName = FreeFormValue" is invalid.
+
+</Value>
+	</Variable>
+	<Variable>
+		<Name>FreeFormValidationError@1</Name>
+		<Value>The input expression clause "[Teamcenter]FamilyName = FreeFormValue" is invalid.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidBooleanFamilyError</Name>
+		<Value>Unable to create Business Object.@The creation or update of values for the object "FamilyName" of type "Boolean Option" family is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>FeatureNotAvailableError</Name>
+		<Value>The Feature "FeatureName" is not available.</Value>
+	</Variable>
+	<Variable>
+		<Name>NosearchcriteriaErrMsg</Name>
+		<Value>No search criteria specified. At least one of the search criteria must be provided.</Value>
+	</Variable>
+	<Variable>
+		<Name>AccessDeniedErrorMsg</Name>
+		<Value>Unable to create Business Object.@The access is denied.</Value>
+	</Variable>
+	<Variable>
+		<Name>AccessDeniedErrorMsg@1</Name>
+		<Value>The object "GroupName/001" could not be loaded or refreshed. Please refer to the preceding errors in this error stack for more information.@The access is denied.@The "Write" access is denied on the object "GroupName" of class Group (Group).</Value>
+	</Variable>
+	<Variable>
+		<Name>AccessDeniedErrorMsg@2</Name>
+		<Value>The current user does not have delete access to the object "FeatureName".</Value>
+	</Variable>
+	<Variable>
+		<Name>IssuesavingexpressionsMsg</Name>
+		<Value>Some of the expressions were not saved successfully.
+Please review the exceptions recorded on the columns if the Variant Expression Editor view is open or in the client logs.</Value>
+	</Variable>
+	<Variable>
+		<Name>AccessDeniedError</Name>
+		<Value>The access is denied.</Value>
+	</Variable>
+		<Variable>
+		<Name>ValidationsuccessfulMessage</Name>
+		<Value>Validation is successful.</Value>
+	</Variable>
+	<Variable>
+		<Name>OperationFailedMessage</Name>
+		<Value>The operation has failed, because the Family "FAMILYNAME" contains </Value>
+	</Variable>
+	<Variable>
+		<Name>EffectivityValidationMessage</Name>
+		<Value>The Effectivity validation has failed for the object "OPTIONVALUEREV" of type "TYPE" which is allocating the object "OPTIONVALUE", because allocation cannot be more effective than its value revisions.</Value>
+	</Variable>
+	<Variable>
+		<Name>CutOperationMsg</Name>
+		<Value>Do you want to perform cut operation?</Value>
+	</Variable>
+	<Variable>
+		<Name>ReviseFamilyErrMsg</Name>
+		<Value>[The "Revise" operation for the object "FamilyNameWithRevision" of type "" has failed, because the revision of a discontinued WSO object is not supported.]</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidCriteriaErrMsg</Name>
+		<Value>The criteria applied for configuring the content are invalid.</Value>
+	</Variable>
+	<Variable>
+		<Name>CutNotAllowedMessage</Name>
+		<Value>Cut not allowed on following objects: @ConfigRuleID/001
+</Value>
+	</Variable>
+	<Variable>
+		<Name>PackageTypeSaveError@1</Name>
+		<Value>Unable to create Business Object.@The object "familyName" of type "Generic Compound Feature Family" cannot be defined as belonging to a "Free-form" family, because as such it would need to only contain a collection (AND/OR combination) of Features.</Value>
+	</Variable>
+	<Variable>
+		<Name>ImpreciseConfigurationErrMsg</Name>
+		<Value>The current configuration is imprecise. Guided mode supports only precise configuration.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidobjectsPasteErrMsg</Name>
+		<Value>Invalid objects to paste under the target.</Value>
+	</Variable>
+	<Variable>
+		<Name>FreeFormValueMaxcharsErrMsg</Name>
+		<Value>"The input string (msg) is too
+long (128 characters maximum allowed for
+Cfg0VariantExpressionTerm:cfg0ValueText).
+
+ Subject:
+([Teamcenter]"FN" = 'msg')
+
+Applicability:
+([CCID]ModelFamily = M1)"</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfigRuleValidationError</Name>
+		<Value>Validation has failed with violations.
+Please review the violation recorded on tooltip of the row in Configurator Rules view.</Value>
+	</Variable>
+	<Variable>
+		<Name>Removeallocationobjects</Name>
+		<Value>Do you want to remove allocation of variant object(s)?</Value>
+	</Variable>
+	<Variable>
+		<Name>FamilyCutError</Name>
+		<Value>The object "#" of type "Family" cannot be deallocated, unless dependent objects allocated by the Product Context "@" are deallocated. Please refer to the preceding errors in this error stack for more information.</Value>
+	</Variable>
+	
+</Environment>

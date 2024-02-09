@@ -1,0 +1,38 @@
+<Environment>
+	<Variable>
+		<Name>FreezeColumn</Name>
+		<Value>Freeze Column(s) ...</Value>
+	</Variable>
+	<Variable>
+		<Name>WorkflowTask</Name>
+		<Value>Workflow Task</Value>
+	</Variable>
+	<Variable>
+		<Name>LaunchWorkflowNow</Name>
+		<Value>Launch Workflow Now</Value>
+	</Variable>
+	<Variable>
+		<Name>ClearExpression</Name>
+		<Value>Clear Expression	 Del</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfigureVariantsBasedonSelection</Name>
+		<Value>Configure Variants Based on Selection(s)</Value>
+	</Variable>
+	<Variable>
+		<Name>ClearExpression@1</Name>
+		<Value>Clear Expression</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties@1</Name>
+		<Value>View Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>ClearUnconfiguredExpression</Name>
+		<Value>Clear Un-configured Expression</Value>
+	</Variable>
+	<Variable>
+		<Name>SplitExpression</Name>
+		<Value>Split Expression	 Ctrl + Alt + T</Value>
+	</Variable>
+</Environment>

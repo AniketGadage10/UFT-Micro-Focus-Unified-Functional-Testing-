@@ -1,0 +1,306 @@
+<Environment>
+	<Variable>
+		<Name>NewServicePlan</Name>
+		<Value>New:Service Plan...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowinServicePlanner</Name>
+		<Value>Show in Service Planner</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLot</Name>
+		<Value>New:Lot...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignParticipants</Name>
+		<Value>Assign Participants...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignNotices</Name>
+		<Value>Assign Notices</Value>
+	</Variable>
+	<Variable>
+		<Name>SetupDeviation</Name>
+		<Value>Setup Deviation...</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithActivities</Name>
+		<Value>Open with:Activities</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithTime</Name>
+		<Value>Open with:Time</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteAsMEResource</Name>
+		<Value>Paste As:MEResource</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteAsMEAssemble</Name>
+		<Value>Paste As:MEAssemble</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteAsMEDisassemble</Name>
+		<Value>Paste As:MEDisassemble</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteAsReplace</Name>
+		<Value>Paste As:Replace</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowPlanDetails</Name>
+		<Value>Show Plan Details</Value>
+	</Variable>
+	<Variable>
+		<Name>NewActivity</Name>
+		<Value>New:Activity...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewNotice</Name>
+		<Value>New:Notice...</Value>
+	</Variable>
+	<Variable>
+		<Name>GenerateAsMaintainedStructure</Name>
+		<Value>Generate As-Maintained Structure...</Value>
+	</Variable>
+	<Variable>
+		<Name>SetPreferredPhysicalLocation</Name>
+		<Value>Set Preferred Physical Location</Value>
+	</Variable>
+	<Variable>
+		<Name>NewWorkOrder</Name>
+		<Value>New:Work Order...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLifeCharacteristic</Name>
+		<Value>New:Life Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewObservationCharacteristic</Name>
+		<Value>New:Observation Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewDateCharacteristic</Name>
+		<Value>New:Date Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>ServiceEvent</Name>
+		<Value>New:Service Event...</Value>
+	</Variable>
+	<Variable>
+		<Name>PartMovement</Name>
+		<Value>New:Part Movement...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowInServiceEditor</Name>
+		<Value>Show in Service Editor</Value>
+	</Variable>
+	<Variable>
+		<Name>EditFrequency</Name>
+		<Value>Edit Frequency...</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties</Name>
+		<Value>Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>NewServiceRequirement</Name>
+		<Value>New:Service Requirement...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewFrequency</Name>
+		<Value>New:Frequency...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowPhysicalPartUsageHistory</Name>
+		<Value>Show Physical Part Usage History</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowUtilization</Name>
+		<Value>Show Utilization</Value>
+	</Variable>
+	<Variable>
+		<Name>DefinePartApplicability</Name>
+		<Value>Define Part Applicability</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithSummary</Name>
+		<Value>Open with:Summary</Value>
+	</Variable>
+	<Variable>
+		<Name>NewWorkCard</Name>
+		<Value>New:Work Card...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewJobCard</Name>
+		<Value>New:Job Card...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewJobTask</Name>
+		<Value>New:Job Task...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignCharacteristic</Name>
+		<Value>Assign Characteristic...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewPartRequest</Name>
+		<Value>New:Part Request...</Value>
+	</Variable>
+	<Variable>
+		<Name>CancelPartRequest</Name>
+		<Value>Cancel Part Request...</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateConfiguration</Name>
+		<Value>Update Configuration...</Value>
+	</Variable>
+	<Variable>
+		<Name>ClosePartRequest</Name>
+		<Value>Close Part Request...</Value>
+	</Variable>
+	<Variable>
+		<Name>ReturnParts</Name>
+		<Value>Return Parts...</Value>
+	</Variable>
+	<Variable>
+		<Name>IssuePart</Name>
+		<Value>Issue Part...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowContainsView</Name>
+		<Value>Show Contains View</Value>
+	</Variable>
+	<Variable>
+		<Name>LinkCrossScheduleDependency</Name>
+		<Value>Link:Create Cross Schedule Dependency</Value>
+	</Variable>
+	<Variable>
+		<Name>ProxyGotoHomeTask</Name>
+		<Value>Proxy:Go to Home Task</Value>
+	</Variable>
+	<Variable>
+		<Name>ProxyFindProxyTask</Name>
+		<Value>Proxy:Find Proxy Tasks</Value>
+	</Variable>
+	<Variable>
+		<Name>UninstallPhysicalPart</Name>
+		<Value>Uninstall Physical Part...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewDiscrepancy</Name>
+		<Value>New:Discrepancy...</Value>
+	</Variable>
+	<Variable>
+		<Name>ReplacePhysicalPart</Name>
+		<Value>Replace Physical Part...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewSerialNumberGenerator</Name>
+		<Value>New:Serial Number Generator...</Value>
+	</Variable>
+	<Variable>
+		<Name>GenerateAsBuiltStructure</Name>
+		<Value>Generate As-Built Structure</Value>
+	</Variable>
+	<Variable>
+		<Name>Costs</Name>
+		<Value>Costs</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignmentsAssignToTask</Name>
+		<Value>Assignments:Assign to Task...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignQualifications</Name>
+		<Value>Assign Qualifications...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowPlanDetails</Name>
+		<Value>Show Plan Details</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignmentsDesignateDiscipline</Name>
+		<Value>Assignments:Designate Discipline...</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateProperties</Name>
+		<Value>Update Properties...</Value>
+	</Variable>
+	<Variable>
+		<Name>GenerateAutomatedServiceSchedule</Name>
+		<Value>Generate Automated Service Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>NewFaultCode</Name>
+		<Value>New:Fault Code...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewSkill</Name>
+		<Value>New:Skill...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewOccurrenceGroup</Name>
+		<Value>New:Occurrence Group...</Value>
+	</Variable>
+	<Variable>
+		<Name>SetupUpgrade</Name>
+		<Value>Setup Upgrade...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowInAsBuiltManager</Name>
+		<Value>Show in As-Built Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenrelatedWorkOrder</Name>
+		<Value>Open related Work Order</Value>
+	</Variable>
+	<Variable>
+		<Name>NewServiceDiscrepancy</Name>
+		<Value>New:Service Discrepancy...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowMaintenanceActions</Name>
+		<Value>Show Maintenance Actions</Value>
+	</Variable>
+	<Variable>
+		<Name>SetupRequiresServiceRequirementRelation</Name>
+		<Value>Setup Requires Service Requirement Relation</Value>
+	</Variable>
+	<Variable>
+		<Name>SetupSatisfiesServiceRequirementRelation</Name>
+		<Value>Setup Satisfies Service Requirement Relation</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsComplete</Name>
+		<Value>Actions:Complete</Value>
+	</Variable>
+	<Variable>
+		<Name>CompleteMaintenanceAction</Name>
+		<Value>Complete Maintenance Action</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteCharacteristics</Name>
+		<Value>Paste Characteristics</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLogBook</Name>
+		<Value>New:Log Book...</Value>
+	</Variable>
+	<Variable>
+		<Name>RecordUtilization</Name>
+		<Value>Record Utilization...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowUtilization</Name>
+		<Value>Show Utilization</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowLogEntries</Name>
+		<Value>Show Log Entries</Value>
+	</Variable>
+	<Variable>
+		<Name>NewActivityEntryValue</Name>
+		<Value>New:Activity Entry Value...</Value>
+	</Variable>
+</Environment>

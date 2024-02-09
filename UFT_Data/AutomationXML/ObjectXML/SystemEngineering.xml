@@ -1,0 +1,190 @@
+<Environment>
+	<Variable>
+		<Name>ImportSpec</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("SEWindow").JavaDialog("Import Spec")</Value>
+	</Variable>
+	<Variable>
+		<Name>CMEBOMTreeTable</Name>
+		<Value>Window("SEWindow").JavaWindow("WEmbeddedFrame").JavaTable("CMEBOMTreeTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>Variant Condition</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("PSEWindow").JavaDialog("Variant Condition")</Value>
+	</Variable>
+	<Variable>
+		<Name>Custom Note</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("NewCustomNote")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Paragraph</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("NewParagraph")</Value>
+	</Variable>
+	<Variable>
+		<Name>Baseline</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Baseline")</Value>
+	</Variable>
+	<Variable>
+		<Name>DataDictionarySearch</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("Search").JavaDialog("DataDictionarySearch")</Value>
+	</Variable>
+	<Variable>
+		<Name>SystemsEngineering</Name>
+		<Value>JavaWindow("SystemsEngineering")</Value>
+	</Variable>
+	<Variable>
+		<Name>Traceability</Name>
+		<Value>JavaWindow("Traceability")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorwhiledeletingTrace</Name>
+		<Value>JavaWindow("Defining Traceability").JavaDialog("ErrorwhiledeletingTrace")</Value>
+	</Variable>
+	<Variable>
+		<Name>AccountabilityCheck</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("AccountabilityCheck")</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste Paragraph</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("NewParagraph").JavaWindow("WEmbeddedFrame").JavaDialog("Paste")</Value>
+	</Variable>
+	<Variable>
+		<Name>RACTabFolderWidget</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaObject("RACTabFolderWidget")</Value>
+	</Variable>
+	<Variable>
+		<Name>JApplet</Name>
+		<Value>Window("SEWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>Refresh Window</Name>
+		<Value>JavaWindow("Defining Traceability").JavaDialog("Refresh Window")</Value>
+	</Variable>
+	<Variable>
+		<Name>Defining Traceability</Name>
+		<Value>JavaWindow("Defining Traceability")</Value>
+	</Variable>
+	<Variable>
+		<Name>JavaApplet</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewCustomNote</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("NewCustomNote")</Value>
+	</Variable>
+	<Variable>
+		<Name>Confirmation</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("Confirmation")</Value>
+	</Variable>
+	<Variable>
+		<Name>ReportGenerationWizard</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("SEWindow").JavaDialog("ReportGenerationWizard")</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportToExcel</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("ExportToExcel")</Value>
+	</Variable>
+        <Variable>
+		<Name>NewRequirement</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("NewRequirement")</Value>
+	</Variable>
+	<Variable>
+		<Name>TraceLinkErrorWindow</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("ErrorWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>Duplicate</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("Duplicate")</Value>
+	</Variable>
+	<Variable>
+		<Name>SmartSelection</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Duplicate").Dialog("SmartSelection")</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowTraceabilityMatrix</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("ShowTraceabilityMatrix")</Value>
+	</Variable>
+	<Variable>
+		<Name>WarningMessage</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("WarningMessage")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeColumnConfiguration</Name>
+		<Value>Window("SEWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Change Columns")</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveColumnConfiguration</Name>
+		<Value>Window("SEWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Save Column Configuration")</Value>
+	</Variable>	
+	<Variable>
+		<Name>CreateTraceLink</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("CreateTraceLink")</Value>
+	</Variable>
+	<Variable>
+		<Name>SummaryInfoStatic</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaStaticText("SummaryInfo")</Value>
+	</Variable>
+	<Variable>
+		<Name>RequirementSpec</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("RequirementSpec")</Value>
+	</Variable>
+	<Variable>
+		<Name>Variant Condition @2</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("WEmbeddedFrame").JavaDialog("Variant Condition")</Value>
+	</Variable>
+	<Variable>
+		<Name>Replace</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("WEmbeddedFrame").JavaDialog("Replace")</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveViewConfiguration</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("SaveViewConfiguration")</Value>
+	</Variable>
+	<Variable>
+		<Name>ApplyViewConfiguration</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("ApplyViewConfiguration")</Value>
+	</Variable>
+	<Variable>
+		<Name>MarkAsPublishable</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("MarkAsPublishable")</Value>
+	</Variable>
+	<Variable>
+		<Name>PublishColumnConfiguration</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("PublishColumnConfiguration")</Value>
+	</Variable>
+	<Variable>
+		<Name>StructureSearchResults</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaTable("StructureSearchResults")</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("SEWindow").JavaDialog("Remove")</Value>
+	</Variable>
+	<Variable>
+		<Name>FilterControls</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaButton("FilterControls")</Value>
+	</Variable>
+	<Variable>
+		<Name>ComplyingObjectsTree</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaTree("Complying Objects")</Value>
+	</Variable>
+	<Variable>
+		<Name>DefiningObjectsTree</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaTree("Defining Objects")</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectConfiguration</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("WEmbeddedFrame").JavaDialog("SelectConfiguration")</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfigurationInformation</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("ConfigurationInformation")</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMCompareReportTable</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("WEmbeddedFrame").JavaTable("BOMCompareReportTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>WEmbeddedFrame</Name>
+		<Value>JavaWindow("SystemsEngineering").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,62 @@
+<Environment>
+	<Variable>
+		<Name>Apply Configuration Context</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("Apply Configuration Context")</Value>
+	</Variable>
+	<Variable>
+		<Name>Set Date/Unit/End Item</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("Search").JavaDialog("Set Date/Unit/End Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>Expand Below</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("Search").JavaDialog("Expand Below")</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenByName</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("Search").JavaDialog("OpenByName")</Value>
+	</Variable>
+	<Variable>
+		<Name>MRU List</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("Search").JavaDialog("MRU List")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save As New Configuration</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("Save As New Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>EndItemAssemblyState</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("EndItemAssemblyState")</Value>
+	</Variable>	
+	<Variable>
+		<Name>CMEBOMTreeTable</Name>
+		<Value>Window("MPPWindow").JavaWindow("MPPApplet").JavaTable("CMEBOMTreeTable")</Value>
+	</Variable>	
+	<Variable>
+		<Name>WEmbeddedFrame</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>CreatePublishLink</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("CreatePublishLink")</Value>
+	</Variable>
+	<Variable>
+		<Name>AdvancedAccountabilityCheck</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("AdvancedAccountabilityCheck")</Value>
+	</Variable>
+	<Variable>
+		<Name>EndItemAssemblyStateError</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("EndItemAssemblyState").JavaWindow("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewItemError</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("New Item").JavaWindow("Error")</Value>
+	</Variable>	
+	<Variable>
+		<Name>Configure</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("WEmbeddedFrame").JavaDialog("Configure")</Value>
+	</Variable>	
+	<Variable>
+		<Name>Variant Rule</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("Variant Rule")</Value>
+	</Variable>
+</Environment>

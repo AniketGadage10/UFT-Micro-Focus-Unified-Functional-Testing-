@@ -1,0 +1,30 @@
+<Environment>
+	<Variable>
+		<Name>MRODateCharacteristics</Name>
+		<Value>MRO Date Characteristics</Value>
+	</Variable>
+	<Variable>
+		<Name>MROLifeCharacteristics</Name>
+		<Value>MRO Life Characteristics</Value>
+	</Variable>
+	<Variable>
+		<Name>MROObservationCharacteristics</Name>
+		<Value>MRO Observation Characteristics</Value>
+	</Variable>
+	<Variable>
+		<Name>MROPhysicalPart</Name>
+		<Value>MRO Physical Part</Value>
+	</Variable>
+	<Variable>
+		<Name>Schedules</Name>
+		<Value>Schedules...</Value>
+	</Variable>
+	<Variable>
+		<Name>Item</Name>
+		<Value>Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>General</Name>
+		<Value>General...</Value>
+	</Variable>
+</Environment>

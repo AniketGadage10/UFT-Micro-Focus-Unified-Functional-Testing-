@@ -1,0 +1,210 @@
+<Environment>
+	<Variable>
+		<Name>CAEItem</Name>
+		<Value>File:New:CAE Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>WorkflowProcess</Name>
+		<Value>File:New:Workflow Process...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCopy</Name>
+		<Value>Edit:Copy</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPaste</Name>
+		<Value>Edit:Paste</Value>
+	</Variable>
+	<Variable>
+		<Name>EditDelete</Name>
+		<Value>Edit:Delete</Value>
+	</Variable>
+	<Variable>
+		<Name>NewItem</Name>
+		<Value>File:New:Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileClose</Name>
+		<Value>File:Close</Value>
+	</Variable>
+	<Variable>
+		<Name>EditUserSetting</Name>
+		<Value>Edit:User Setting...</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenFile</Name>
+		<Value>File:Open</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsCheckInOutCheckOut</Name>
+		<Value>Tools:Check-In/Out:Check Out...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewRefresh</Name>
+		<Value>View:Refresh</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCut</Name>
+		<Value>Edit:Cut</Value>
+	</Variable>
+	<Variable>
+		<Name>EditOptions</Name>
+		<Value>Edit:Options...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportObjects</Name>
+		<Value>Tools:Export:Objects...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportRemote</Name>
+		<Value>Tools:Export:Remote...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportToBriefcase</Name>
+		<Value>Tools:Export:To Briefcase...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportToRemoteSiteViaGlobalServices</Name>
+		<Value>Tools:Export:To Remote Site Via Global Services...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationUnpublishFromDefaultODS</Name>
+		<Value>Tools:Multi-Site Collaboration:Unpublish:From Default ODS</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationUnpublishFromDefaultODS...</Name>
+		<Value>Tools:Multi-Site Collaboration:Unpublish:From Default ODS...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationUnpublishFromAllODSSites</Name>
+		<Value>Tools:Multi-Site Collaboration:Unpublish:From All ODS Sites</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationUnpublishFromSpecificODSSites</Name>
+		<Value>Tools:Multi-Site Collaboration:Unpublish:From Specific ODS Site(s)...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationSendRemoteExport</Name>
+		<Value>Tools:Multi-Site Collaboration:Send:Remote Export...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationSendRemoteCheckOut</Name>
+		<Value>Tools:Multi-Site Collaboration:Send:Remote Check-Out...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationPublishToODSPublicationList</Name>
+		<Value>Tools:Multi-Site Collaboration:Publish:To ODS Publication List...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationPublishToDefaultODS</Name>
+		<Value>Tools:Multi-Site Collaboration:Publish:To Default ODS</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationPublishToDefaultODS...</Name>
+		<Value>Tools:Multi-Site Collaboration:Publish:To Default ODS...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationItemIDRegistryRegisterItemID</Name>
+		<Value>Tools:Multi-Site Collaboration:Item ID Registry:Register Item ID</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationItemIDRegistryUnregisterItemID</Name>
+		<Value>Tools:Multi-Site Collaboration:Item ID Registry:Unregister Item ID</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationSynchronizeObject</Name>
+		<Value>Tools:Multi-Site Collaboration:Synchronize:Object</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationSynchronizeComponent</Name>
+		<Value>Tools:Multi-Site Collaboration:Synchronize:Component...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationSynchronizeAssembly</Name>
+		<Value>Tools:Multi-Site Collaboration:Synchronize:Assembly...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationCheckReplicaSyncState</Name>
+		<Value>Tools:Multi-Site Collaboration:Check Replica Sync State</Value>
+	</Variable>
+	<Variable>
+		<Name>FileOpenWith</Name>
+		<Value>File:Open With...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPurge</Name>
+		<Value>Edit:Purge</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVendorManagementAddBidPackage</Name>
+		<Value>Tools:Vendor Management:Add Bid Package Line Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVendorManagementChangeVendor</Name>
+		<Value>Tools:Vendor Management:Change Vendor...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVendorManagementAddVendorRole</Name>
+		<Value>Tools:Vendor Management:Add Vendor Role...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVendorManagementRemoveVendorRole</Name>
+		<Value>Tools:Vendor Management:Remove Vendor Role...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportRemoteusingGlobalMultiSite</Name>
+		<Value>Tools:Export:Remote using Global Multi-Site...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteCollaborationSynchronizeComponent</Name>
+		<Value>Tools:Multi-Site Collaboration:Synchronize:Component...</Value>
+	</Variable>
+		<Variable>
+		<Name>ToolsMultiSiteCollaborationSynchronizeAssembly</Name>
+		<Value>Tools:Multi-Site Collaboration:Synchronize:Assembly...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsReportsViewRollupReports</Name>
+		<Value>Tools:Reports:View Rollup Reports</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsAddressList</Name>
+		<Value>Tools:Address List...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSubscribe</Name>
+		<Value>Tools:Subscribe...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSubscriptionManager</Name>
+		<Value>Tools:Subscription Manager...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEffectivityRevisionEffectivity</Name>
+		<Value>View:Effectivity:Revision Effectivity...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCalendarCreateCalendar</Name>
+		<Value>Edit:Calendar:Create Calendar</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCalendarShowCalendar</Name>
+		<Value>Edit:Calendar:Show Calendar</Value>
+	</Variable>
+	<Variable>
+		<Name>NamedReferences</Name>
+		<Value>Named References...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileViewWith</Name>
+		<Value>File:View With...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMultiSiteSynchronisationComponent</Name>
+		<Value>Tools:Multi-Site Collaboration:Synchronize:Component...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsImportObjects</Name>
+		<Value>Tools:Import:Objects...</Value>
+	</Variable>
+</Environment>

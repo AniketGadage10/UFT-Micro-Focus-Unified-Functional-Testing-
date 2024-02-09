@@ -1,0 +1,70 @@
+<Environment>
+	<Variable>
+		<Name>EditAdd</Name>
+		<Value>Edit:Add...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditAddSubstitute</Name>
+		<Value>Edit:Add Substitute...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPasteSubstitute</Name>
+		<Value>Edit:Paste Substitute</Value>
+	</Variable>
+	<Variable>
+		<Name>EditReplace</Name>
+		<Value>Edit:Replace</Value>
+	</Variable>
+	<Variable>
+		<Name>EditReplaceBOMline</Name>
+		<Value>Edit:Replace...</Value>
+	</Variable>	
+	<Variable>
+		<Name>EditRemovePreferSubstitute</Name>
+		<Value>Edit:Remove/Prefer Substitute...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditAddGlobalAlternate</Name>
+		<Value>Edit:Add Global Alternate...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditRemovePreferGlobalAlternate</Name>
+		<Value>Edit:Remove/Prefer Global Alternate</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewExpandBelow</Name>
+		<Value>View:Expand Below</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewRevisionRule</Name>
+		<Value>View:Revision Rule...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewPackAll</Name>
+		<Value>View:Pack All</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewProperties</Name>
+		<Value>View:Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewVariantConfiguration</Name>
+		<Value>View:Variant Configuration...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSnapshot</Name>
+		<Value>Tools:Snapshot...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowUnconfiguredVariants</Name>
+		<Value>View:Show Unconfigured Variants</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsCreateBOMChanges</Name>
+		<Value>Actions:Create BOM Changes</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsFindInDisplay</Name>
+		<Value>Actions:Find In Display...</Value>
+	</Variable>
+</Environment>

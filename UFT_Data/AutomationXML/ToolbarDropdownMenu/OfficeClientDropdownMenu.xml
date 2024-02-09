@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>CheckIn</Name>
+		<Value>CheckInOut:Check-In...</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOut</Name>
+		<Value>CheckInOut:Check-Out...</Value>
+	</Variable>	
+	<Variable>
+		<Name>CancelCheckOut</Name>
+		<Value>CheckInOut:Cancel Check-Out...</Value>
+	</Variable>	
+	<Variable>
+		<Name>TransferCheckOut</Name>
+		<Value>CheckInOut:Transfer Check-Out...</Value>
+	</Variable>	
+	<Variable>
+		<Name>CheckOutHistory</Name>
+		<Value>CheckInOut:Check-Out History</Value>
+	</Variable>
+</Environment>

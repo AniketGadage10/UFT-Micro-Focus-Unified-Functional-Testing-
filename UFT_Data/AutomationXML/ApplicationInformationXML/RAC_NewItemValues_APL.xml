@@ -1,0 +1,114 @@
+<Environment>
+	<Variable>
+		<Name>Itemtype_Item</Name>
+		<Value>Item</Value>
+	</Variable>
+	<Variable>
+		<Name>Itemtype_Requirement</Name>
+		<Value>Requirement</Value>
+	</Variable>
+	<Variable>
+		<Name>Itemtype_RequirementSpec</Name>
+		<Value>RequirementSpec</Value>
+	</Variable>
+	<Variable>
+		<Name>Itemtype_Paragraph</Name>
+		<Value>Paragraph</Value>
+	</Variable>
+	<Variable>
+		<Name>Itemtype_CustomNote</Name>
+		<Value>Custom Note</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Document</Name>
+		<Value>Document</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_ParmDefDbl</Name>
+		<Value>ParmDefDbl</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Drawing</Name>
+		<Value>Drawing</Value>
+	</Variable>
+	<Variable>
+		<Name>Itemtype_Function</Name>
+		<Value>Function</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_MEProcess</Name>
+		<Value>Process</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Part</Name>
+		<Value>Part</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_TD</Name>
+		<Value>Technical Document</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_WP</Name>
+		<Value>Work Package</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_ConfigAudit</Name>
+		<Value>Configuration Audit</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Correspondence</Name>
+		<Value>Correspondence</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Contract</Name>
+		<Value>Contract</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Design</Name>
+		<Value>Design</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Schedule</Name>
+		<Value>Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Task</Name>
+		<Value>Task</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_PCItem1</Name>
+		<Value>PCItem1</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_CompLoc</Name>
+		<Value>Company Location</Value>
+	</Variable>
+	<Variable>
+		<Name>Itemtype_CustomNote@1</Name>
+		<Value>CustomNote</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_ScheduleTask</Name>
+		<Value>Schedule Task</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_SubDesign</Name>
+		<Value>SubDesign</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_Finish</Name>
+		<Value>Finish</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_FinishGroup</Name>
+		<Value>Finish Group</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_ProblemReport</Name>
+		<Value>Problem Report</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemType_CommPart</Name>
+		<Value>Commercial Part</Value>
+	</Variable>
+</Environment>

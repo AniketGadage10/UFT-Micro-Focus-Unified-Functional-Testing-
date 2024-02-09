@@ -1,0 +1,34 @@
+<Environment>
+	<Variable>
+		<Name>Promote Action Comments</Name>
+		<Value>JavaWindow("WorkflowViewerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Promote Action Comments")</Value>
+	</Variable>
+	<Variable>
+		<Name>Demote Action Comments</Name>
+		<Value>JavaWindow("WorkflowViewerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Demote Action Comments")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorDialog</Name>
+		<Value>JavaWindow("WorkflowViewerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("ErrorDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>WorkflowViewerWindow</Name>
+		<Value>JavaWindow("WorkflowViewerWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>AbortAction</Name>
+		<Value>JavaWindow("WorkflowViewerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("AbortAction")</Value>
+	</Variable>
+	<Variable>
+		<Name>ProcessName</Name>
+		<Value>JavaWindow("WorkflowViewerWindow").JavaWindow("WEmbeddedFrame").JavaStaticText("ProcessNameSText")</Value>
+	</Variable>
+	<Variable>
+		<Name>ProcessPanel</Name>
+		<Value>JavaWindow("WorkflowViewerWindow").JavaWindow("WEmbeddedFrame").JavaObject("JPanel")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Sub-Process</Name>
+		<Value>JavaWindow("WorkflowViewerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("New Sub-Process")</Value>
+	</Variable>
+</Environment>

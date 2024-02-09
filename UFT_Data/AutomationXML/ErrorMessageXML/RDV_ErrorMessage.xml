@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>SearchInformation</Name>
+		<Value>The number of matches SearchNo exceeds the current limit of 300.NewLineClick "YES" to continue, "NO" to abort...</Value>
+	</Variable>
+</Environment>

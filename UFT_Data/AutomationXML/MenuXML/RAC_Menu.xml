@@ -1,0 +1,1386 @@
+<Environment>
+	<Variable>
+		<Name>FileDuplicate</Name>
+		<Value>File:Duplicate...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileClose</Name>
+		<Value>File:Close</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewFolder</Name>
+		<Value>File:New:Folder...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewAudit</Name>
+		<Value>File:New:Audit...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewAuditLogs</Name>
+		<Value>View:Audit:View Audit Logs</Value>
+	</Variable>
+	<Variable>
+		<Name>FileSave</Name>
+		<Value>File:Save</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewAuditFile</Name>
+		<Value>View:Audit:File</Value>
+	</Variable>
+	<Variable>
+		<Name>SubscriptionandNotification</Name>
+		<Value>Tools:Subscribe To Refresh Notification...</Value>
+	</Variable>
+	<Variable>
+		<Name>Search</Name>
+		<Value>Window:Show View:Search</Value>
+	</Variable>
+	<Variable>
+		<Name>Pack</Name>
+		<Value>View:Pack</Value>
+	</Variable>
+	<Variable>
+		<Name>Unpack</Name>
+		<Value>View:Unpack</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewUnpackAll</Name>
+		<Value>View:Unpack All</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewPackAll</Name>
+		<Value>View:Pack All</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCustomNotes</Name>
+		<Value>Edit:Attach Requirements/Notes:Custom Note</Value>
+	</Variable>
+	<Variable>
+		<Name>StartTraceLink</Name>
+		<Value>Tools:Trace Link:Start Trace Link</Value>
+	</Variable>	
+	<Variable>
+		<Name>EndTraceLink</Name>
+		<Value>Tools:Trace Link:End Trace Link</Value>
+	</Variable>	
+	<Variable>
+		<Name>ComplyingReport</Name>
+		<Value>Tools:Trace Link:Traceability Report:Complying</Value>
+	</Variable>
+	<Variable>
+		<Name>NewCustomNote</Name>
+		<Value>File:New:Custom Note</Value>
+	</Variable>
+	<Variable>
+		<Name>ImportSpecification</Name>
+		<Value>File:Import Spec...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCut</Name>
+		<Value>Edit:Cut</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPaste</Name>
+		<Value>Edit:Paste</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPasteSpecial</Name>
+		<Value>Edit:Paste Special...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditCopy</Name>
+		<Value>Edit:Copy</Value>
+	</Variable>
+	<Variable>
+		<Name>CopyAppend</Name>
+		<Value>Edit:Copy Append</Value>
+	</Variable>
+	<Variable>
+		<Name>DefiningReport</Name>
+		<Value>Tools:Trace Link:Traceability Report:Defining</Value>
+	</Variable>
+	<Variable>
+		<Name>ToggleMode</Name>
+		<Value>Edit:Toggle In-Context Mode</Value>
+	</Variable>
+	<Variable>
+		<Name>EditShowHideSupersededRevisions</Name>
+		<Value>Edit:Show/Hide Superseded Revisions</Value>
+	</Variable>
+	<Variable>
+		<Name>StartTraceLink</Name>
+		<Value>Tools:Trace Link:Start Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>EndTraceLink</Name>
+		<Value>Tools:Trace Link:End Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportToWord</Name>
+		<Value>Tools:Export:Objects To Word</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportToExcel</Name>
+		<Value>Tools:Export:Objects To Excel</Value>
+	</Variable>
+	<Variable>
+		<Name>FileRevise</Name>
+		<Value>File:Revise...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsBaseline</Name>
+		<Value>Tools:Baseline...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewItem</Name>
+		<Value>File:New:Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewProperties</Name>
+		<Value>View:Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>UserSettings</Name>
+		<Value>Edit:User Setting...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewChange</Name>
+		<Value>File:New:Change...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignWorkflow</Name>
+		<Value>File:New:Workflow Process...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignParticipants</Name>
+		<Value>Tools:Assign Participants...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileSaveAs</Name>
+		<Value>File:Save As</Value>
+	</Variable>
+	<Variable>
+		<Name>RefreshWindow</Name>
+		<Value>View:Refresh Window</Value>
+	</Variable>
+	<Variable>
+		<Name>EditAttachCustomNote</Name>
+		<Value>Edit:Attach Requirements/Notes:Custom Note</Value>
+	</Variable>
+	<Variable>
+		<Name>EditProperties</Name>
+		<Value>Edit:Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewPart</Name>
+		<Value>File:New:Part...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowHideDataPanel</Name>
+		<Value>View:Show/Hide Data Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenText</Name>
+		<Value>File:Open in MSWord Application</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewRefresh</Name>
+		<Value>View:Refresh</Value>
+	</Variable>
+	<Variable>
+		<Name>Connection</Name>
+		<Value>File:New:Connection</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewDesign</Name>
+		<Value>File:New:Design...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewInterface</Name>
+		<Value>File:New:Interface</Value>
+	</Variable>
+	<Variable>
+		<Name>RMBGenerateReport</Name>
+		<Value>Generate Report</Value>
+	</Variable>
+	<Variable>
+		<Name>EditOptionSetting</Name>
+		<Value>Edit:Options...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolRevRuleCreateEdit</Name>
+		<Value>Tools:Revision Rule:Create/Edit...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolICAdd</Name>
+		<Value>Tools:Incremental Change:Add</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolICRemove</Name>
+		<Value>Tools:Incremental Change:Remove</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolConfigureVariants</Name>
+		<Value>Tools:Variants:Configure Variants...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsSearch</Name>
+		<Value>Tools:Variants:Search...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolICCreate</Name>
+		<Value>Tools:Incremental Change:Create an Incremental Change context</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolICView/Editcontext</Name>
+		<Value>Tools:Incremental Change:View/Edit Current Incremental Change Context Information</Value>
+	</Variable>
+	<Variable>
+		<Name>EditInsertLevel</Name>
+		<Value>Edit:Insert Level...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileExit</Name>
+		<Value>File:Exit</Value>
+	</Variable>
+	<Variable>
+		<Name>EditTogglePrecise</Name>
+		<Value>Edit:Toggle Precise/Imprecise</Value>
+	</Variable>
+	<Variable>
+		<Name>NewInterfaceDefinition</Name>
+		<Value>File:New:Interface Definition...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewProcessVariable</Name>
+		<Value>File:New:Process Variable...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewConnectionRevisable</Name>
+		<Value>File:New:Connection:Revisable...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewConnectionNonRevisable</Name>
+		<Value>File:New:Connection:Non-Revisable...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolCheckOut</Name>
+		<Value>Tools:Check-In/Out:Check Out...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolCancelCheckOut</Name>
+		<Value>Tools:Check-In/Out:Cancel Checkout...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolCheckIn</Name>
+		<Value>Tools:Check-In/Out:Check In...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolTransferCheckout</Name>
+		<Value>Tools:Check-In/Out:Transfer Checkout...</Value>
+	</Variable> 
+	<Variable>
+		<Name>ToolCheckoutHistory</Name>
+		<Value>Tools:Check-In/Out:Checkout History...</Value>
+	</Variable> 	
+	<Variable>
+		<Name>ToolsVariantsUpdateVariantItem</Name>
+		<Value>Tools:Variants:Update Variant Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEnableClassicVariantConfiguretoLoad</Name>
+		<Value>View:Enable Classic Variant Configure to Load</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowUnconfiguredVariants</Name>
+		<Value>View:Show Unconfigured Variants</Value>
+	</Variable>
+	<Variable>
+		<Name>EditDelete</Name>
+		<Value>Edit:Delete</Value>
+	</Variable>
+		<Variable>
+		<Name>FileNewDataset</Name>
+		<Value>File:New:Dataset...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditReplace</Name>
+		<Value>Edit:Replace</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsOccurenceEffectivityViewEditCreate</Name>
+		<Value>Tools:Effectivity:Occurrence Effectivity...:View, Edit and Create...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewShowUnconfiguredChanges</Name>
+		<Value>View:Show Unconfigured Changes</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowUnconfiguredOccurrenceEffectivity</Name>
+		<Value>View:Show Unconfigured By Occurrence Effectivity</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsRevisionRuleSetDateUnitEndItem</Name>
+		<Value>Tools:Revision Rule:Set Date/Unit/End Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>MassUpdate</Name>
+		<Value>Edit:Mass Update</Value>
+	</Variable>
+	<Variable>
+		<Name>FileOpen</Name>
+		<Value>File:Open</Value>
+	</Variable>
+	<Variable>
+		<Name>FileOpenVis</Name>
+		<Value>File:Open In Lifecycle Visualization</Value>
+	</Variable>
+	<Variable>
+		<Name>ManageGlobalAlternates</Name>
+		<Value>Tools:Manage Global Alternates</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewItemElement</Name>
+		<Value>File:New:Item Element...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowHideSecondStructurePanel</Name>
+		<Value>View:Show/Hide Second Structure Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewExpandOptionsExpand</Name>
+		<Value>View:Expand Options:Expand</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteSubstitute</Name>
+		<Value>Edit:Paste Substitute</Value>
+	</Variable>
+	<Variable>
+		<Name>RevisionEffectivity</Name>
+		<Value>View:Effectivity:Revision Effectivity...</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowShowViewProperties</Name>
+		<Value>Window:Show View:Properties</Value>
+	</Variable>
+		<Variable>
+		<Name>ToolsRevisionRuleViewSetCurrent</Name>
+		<Value>Tools:Revision Rule:View/Set Current</Value>
+	</Variable>
+	<Variable>
+		<Name>EditUp</Name>
+		<Value>Edit:Up</Value>
+	</Variable>
+	<Variable>
+		<Name>EditDown</Name>
+		<Value>Edit:Down</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowSuppressedOccurrences</Name>
+		<Value>View:Show Suppressed Occurrences</Value>
+	</Variable>
+		<Variable>
+		<Name>FileNewOther</Name>
+		<Value>File:New:Other...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRevisionRuleSaveConfiguration</Name>
+		<Value>Tools:Revision Rule:Save Configuration...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRevisionRuleApplyConfigurationContext</Name>
+		<Value>Tools:Revision Rule:Apply Configuration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>FilePrint</Name>
+		<Value>File:Print</Value>
+	</Variable>
+	<Variable>
+		<Name>FilePrint...</Name>
+		<Value>File:Print...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRevisionRuleSaveasNewConfigurationContext</Name>
+		<Value>Tools:Revision Rule:Save as New Configuration Context</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSaveasNewConfigurationContext</Name>
+		<Value>Tools:Save as New Configuration Context</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCSaveasNewConfigurationContext</Name>
+		<Value>File:CC:Save as New Configuration Context</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCSaveasNewConfigurationContext@2</Name>
+		<Value>File:Collaboration Context:Save as New Configuration Context</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewCollaborationContext</Name>
+		<Value>File:New:Collaboration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewStructureContext</Name>
+		<Value>File:New:Structure Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSetViewConfiguration</Name>
+		<Value>Tools:Set View Configuration...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewCollapseBelow</Name>
+		<Value>View:Collapse Below</Value>
+	</Variable>
+	<Variable>
+		<Name>FileDuplicate</Name>
+		<Value>File:Duplicate...</Value>
+	</Variable>
+	<Variable>
+		<Name>DiagnosticCommunicationsProfiler</Name>
+		<Value>Diagnostic:Communications Profiler</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowUnconfiguredByOccurrenceEffectivity</Name>
+		<Value>Show Unconfigured By Occurrence Effectivity</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowUnconfiguredChanges</Name>
+		<Value>Show Unconfigured Changes</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCSaveasNewCollaborationContext</Name>
+		<Value>File:CC:Save as New Collaboration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCApplyConfigurationContext</Name>
+		<Value>File:CC:Apply Configuration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCApplyConfigurationContext@2</Name>
+		<Value>File:Collaboration Context:Apply Configuration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditAdd</Name>
+		<Value>Edit:Add...</Value>
+	</Variable>	
+	<Variable>
+		<Name>EditSplitOccurrence</Name>
+		<Value>Edit:Split Occurrence...</Value>
+	</Variable>		
+	<Variable>
+		<Name>EditReplaceExt</Name>
+		<Value>Edit:Replace...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsIncrementalChangeSplit</Name>
+		<Value>Tools:Incremental Change:Split...</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileCCSaveasNewStructureContext</Name>
+		<Value>File:Collaboration Context:Save as New Structure Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsOpenLiveExcel</Name>
+		<Value>Tools:Open Live Excel</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewForm</Name>
+		<Value>File:New:Form...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewURL</Name>
+		<Value>File:New:URL...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsICDisplayIconsNone</Name>
+		<Value>Tools:Incremental Change:Display Icons:None</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsICDisplayIconsAllContexts</Name>
+		<Value>Tools:Incremental Change:Display Icons:All Contexts</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsICDisplayIconsCurrentContexts</Name>
+		<Value>Tools:Incremental Change:Display Icons:Current Context</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleAssignmentsAssigntoTask</Name>
+		<Value>Schedule:Assignments:Assign to Task...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewBOMViewRevision</Name>
+		<Value>File:New:BOM View Revision...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewSnapshot</Name>
+		<Value>File:New:Snapshot</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewSignal</Name>
+		<Value>File:New:Signal...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewItemFromTemplate</Name>
+		<Value>File:New:Item from Template</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsProjectAssign</Name>
+		<Value>Tools:Project:Assign...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewAccess</Name>
+		<Value>View:Access...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsProjectRemove</Name>
+		<Value>Tools:Project:Remove</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMarkupMarkupMode</Name>
+		<Value>Tools:Markup:Markup Mode</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsMarkupShowMarkupView</Name>
+		<Value>Tools:Markup:Show Markup View</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolICEditAttachment</Name>
+		<Value>Tools:Incremental Change:Edit Attachment...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolICBaseline</Name>
+		<Value>Tools:Incremental Change:Incremental Change Baseline...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolICDeleteOnObject</Name>
+		<Value>Tools:Incremental Change:Delete on Object</Value>
+	</Variable>	
+	<Variable>
+		<Name>WindowShowViewViewer</Name>
+		<Value>Window:Show View:Viewer</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowShowViewSummary</Name>
+		<Value>Window:Show View:Summary</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsPartDesignMakePrimaryRepresentation</Name>
+		<Value>Tools:Part Design:Make Primary Representation</Value>
+	</Variable>		
+	<Variable>
+		<Name>ToolsPartDesignResetPrimaryRepresentation</Name>
+		<Value>Tools:Part Design:Reset Primary Representation</Value>
+	</Variable>
+		<Variable>
+		<Name>EditToggleInAllocationContextMode</Name>
+		<Value>Edit:Toggle In Allocation Context Mode</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAllocateFrom</Name>
+		<Value>Tools:Allocate From</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAllocateTo</Name>
+		<Value>Tools:Allocate To</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsClearCompare</Name>
+		<Value>Tools:Clear Compare</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportToPLMXML</Name>
+		<Value>Tools:Export:To PLMXML...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewWorkContext</Name>
+		<Value>File:New:Work Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewSchedule</Name>
+		<Value>File:New:Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsReportsReportBuilderReports</Name>
+		<Value>Tools:Reports:Report Builder Reports</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsInstallPhysicalPart</Name>
+		<Value>Tools:Install Physical Part...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewPhysicalLocation</Name>
+		<Value>File:New:Physical Location...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewSerialNumberGenerator</Name>
+		<Value>File:New:Serial Number Generator...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsGenerateAsBuiltStructure</Name>
+		<Value>Tools:Generate As-Built Structure</Value>
+	</Variable>
+	<Variable>
+		<Name>NewId</Name>
+		<Value>File:New:ID...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewPackUnpackUnpackAll</Name>
+		<Value>View:Pack Unpack:Unpack All</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewPackUnpackPackAll</Name>
+		<Value>View:Pack Unpack:Pack All</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsEffectivityOccurrenceEffectivityViewEditandCreate</Name>
+		<Value>Tools:Effectivity:Occurrence Effectivity...:View, Edit and Create...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSaveConfiguration</Name>
+		<Value>Tools:Save Configuration</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsCompareAccountabilityCheckAccountabilityCheck</Name>
+		<Value>Tools:Compare:Accountability Check:Accountability Check...</Value>
+	</Variable>		
+	<Variable>
+		<Name>ToolsTraceLinkShowTraceabilityMatrix</Name>
+		<Value>View:Show Traceability Matrix...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsRebuildAsBuiltStructure</Name>
+		<Value>Tools:Rebuild As-Built Structure</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewPartitionTemplate</Name>
+		<Value>File:New:Partition Template...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewPartitionTemplateHidden</Name>
+		<Value>File:New:Partition Template...[Hidden by Application]</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPropertiesOnRelation</Name>
+		<Value>Edit:Properties On Relation...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewFaultCode</Name>
+		<Value>File:New:Fault Code...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAssignFinish</Name>
+		<Value>Tools:Assign Finish</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewDataRequirementItem</Name>
+		<Value>File:New:Data Requirement Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowShowViewDetails</Name>
+		<Value>Window:Show View:Details</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsEffectivityRevisionEffectivity</Name>
+		<Value>Tools:Effectivity:Revision Effectivity...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewDrawing</Name>
+		<Value>File:New:Drawing...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsDeleteMarkupThisLevel</Name>
+		<Value>Tools:Markup:Delete Markup (this level)</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsApplyMarkupThisLevel</Name>
+		<Value>Tools:Markup:Apply Markup (this level)</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsApplyMarkupsAllLevels</Name>
+		<Value>Tools:Markup:Apply Markups (all levels)</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsValidateAccessApplyMarkups</Name>
+		<Value>Tools:Markup:Validate Access to Apply Markups (all levels)</Value>
+	</Variable>
+		<Variable>
+		<Name>FileNewIssueReport</Name>
+		<Value>File:New:Issue Report</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsEffectivity</Name>
+		<Value>Tools:Effectivity</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewExpand</Name>
+		<Value>View:Expand</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsVariantsOnlyConfigureRoot</Name>
+		<Value>Tools:Variants:Only Configure Root</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsExportObjectsToExcel</Name>
+		<Value>Tools:Export:Objects To Excel</Value>
+	</Variable>		
+	<Variable>
+		<Name>EditRemove</Name>
+		<Value>Edit:Remove</Value>
+	</Variable>	
+	<Variable>
+		<Name>EditAttachStandardNote</Name>
+		<Value>Edit:Attach Requirements/Notes:Standard Note</Value>
+	</Variable>
+		<Variable>
+		<Name>FileSaveStructureContextObjectAs</Name>
+		<Value>File:Save Structure Context Object As</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowShowViewMSWord</Name>
+		<Value>Window:Show View:MS Word</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeOwnerShip</Name>
+		<Value>Edit:Change Ownership...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileSaveAsItemRevision</Name>
+		<Value>File:Save As...:Item(Revision)...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditReplaceStandardNoteRevision</Name>
+		<Value>Edit:Replace Standard Note Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewRequirementsSpec</Name>
+		<Value>File:New:Requirement Specification...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsViewSetClosureRuleForExpansion</Name>
+		<Value>Tools:View/Set Closure Rule for Expansion</Value>
+	</Variable>	
+	<Variable>
+		<Name>HelpAbout</Name>
+		<Value>Help:About</Value>
+	</Variable>		
+	<Variable>
+		<Name>FileNewBlocks</Name>
+		<Value>File:New:Blocks</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileNewBlocksFunction</Name>
+		<Value>File:New:Blocks:Function</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileNewBlocksLogicalBlock</Name>
+		<Value>File:New:Blocks:Logical Block</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewBlocksOther</Name>
+		<Value>File:New:Blocks:Custom Block...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsWorkflowSurrogate</Name>
+		<Value>Tools:Workflow Surrogate...</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsPerform</Name>
+		<Value>Actions:Perform</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsClaimTask</Name>
+		<Value>Actions:Claim Task</Value>
+	</Variable>
+	<Variable>
+		<Name>FileView</Name>
+		<Value>File:View</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewProgramView</Name>
+		<Value>File:New:Program View</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleReloadSchedule</Name>
+		<Value>Schedule:Reload Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewTask</Name>
+		<Value>File:New:Task...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewMilestone</Name>
+		<Value>File:New:Milestone...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileOpenWith</Name>
+		<Value>File:Open With...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditUserSetting</Name>
+		<Value>Edit:User Setting...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsImportFromPLMXML</Name>
+		<Value>Tools:Import:From PLMXML</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsIDDisplayRuleView/SetCurrent</Name>
+		<Value>Tools:ID Display Rule:View/Set Current...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsIDDisplayRuleModifyCurrent</Name>
+		<Value>Tools:ID Display Rule:Modify Current...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsIDDisplayRuleCreate/Edit</Name>
+		<Value>Tools:ID Display Rule:Create/Edit...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsSignalManagerAssociateSignalToSource</Name>
+		<Value>Tools:Signal Manager:Associate Signal To:Source</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsSignalManagerAssociateSignalToTarget</Name>
+		<Value>Tools:Signal Manager:Associate Signal To:Target</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsSignalManagerAssociateSignalToTransmitter</Name>
+		<Value>Tools:Signal Manager:Associate Signal To:Transmitter</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsSignalManagerAssociateSignalToProcessVariable</Name>
+		<Value>Tools:Signal Manager:Associate Signal To:Process Variable</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsSignalManagerAssociateSignalToRedundantSignal</Name>
+		<Value>Tools:Signal Manager:Associate Signal To:Redundant Signal</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsConnectionManagerConnect</Name>
+		<Value>Tools:Connection Manager:Connect...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsConnectionManagerDisconnect</Name>
+		<Value>Tools:Connection Manager:Disconnect...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsImplementedByCreateImplementedBy</Name>
+		<Value>Tools:Implemented By:Create Implemented By</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsRealizedByCreateRealizedBy</Name>
+		<Value>Tools:Realized By:Create Realized By</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsLicenseAttach</Name>
+		<Value>Tools:License:Attach</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsLicenseDetach</Name>
+		<Value>Tools:License:Detach</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsOccurenceEffectivityCreateonMultipleBOMLines</Name>
+		<Value>Tools:Effectivity:Occurrence Effectivity...:Create on Multiple BOM Lines...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsCountModules</Name>
+		<Value>Tools:Variants:Count Modules...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsUnlinkVariantItem</Name>
+		<Value>Tools:Variants:Unlink Variant Item...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolICCreateOnObject</Name>
+		<Value>Tools:Incremental Change:Create on Object</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolICRemoveChanges</Name>
+		<Value>Tools:Incremental Change:Remove Changes...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsValidationRunValidations</Name>
+		<Value>Tools:Validation:Run Validations...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsValidationViewResults</Name>
+		<Value>Tools:Validation:View Results...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsValidationViewResults</Name>
+		<Value>Tools:Validation:View Results...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolsValidationViewResults</Name>
+		<Value>Tools:Validation:View Results...</Value>	
+	</Variable>
+	<Variable>
+		<Name>ToolICCreateContext</Name>
+		<Value>Tools:Incremental Change:Create Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsImportFromPLMXML</Name>
+		<Value>Tools:Import:From PLMXML</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsImportTemplatesSpecificationTemplate</Name>
+		<Value>Tools:Import:Templates:Specification Template</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsImportTemplatesObjectTemplate</Name>
+		<Value>Tools:Import:Templates:Object Template</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsImportTemplatesExcelTemplate</Name>
+		<Value>Tools:Import:Templates:Excel Template</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowHideSearchResultPanel</Name>
+		<Value>View:Show/Hide Search Result Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsImportRemote</Name>
+		<Value>Tools:Import:Remote...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditRevertEdit</Name>
+		<Value>Edit:Revert Edit</Value>
+	</Variable>
+	<Variable>
+		<Name>EditRevertAll</Name>
+		<Value>Edit:Revert All</Value>
+	</Variable>
+	<Variable>
+		<Name>EditVariantCondition</Name>
+		<Value>Edit:Variant Condition...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditRemoveDesignFromProduct</Name>
+		<Value>Edit:Remove Design From Product</Value>
+	</Variable>
+	<Variable>
+		<Name>EditReplaceDesignInProduct</Name>
+		<Value>Edit:Replace Design In Product</Value>
+	</Variable>
+	<Variable>
+		<Name>EditReplacePartinProduct</Name>
+		<Value>Edit:Replace Part in Product</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowPartSolutions</Name>
+		<Value>View:Show Part Solutions</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewNotes</Name>
+		<Value>View:Notes...</Value>
+	</Variable>
+	<Variable> 
+		<Name>WindowShowViewImpactAnalysis</Name> 
+		<Value>Window:Show View:Impact Analysis</Value>
+	</Variable>
+	<Variable> 
+		<Name>WindowShowViewOthers</Name> 
+		<Value>Window:Show View:Other...</Value>
+	</Variable>
+	<Variable> 
+		<Name>ViewExpandAll</Name> 
+		<Value>View:Expand All</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleDeferredSessionStartSession</Name>
+		<Value>Schedule:Deferred Session:Start Session</Value>
+	</Variable>
+	<Variable>
+		<Name>EditEndItemAssemblyState</Name>
+		<Value>Edit:End Item Assembly State</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewOpenCollaborationContextTree</Name>
+		<Value>View:Open Collaboration Context Tree</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantConfiguration</Name>
+		<Value>Thin Client-specific:View:Variant Configuration</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantConfiguration@2</Name>
+		<Value>View:Variant Configuration...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSnapshot</Name>
+		<Value>Thin Client-specific:Tools:Snapshot...</Value>
+	</Variable>	
+        <Variable>
+		<Name>FileNewRequirement</Name>
+		<Value>File:New:Requirement...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRevisionRuleSetDateUnitEndItem</Name>
+		<Value>Tools:Revision Rule:Set Date/Unit/End Item...</Value>
+	</Variable>
+    <Variable>
+		<Name>ToolsRevisionRuleSaveConfiguration</Name>
+		<Value>Tools:Revision Rule:Save Configuration...</Value>
+	</Variable>
+     <Variable>
+		<Name>ToolsRevisionRuleApplyConfigurationContext</Name>
+		<Value>Tools:Revision Rule:Apply Configuration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCSaveasNewStructureContext</Name>
+		<Value>File:CC:Save as New Structure Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsIncrementalChangeAdd</Name>
+		<Value>Tools:Incremental Change:Add</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRevisionRuleViewSetCurrent</Name>
+		<Value>Tools:Revision Rule:View/Set Current</Value>
+	</Variable>
+	<Variable>
+		<Name>EditChangeToReplace</Name>
+		<Value>Edit:Change To Replace</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSetupDeviation</Name>
+		<Value>Tools:Setup Deviation...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowUntracedParts</Name>
+		<Value>View:Show Untraced Parts</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsCheckIndexStatus</Name>
+		<Value>Tools:Check Index Status...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewNotesHidden</Name>
+		<Value>View:Notes...[Hidden by Application]</Value>
+	</Variable>
+	<Variable>
+		<Name>EditReplaceDesignInProductHidden</Name>
+		<Value>Edit:Replace Design In Product[Hidden by Application]</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleScheduleMembership</Name>
+		<Value>Schedule:Schedule Membership</Value>
+	</Variable>
+	<Variable>
+		<Name>FileSaveAsProgramview</Name>
+		<Value>File:Save As Program view</Value>
+	</Variable>
+	<Variable>
+		<Name>EditMoveUp</Name>
+		<Value>Edit:Move Up</Value>
+	</Variable>
+	<Variable>
+		<Name>EditMoveDown</Name>
+		<Value>Edit:Move Down</Value>
+	</Variable>
+	<Variable> 
+		<Name>ViewExpandOptionsExpandBelow</Name> 
+		<Value>View:Expand Options:Expand Below</Value>
+	</Variable>
+	<Variable>
+		<Name>OtherQualifications</Name>
+		<Value>Other:Qualifications</Value>
+	</Variable>
+	<Variable>
+		<Name>ServicePlannerPlanDetails</Name>
+		<Value>Service Planner:Plan Details</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsBaseline</Name>
+		<Value>Tools:Baseline...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewCurrentUsers</Name>
+		<Value>View:Current Users...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditUserSetting</Name>
+		<Value>Edit:User Setting...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewOrganization</Name>
+		<Value>View:Organization...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAddressList</Name>
+		<Value>Tools:Address List...</Value>
+	</Variable>	
+	<Variable>
+		<Name>GeneralSummary</Name>
+		<Value>General:Summary</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewMenuApplyColumnConfiguration</Name>
+		<Value>View Menu:Apply Column Configuration...</Value>
+	</Variable>
+	<Variable>
+		<Name>OtherViewer</Name>
+		<Value>Other:Viewer</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRevisionRuleSetOverrideFolder</Name>
+		<Value>Tools:Revision Rule:Set Override Folder...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileSaveAsSaveasNewCollaborationContext</Name>
+		<Value>File:Save As...:Save as New Collaboration Context...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewNamedReferences</Name>
+		<Value>View:Named References...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewSnapshot@1</Name>
+		<Value>File:New:Snapshot...</Value>
+	</Variable>
+	<Variable>
+		<Name>CreatePublishLink</Name>
+		<Value>Tools:Structure Alignment:Create Publish Link</Value>
+	</Variable>
+	<Variable>
+		<Name>AddTargetsToPublishLink</Name>
+		<Value>Tools:Structure Alignment:Add Target To Publish Link</Value>
+	</Variable>
+	<Variable>
+		<Name>FindPublishLinkTargets</Name>
+		<Value>Tools:Structure Alignment:Find Publish Link Targets</Value>
+	</Variable>
+	<Variable>
+		<Name>FindPublishLinkSource</Name>
+		<Value>Tools:Structure Alignment:Find Publish Link Source</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveTargetFromPublishLink</Name>
+		<Value>Tools:Structure Alignment:Remove Target From Publish Link</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenPublishLinkSourceStructure</Name>
+		<Value>Tools:Structure Alignment:Open Publish Link Source Structure</Value>
+	</Variable>
+	<Variable>
+		<Name>DeletePublishLinkForSource</Name>
+		<Value>Tools:Structure Alignment:Delete Publish Link For Source</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewOccurrenceGroup</Name>
+		<Value>File:New:Occurrence Group...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditToggleInContextMode</Name>
+		<Value>Edit:Toggle In-Context Mode</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleDeferredSessionEndSession</Name>
+		<Value>Schedule:Deferred Session:End Session</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleInsertSchedule</Name>
+		<Value>Schedule:Insert Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleManagerViewsScheduleTaskExecution</Name>
+		<Value>Schedule Manager Views:Schedule Task Execution</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleAbort</Name>
+		<Value>Schedule:Abort...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewVendorManagementVendor</Name>
+		<Value>File:New:Vendor Management:Vendor...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewVendorManagementBidPackage</Name>
+		<Value>File:New:Vendor Management:Bid Package...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVendorManagementAddBidPackageLineItem</Name>
+		<Value>Tools:Vendor Management:Add Bid Package Line Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewFromTemplateNewItemFromTemplate</Name>
+		<Value>File:New:From Template:Item From Template...</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleScheduleCalendar</Name>
+		<Value>Schedule:Schedule Calendar</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowResetPerspective</Name>
+		<Value>Window:Reset Perspective</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowNavigationPane</Name>
+		<Value>Window:Navigation Pane</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowOpenPerspectiveOther</Name>
+		<Value>Window:Open Perspective:Other...</Value>
+	</Variable>
+	<Variable>
+		<Name>SystemDefinedSearchesItem</Name>
+		<Value>System Defined Searches:Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>SystemDefinedSearchesAuditGeneralLogs</Name>
+		<Value>System Defined Searches:Audit - General Logs</Value>
+	</Variable>
+	<Variable>
+		<Name>SystemDefinedSearchesAuditProjectBasedLogs</Name>
+		<Value>System Defined Searches:Audit - Project Based Logs</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPurge</Name>
+		<Value>Edit:Purge</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNew</Name>
+		<Value>File:New</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAssignWorkContext</Name>
+		<Value>Tools:Assign work Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithDetails</Name>
+		<Value>Open with:Details</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCSaveasNewCollaborationContext@2</Name>
+		<Value>File:Collaboration Context:Save as New Collaboration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCSaveasNewStructureContext@2</Name>
+		<Value>File:Collaboration Context:Save as New Structure Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleIndenttask</Name>
+		<Value>Schedule:Indent task</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowShowViewUtilization</Name>
+		<Value>Window:Show View:Utilization</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleCosts</Name>
+		<Value>Schedule:Costs</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleShiftSchedule</Name>
+		<Value>Schedule:Shift Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>ServiceManagerServiceDetails</Name>
+		<Value>Service Manager:Service Details</Value>
+	</Variable>
+	<Variable>
+		<Name>EditMakeImmune</Name>
+		<Value>Edit:Make Immune...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewEnvelope</Name>
+		<Value>File:New:Envelope...</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleLinkCreateCrossScheduleDependency</Name>
+		<Value>Schedule:Link:Create Cross Schedule Dependency</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowHideGCSConnectionPoints</Name>
+		<Value>View:Show/Hide GCS Connection Points</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowUnconfiguredVariants</Name>
+		<Value>Show Unconfigured Variants</Value>
+	</Variable>
+		<Variable>
+		<Name>ScheduleTaskconstraints</Name>
+		<Value>Schedule:Task constraints</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleBaselineSchedule</Name>
+		<Value>Schedule:Baseline Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewCriticalPath</Name>
+		<Value>View:Critical Path:View Critical Path</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewBaseline</Name>
+		<Value>View:View Baseline</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowUnconfiguredAssignedOccurrences</Name>
+		<Value>Show Unconfigured Assigned Occurrences</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewWorkarea</Name>
+		<Value>File:New:Workarea...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignWorkflowSubProcess</Name>
+		<Value>File:New:Workflow Sub-Process ...</Value>
+	</Variable>
+	<Variable>
+		<Name>DiagnosticPrintObject</Name>
+		<Value>Diagnostic:Print Object</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPrune</Name>
+		<Value>Edit:Prune</Value>
+	</Variable>
+	<Variable>
+		<Name>UnloadAll</Name>
+		<Value>File:Unload All</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewProperties@1</Name>
+		<Value>View:Properties	Alt+P</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsChangeOwningProgram</Name>
+		<Value>Tools:Change Owning Program...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewConfigurationContext</Name>
+		<Value>File:New:Configuration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleLaunchWorkflowNow</Name>
+		<Value>Schedule:Launch Workflow Now</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAccountabilityCheckAdvancedAccountabilityCheck</Name>
+		<Value>Tools:Accountability Check:Advanced Accountability Check...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditSelectBelowLowestLines</Name>
+		<Value>Edit:Select Below:Lowest Lines</Value>
+	</Variable>
+	<Variable>
+		<Name>InterchangeableGroup</Name>
+		<Value>File:New:Interchangeable Group...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewViewProperties</Name>
+		<Value>View:View Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>SupplierCollabDDESendSelected</Name>
+		<Value>Supplier Collaboration:Design Data Exchange:Send Selected...</Value>
+	</Variable>
+	<Variable>
+		<Name>SupplierCollabDDEAddToExisting</Name>
+		<Value>Supplier Collaboration:Design Data Exchange:Add to Existing</Value>
+	</Variable>
+	<Variable>
+		<Name>SCDMSCreateLineItems</Name>
+		<Value>Supplier Collaboration:Direct Materials Sourcing:Create Line Items</Value>
+	</Variable>
+</Environment>

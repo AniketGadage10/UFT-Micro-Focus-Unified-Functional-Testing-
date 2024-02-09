@@ -1,0 +1,34 @@
+<Environment>
+	<Variable>
+		<Name>Folder</Name>
+		<Value>Create Folder...</Value>
+	</Variable>	
+	<Variable>
+		<Name>Item</Name>
+		<Value>Create Item...</Value>
+	</Variable>	
+	<Variable>
+		<Name>CheckOut</Name>
+		<Value>Check-In/Out...:Check-Out</Value>
+	</Variable>	
+	<Variable>
+		<Name>CheckIn</Name>
+		<Value>Check-In/Out...:Check-In</Value>
+	</Variable>	
+	<Variable>
+		<Name>CancelCheckOut</Name>
+		<Value>Check-In/Out...:Cancel Check-Out</Value>
+	</Variable>
+	<Variable>
+		<Name>Copy</Name>
+		<Value>Copy</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>Paste</Value>
+	</Variable>
+	<Variable>
+		<Name>NewWorkflowProcess</Name>
+		<Value>New Workflow Process...</Value>
+	</Variable>	
+</Environment>

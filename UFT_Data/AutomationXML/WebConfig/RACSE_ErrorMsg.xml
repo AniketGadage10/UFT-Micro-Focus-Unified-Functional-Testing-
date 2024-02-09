@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>ExportAllVisibleColumnsErrMsg</Name>
+		<Value>The "Export by view" operation is not supported for offline work and reimport from Structure Manager. Please select a template when exporting a structure for offline work and reimport.</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,105 @@
+<Environment>
+	<Variable>
+		<Name>Removeline</Name>
+		<Value>Remove the reference without deleting the object (Ctrl+R)</Value>
+	</Variable>
+	<Variable>
+		<Name>SetOptionValuesForSelectedModule</Name>
+		<Value>Set option values for selected module</Value>
+	</Variable>
+	<Variable>
+		<Name>EditTheVariantCondition</Name>
+		<Value>Edit the variant Condition</Value>
+	</Variable>
+	<Variable>
+		<Name>Savethecurrentcontent</Name>
+		<Value>Save the current contents (Ctrl+S)</Value>
+	</Variable>
+	<Variable>
+		<Name>StartOpenInLifecycleVisualization</Name>
+		<Value>Start/Open In Lifecycle Visualization</Value>
+	</Variable>	
+	<Variable>
+		<Name>RemovelineMPP</Name>
+		<Value>Remove a line (Ctrl+R)</Value>
+	</Variable>
+	<Variable>
+		<Name>Displayspropertiesoftheselectedobject</Name>
+		<Value>Displays properties of the selected object (Alt+P)</Value>
+	</Variable>
+	<Variable>
+		<Name>RevertAll</Name>
+		<Value>Revert all marked pending edits</Value>
+	</Variable>
+	<Variable>
+		<Name>RevertEdit</Name>
+		<Value>Revert marked pending edits made to selected BOM line(s)</Value>
+	</Variable>
+	<Variable>
+		<Name>Splitsthewindowintwo</Name>
+		<Value>Splits the window in two</Value>
+	</Variable>
+	<Variable>
+		<Name>Show/HideDataPanel</Name>
+		<Value>Show/Hide Data Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>Show/HideTheDataPanel</Name>
+		<Value>Show/Hide the data panel</Value>
+	</Variable>
+	<Variable>
+		<Name>AddEditNotesOnSelectedLine</Name>
+		<Value>Add or Edit the Notes on the selected line</Value>
+	</Variable>
+	<Variable>
+		<Name>CutSelectionAndPutItOnTheClipboard</Name>
+		<Value>Cut the selection and put it on the clipboard (Ctrl+X)</Value>
+	</Variable>
+	<Variable>
+		<Name>ApplyCurrentConfiguration</Name>
+		<Value>Applies the current configuration to the associated structure</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenSavedVariantRulesDialog</Name>
+		<Value>Open Saved Variant Rules Dialog</Value>
+	</Variable>
+	<Variable>
+		<Name>Replaceoroverlayexistingselections</Name>
+		<Value>Replace or overlay existing selections</Value>
+	</Variable>
+	<Variable>
+		<Name>Validate</Name>
+		<Value>Validate</Value>
+	</Variable>
+	<Variable>
+		<Name>SolutionVariant</Name>
+		<Value>Solution Variant</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchSolutionVariants</Name>
+		<Value>Search Solution Variants</Value>
+	</Variable>
+	<Variable>
+		<Name>LoadVariantRules</Name>
+		<Value>Load Variant Rule(s)</Value>
+	</Variable>
+		<Variable>
+		<Name>Applyconstraintstoggled</Name>
+		<Value>Apply constraints toggled on</Value>
+	</Variable>
+		<Variable>
+		<Name>Allowvalidationrulestoexpandtoggled</Name>
+		<Value>Allow validation rules to expand toggled on</Value>
+	</Variable>
+	<Variable>
+		<Name>ValidateIndividualColumnExpression</Name>
+		<Value>Validate Individual Column Expression</Value>
+	</Variable>
+	<Variable>
+		<Name>SplitspaneltoSupersedure</Name>
+		<Value>Split the panels creating the supersedures environment</Value>
+	</Variable>
+</Environment>
+
+
+

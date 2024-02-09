@@ -1,0 +1,226 @@
+<Environment>
+	<Variable>
+		<Name>CheckOutErrorForFinishItems</Name>
+		<Value>Please check-out the selected finish group revision to add or remove finish items.</Value>
+	</Variable>	
+	<Variable>
+		<Name>DuplicateErrorForFinishItems</Name>
+		<Value>Duplicate items of type Finish are added to the "Finish Items" property.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddFinishGroupToFinishGroupRevisionError</Name>
+		<Value>An item of type Finish Group cannot be added to the "Finish Items" property of a Finish Group Revision. Please select items of type Finish.</Value>
+	</Variable>	
+	<Variable>
+		<Name>InstanceRefError</Name>
+		<Value>The instance is referenced.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AuditRevisionNonModifibaleError</Name>
+		<Value>Item Revision ItemID/A is not modifiable</Value>
+	</Variable>	
+	<Variable>
+		<Name>RelationCreationError</Name>
+		<Value>The Relation creation is not allowed.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AccessDeniedError</Name>
+		<Value>The access is denied.</Value>
+	</Variable>	
+	<Variable>
+		<Name>CompanyLocationNotExists</Name>
+		<Value>The value entered for the object Location2 does not exist in any Company Location object. Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorMessage1</Name>
+		<Value>The Relation creation is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>AuditsItemCreatable</Name>
+		<Value>The condition Cm0isCm0AuditsItemCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>ContractCreatable</Name>
+		<Value>The condition Cm0isCm0HasContractCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>ImpactedItemCreatable</Name>
+		<Value>The condition Cm0isCMHasImpactedItemCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>ImpactedItemCreatableNEW</Name>
+		<Value>The description of the unsatisfied condition is: This condition restricts the creation of an Impacted Item for the target change item as follows. Either the current user must be the requestor of the change item or the current user must be the user assigned as the Analyst participant having an Analyst role in the Analyst group. If the current user is the requestor of the change item, the change item must be in the Elaborating, None, Open state.If the current user is the analyst, the change item must be in either the Elaborating, None, Open state or in the Reviewing, Investigate, Open state. In all cases, the current user must have an Authoring license level and the change item instance must be the latest in a sequence.</Value>
+	</Variable>
+	<Variable>
+		<Name>RaisesActionItemsCreatable</Name>
+		<Value>The condition Cm0isCm0RaisesActionItemsCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>IncorporationStatusErrorMessage</Name>
+		<Value>The property "Incorporation Status" cannot be modified because the condition "Cm0isIncorporationStatusEditable" is not satisfied. Look at the expression of the condition defined in BMIDE to find the reason for the failure.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReviseError</Name>
+		<Value>s
+63403: Failed to create the new object.
+
+900023: The Item can not be created or revised because the entered source document revision has been released.                   Use a valid source document revision.</Value>
+	</Variable>
+	
+		<Variable>
+		<Name>PasteSpecialErrorMessage</Name>
+		<!--<Value>The error Msg is [The corresponding Impacted Item of the Solution Item being incorporated cannot be found. -->
+		<Value>The corresponding Impacted Item of the Solution Item being incorporated cannot be found. 
+Either use the "Relate Solution To Impacted" functionality to specify the corresponding Impacted Item of the Solution Item being incorporated;
+Or make sure that one, and only one, Impacted Item of the Change Notice Revision which authorized the Solution Item being incorporated, is a revision of the same Item of which the Solution Item being incorporated is a revision.</Value>
+	</Variable>
+	<Variable>
+		<Name>CompanyLocationPanelError</Name>
+		<Value>Multiple users or groups are selected.
+ As a consequence, only one location may be chosen.</Value>
+	</Variable>
+	<Variable>
+		<Name>OrganizationPanelError</Name>
+		<Value>Multiple locations are selected.
+ As a consequence, only one user or group may be chosen.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnableToRevise</Name>
+		<Value>Only Item Revisions are valid to be Revised!  Please 
+select an ItemRevision and try again.</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemUnabletoCreateError</Name>
+		<Value>Your role is not authorized to perform this operation.
+You may contact your System Administrator for help.
+    </Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteErrorMsg</Name>
+		<Value>The instance is referenced.</Value>
+	</Variable>
+	<Variable>
+		<Name>ModificationConfirmationMessage</Name>
+		<Value>Do you want to save your modifications to the Rich Content?</Value>
+	</Variable>
+	<Variable>
+		<Name>SavePartAsErrMsg</Name>
+		<Value> The "Save As" action performed on the object "Part01" has failed.
+The access is denied.</Value>
+	</Variable>
+	<Variable>
+		<Name>PartRevReviseError</Name>
+		<Value>The Item Revision could not be revised. 123123 - The access is denied.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnabletoDeriveChange</Name>
+		<Value>Derive is not a valid action for Change Notice objects. Change Notice objects cannot be derived into other change objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>AttachStandardNoteError</Name>
+		<Value>"STDNOTE" was not saved/added because the Part List Note "Note" is already being used.</Value>
+	</Variable>
+	<Variable>
+	<Name>PropertyOnRelationError</Name>
+		<Value>The following input values for Parts List Note are not valid. Please specify valid values.
+Invalid values are: </Value>
+	</Variable>
+	<Variable>
+	<Name>MultipleSelectionAttachStandardNoteError</Name>
+		<Value>Multiple Standard Note Revisions cannot be attached to an Item/Item Revision in a single operation</Value>
+	</Variable>
+	<Variable>
+	<Name>MultipleSelectionAttachStandardNoteError1</Name>
+		<Value>A Standard Note cannot be attached to multiple Items/Item Revisions in a single operation</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteTechnicalDocError</Name>
+		<Value>The delete operation is unsuccessful because the ADS Tec Document or the ADS Tec Doc Revision is used as a source document.</Value>
+	</Variable>
+	<Variable>
+		<Name>CompanyLocCreationFailError</Name>
+		<Value>The value entered for the attribute "CAGE Code" already exists. Please choose a different value.</Value>
+	</Variable>
+	<Variable>
+		<Name>CompanyLocNotExistError</Name>
+		<Value>The value entered for the attribute "Original CAGE Code" does not exist at any company location. Please provide a valid value.</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjectNotCreatedInContextProgram</Name>
+		<Value>Unable to create Business Object.$The current Project/Program is not set for the user session.</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjectNotCreatedInContProgram</Name>
+		<Value>Unable to create Business Object.$The Program Level Security is not set for the current session Project.</Value>
+	</Variable>
+	<Variable>
+		<Name>DatasetNotCreatedInContextProgram</Name>
+		<Value>The current Project/Program is not set for the user session.
+The object of type "Dataset" can only be created in context of Program.</Value>
+	</Variable>
+	<Variable>
+		<Name>DatasetNotCreatedInContProgram</Name>
+		<Value>The Program Level Security is not set for the current session Project.
+The object of type "Dataset" can only be created in context of Program.</Value>
+	</Variable>
+	<Variable>
+		<Name>IncorporatesCreatable</Name>
+		<Value>The condition Cm0isCm0IncorporatesCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorMessage2</Name>
+		<Value>No additional object "ID/A;1-INAME" of type "Item Revision" can be attached with a relation "Audits Item" under the object "ConfigRevision", because this would exceed the set limit for the secondary objects. Please refer to the GRM rule for "Configuration Audit Revision, Item Revision, Audits Item".</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorMessage01</Name>
+		<Value>No additional object "Text03" of type "MyText" can be attached with a relation "Specifications" under the object "ITEMREV", because this would exceed the set limit for the secondary objects. Please refer to the GRM rule for "GRM1001, Text, Specifications".</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorMessage3</Name>
+		<Value>No additional object "ID/A;1-INAME" of type "Contract Revision" can be attached with a relation "Contract" under the object "ConfigRevision", because this would exceed the set limit for the secondary objects. Please refer to the GRM rule for "Generic Review Revision, Document Revision, Contract".</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteReqErrorMessage</Name>
+		<Value>No additional object "ItemName" of type "Full Text" can be attached with a relation "Specifications" under the object "sItemRevName", because this would exceed the set limit for the secondary objects. Please refer to the GRM rule for "Fnd0AbstractNoteRevision, Full Text, Specifications".</Value>
+	</Variable>
+	<Variable>
+		<Name>createBusinessObjectError</Name>
+		<Value>Objects can only be created if the current group belongs to an organization.newLineChar
+You may contact your System Administrator for assistance.</Value>
+	</Variable>	
+	<Variable>
+		<Name>ProjectCreationError</Name>
+		<Value>The name "ProjectName" of the object of type "Project" contains at least one of the following invalid characters: '.', '%', '*', '@'.</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignFinishtoOccurrenceErrMsgOnTopObject</Name>
+		<Value>Selected BOM line, or lines, are not in the scope of the Context line selected.</Value>
+	</Variable>
+	<Variable>
+		<Name>InContextOverrideEditing</Name>
+		<Value>Select a branch that will be In Context for override editing.</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateTraceLinkFailedError</Name>
+		<Value>A "Finishes" relation was not created between "itemRev" and "FinishItemName", because it already exists.
+Given Fsh0Finish when expecting ItemRevision</Value>
+	</Variable>
+	<Variable>
+		<Name>ReviseCustItemInvalidRevIDError</Name>
+		<Value>The value "RevisionID" for the property "Revision" of type "ItemType" is invalid, because no matching Naming Rule pattern could be found.</Value>
+	</Variable>
+	<Variable>
+		<Name>ClosedDialog</Name>
+		<Value>No additional object "ID1-INAME" of type "Item" can be attached with a relation "ReStrReqOffVisOn" under the object "ID2-PortestGRMItem", because this would exceed the set limit for the secondary objects. Please refer to the GRM rule for "PortestGRM, Item, ReStrReqOffVisOn".</Value>
+	</Variable>
+	<Variable>
+		<Name>PastePartInItemInSMError</Name>
+		<Value>The item # cannot be added to the assembly since it is not a preferred part to assembly programs 
+$
+.</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicatedCompanyCode</Name>
+		<Value>Unable1 to create Business Object.$The value entered for the attribute "CAGE Code" already exists. Please choose a different value.</Value>
+	</Variable>	
+</Environment>

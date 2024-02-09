@@ -1,0 +1,31 @@
+<Environment>
+	<Variable>
+		<Name>BriefcaseBrowser</Name>
+		<Value>JavaWindow("BriefcaseBrowser")</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenDatasetFile</Name>
+		<Value>Dialog("OpenCADBB")</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddDataset</Name>
+		<Value>JavaWindow("BriefcaseBrowser").JavaWindow("AddDataset")</Value>
+	</Variable>	
+	<Variable>
+		<Name>DlgPreferences</Name>
+		<Value>JavaWindow("BriefcaseBrowser").JavaWindow("Preferences")</Value>
+	</Variable>	
+	<Variable>	
+		<Name>BBResetPerspective</Name>
+		<Value>JavaWindow("BriefcaseBrowser").JavaWindow("ResetPerspective")</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveResource</Name>
+		<Value>JavaWindow("BriefcaseBrowser").JavaWindow("SaveResource")</Value>
+	</Variable>
+	<Variable>
+		<Name>OwnerShipTransErrorDlg</Name>
+		<Value>JavaWindow("BriefcaseBrowser").JavaWindow("ErrorMessageDialog")</Value>
+	</Variable>	
+</Environment>
+

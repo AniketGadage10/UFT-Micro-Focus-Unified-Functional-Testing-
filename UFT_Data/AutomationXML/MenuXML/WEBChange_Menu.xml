@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>NewChange</Name>
+		<Value>New:Change:Create...</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeInContext</Name>
+		<Value>New:Change:Context Create...</Value>
+	</Variable>
+	<Variable>
+		<Name>DeriveChange</Name>
+		<Value>New:Change:Derived Changes...</Value>
+	</Variable>	
+	<Variable>
+		<Name>AssignParticipants</Name>
+		<Value>Tools:Assign Participants</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewProperties</Name>
+		<Value>View:Properties...</Value>
+	</Variable>
+</Environment>

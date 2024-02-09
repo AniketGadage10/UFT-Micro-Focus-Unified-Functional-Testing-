@@ -1,0 +1,34 @@
+<Environment>
+	<Variable>
+		<Name>NewAdministrativeClass</Name>
+		<Value>File:New:New Administrative Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewAuthorClass</Name>
+		<Value>File:New:New Author Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewFolder</Name>
+		<Value>File:New:Folder...	Ctrl+Alt+F</Value>
+	</Variable>
+	<Variable>
+		<Name>ImportGraphic</Name>
+		<Value>Tools:Import:Graphic...</Value>
+	</Variable>
+	<Variable>
+		<Name>ImportDocument</Name>
+		<Value>Tools:Import:Document...</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowPreferences</Name>
+		<Value>Window:Preferences</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportDocument</Name>
+		<Value>Tools:Export:Document...</Value>
+	</Variable>
+	<Variable>
+		<Name>ImportDITAMap</Name>
+		<Value>Tools:Import:DITA Map...</Value>
+	</Variable>
+</Environment>

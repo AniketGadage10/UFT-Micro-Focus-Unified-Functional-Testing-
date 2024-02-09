@@ -1,0 +1,30 @@
+<Environment>
+	<Variable>
+		<Name>ClassifyObjectMessage</Name>
+		<Value>The object  "object_name" 
+is not classified - there is no ICO for it.
+Do you want to classify it?</Value>
+	</Variable>	
+	<Variable>
+		<Name>AttributeErrorMessage</Name>
+		<Value>Key "old_key_number" not found. Contact your Classification Administrator to resolve.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveInstance</Name>
+		<Value>The class is abstract. The system does not support classifying objects to an "abstract" class. Please select a "storage" class in order to classify this object.</Value>
+	</Variable>
+	<Variable>
+		<Name>PastedStringIsTooLong</Name>
+		<Value>The string you tried to paste into "attribute_name" is too long.
+Only "attribute_value" would be allowed.
+Do you want to use that instead?</Value>
+	</Variable>
+	<Variable>
+		<Name>PossibleProblemDetected</Name>
+		<Value>The maximal amount of characters to enter for an attribute value is 256. With your current format "STRING(50)" and VLA size "10" setting, you will exceed that limit.</Value>
+	</Variable>
+	<Variable>
+		<Name>NoAccess</Name>
+		<Value>No access to object</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,975 @@
+<Environment>
+	<Variable>
+		<Name>JavaApplet</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>JavaApplet@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>DefaultEmbeddedFrame</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("DefaultEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste...</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Paste...")</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste...@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Paste...")</Value>
+	</Variable>
+	<Variable>
+		<Name>DefaultWindow</Name>
+		<Value>JavaWindow("DefaultWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfirmationDialog</Name>
+		<Value>JavaDialog("Confirmation Dialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewSchedule</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("New Schedule")</Value>
+	</Variable>
+	<Variable>
+		<Name>CutPasteWarningWindow</Name>
+		<Value>JavaWindow("CutPasteWarningWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>IndexOptions</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("IndexOptions")</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Remove")</Value>
+	</Variable>
+	<Variable>
+		<Name>MsmRemove</Name>
+		<Value>JavaWindow("MultiStructManager").JavaWindow("TcDefaultApplet").JavaDialog("Remove")</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMViewSaveAs</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("BOMViewSaveAs")</Value>
+	</Variable>
+	<Variable>
+		<Name>Occurrence Effectivity</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Occurrence Effectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>Occurrence Effectivity_1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Occurrence Effectivity_1")</Value>
+	</Variable>
+	<Variable>
+		<Name>Occurrence Effectivity_2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Occurrence Effectivity_2")</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveItemAs</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("SaveItemAs")</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveItemAs@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Save Item As")</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("DefaultEmbeddedFrame").JavaDialog("Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>Check-In</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Check-In")</Value>
+	</Variable>
+	<Variable>
+		<Name>Check-In@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Check-In")</Value>
+	</Variable>
+	<Variable>
+		<Name>Check-In@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Check-In")</Value>
+	</Variable>
+	<Variable>
+		<Name>Check-Out</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>Revise</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("Revise")</Value>
+	</Variable>
+	<Variable>
+		<Name>Revise@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Revise")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewSoftwareDesignComponent</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("NewSoftwareDesignComponent")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewItemErrorDialog</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Shell").JavaWindow("NewItemErrorDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>SplitIncrementalChange</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("SplitIncrementalChange")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Delete")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Item</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("NewItem")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Item@1</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("New Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>Effectivity</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Effectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>Effectivity@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Effectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>Release Status Effectivity</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Release Status Effectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>Release Status Effectivity @2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Release Status Effectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>Open by Name</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Open by Name")</Value>
+	</Variable>
+	<Variable>
+		<Name>Common Modifiable Properties</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Common Modifiable Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Design</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("New Design")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Part</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("New Part")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save as New Collaboration</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Save as New Collaboration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save as New Collaboration @2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Save as New Collaboration")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Dataset</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("New Dataset")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Form</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("NewForm")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Form@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("New Form")</Value>
+	</Variable>
+	<Variable>
+		<Name>Baseline</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Baseline")</Value>
+	</Variable>
+	<Variable>
+		<Name>Baseline @1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Baseline")</Value>
+	</Variable>
+	<Variable>
+		<Name>Change Columns</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Change Columns")</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenByName</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("OpenByName")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Schedule</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("New Schedule")</Value>
+	</Variable>
+	<Variable>
+		<Name>Choose a Schedule Template</Name>
+		<Value>JavaDialog("Choose a Schedule Template")</Value>
+	</Variable>
+	<Variable>
+		<Name>Exit</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Exit")</Value>
+	</Variable>
+	<Variable>
+		<Name>Legacy Occurrence Effectivity</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Legacy Occurrence Effectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>QuickOpenResults</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("QuickOpenResults")</Value>
+	</Variable>
+	<Variable>
+		<Name>New CAE Item</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("New CAE Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>Create Change</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Create Change")</Value>
+	</Variable>
+	<Variable>
+		<Name>Interface Definition</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Interface Definition")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLink</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("NewLink")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Connection</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("New Connection")</Value>
+	</Variable>
+	<Variable>
+		<Name>ProcessVariable</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("ProcessVariable")</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchOptions</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("SearchOptions")</Value>
+	</Variable>
+	<Variable>
+		<Name>Report</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Report")</Value>
+	</Variable>
+	<Variable>
+		<Name>Report Changes</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Report Changes")</Value>
+	</Variable>
+	<Variable>
+		<Name>PreferenceDefinitionCollision</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("PreferenceDefinitionCollision")</Value>
+	</Variable>
+	<Variable>
+		<Name>Access</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Access")</Value>
+	</Variable>
+	<Variable>
+		<Name>UserSettings</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("UserSettings")</Value>
+	</Variable>
+	<Variable>
+		<Name>UserSettings@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("User Settings")</Value>
+	</Variable>
+	<Variable>
+		<Name>UserSettings@2</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame").JavaDialog("User Settings")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangePassword</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("UserSettings").JavaWindow("Change Password")</Value>
+	</Variable>
+	<Variable>
+		<Name>WarningMessage</Name>
+		<Value>JavaWindow("Teamcenter Login").JavaWindow("Login").JavaStaticText("WarningMessage")</Value>
+	</Variable>
+	<Variable>
+		<Name>Import File</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Import File")</Value>
+	</Variable>
+	<Variable>
+		<Name>Login</Name>
+		<Value>JavaWindow("Teamcenter Login").JavaWindow("Login")</Value>
+	</Variable>
+	<Variable>
+		<Name>TeamcenterLogin</Name>
+		<Value>JavaWindow("Teamcenter Login")</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Paste")</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Paste")</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Paste")</Value>
+	</Variable>
+	<Variable>
+		<Name>New BOMView Revision</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame").JavaDialog("New BOMView Revision")</Value>
+	</Variable>
+	<Variable>
+		<Name>New BOMView Revision@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("New BOMView Revision")</Value>
+	</Variable>
+	<Variable>
+		<Name>View/Edit Multi Unit Configuration</Name>
+		<Value>JavaWindow("MyTeamcenter").JavaWindow("View/Edit Multi Unit Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Structure Context</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("New Structure Context")</Value>
+	</Variable>
+	<Variable>
+		<Name>ManageGlobalAlternates</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("ManageGlobalAlternates")</Value>
+	</Variable>
+	<Variable>
+		<Name>TcManageGlobalAlternates</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("ManageGlobalAlternates")</Value>
+	</Variable>
+	<Variable>
+		<Name>MRU List</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("MRU List")</Value>
+	</Variable>
+	<Variable>
+		<Name>Options</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Options")</Value>
+	</Variable>
+	<Variable>
+		<Name>Edit Properties</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Edit Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>Edit Properties_1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Edit Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>Preferences</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Preferences")</Value>
+	</Variable>
+	<Variable>
+		<Name>Transfer Check-Out</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Transfer Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>Error</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>AnObservationDialog</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("AnObservationDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewCustomNote</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("NewCustomNote")</Value>
+	</Variable>
+	<Variable>
+		<Name>SessionInfo</Name>
+		<Value>JavaWindow("DefaultWindow").JavaStaticText("SessionInfo")</Value>
+	</Variable>
+	<Variable>
+		<Name>Print...</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Print...")</Value>
+	</Variable>
+	<Variable>
+		<Name>Print...@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Print...")</Value>
+	</Variable>
+	<Variable>
+		<Name>Print</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Print")</Value>
+	</Variable>
+	<Variable>
+		<Name>Print@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Print")</Value>
+	</Variable>
+	<Variable>
+		<Name>JApplet</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>DetailsTable</Name>
+		<Value>JavaWindow("DefaultWindow").JavaTable("DetailsTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>Classify Object</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Classify Object")</Value>
+	</Variable>
+	<Variable>
+		<Name>Object Not Found</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Object Not Found")</Value>
+	</Variable>
+	<Variable>
+		<Name>Notepad</Name>
+		<Value>Window("Notepad")</Value>
+	</Variable>
+	<Variable>
+		<Name>Audit Log</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Audit Log")</Value>
+	</Variable>
+	<Variable>
+		<Name>Audit Log@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Audit Log")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewItemErrorDialog_H2</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("New Item").JavaDialog("NewItemErrorDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>Access</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Access")</Value>
+	</Variable>
+	<Variable>
+		<Name>ReviseError</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("ReviseError")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeletePreference</Name>
+		<Value>JavaDialog("Delete Preference(s)")</Value>
+	</Variable>
+	<Variable>
+		<Name>Edit Resource Calendar</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Edit Resource Calendar")</Value>
+	</Variable>
+	<Variable>
+		<Name>Cancel Check-Out</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Cancel Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>Cancel Check-Out@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Cancel Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>Cancel Check-Out@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Cancel Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorDialog</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("ErrorDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewBusinessObject</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("NewBusinessObject")</Value>
+	</Variable>
+	<Variable>
+		<Name>Preference Instance</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Preference Instance")</Value>
+	</Variable>
+	<Variable>
+		<Name>OptionsGeneralTab</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Options").JavaTab("GeneralUITab")</Value>
+	</Variable>
+	<Variable>
+		<Name>JavaErrorDialog</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("JavaErrorDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportFiles</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("ExportFiles")</Value>
+	</Variable>
+	<Variable>
+		<Name>Information</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Information")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewEnvelope</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("NewEnvelope")</Value>
+	</Variable>
+	<Variable>
+		<Name>NoAccessibleObjects</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("NoAccessibleObjects")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddSrchtoMySaved</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("AddSrchtoMySaved")</Value>
+	</Variable>
+	<Variable>
+		<Name>Shell</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Shell")</Value>
+	</Variable>
+	<Variable>
+		<Name>Customize My Links</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Customize My Links")</Value>
+	</Variable>
+	<Variable>
+		<Name>RenameWeblink</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("RenameWeblink")</Value>
+	</Variable>
+	<Variable>
+		<Name>Reset Perspective</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Reset Perspective")</Value>
+	</Variable>
+	<Variable>
+		<Name>MyTcJApplet</Name>
+		<Value>JavaWindow("MyTeamcenter").JavaWindow("MyTcJApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>Customize Quick Links</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Customize Quick Links")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddFavorites</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("AddFavorites")</Value>
+	</Variable>
+	<Variable>
+		<Name>Navigation Pane Options</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Navigation Pane Options")</Value>
+	</Variable>
+	<Variable>
+		<Name>MSWORD</Name>
+		<Value>Window("MicrosoftWordWin")</Value>
+	</Variable>
+	<Variable>
+		<Name>ClipboardContents</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("ClipboardContents")</Value>
+	</Variable>
+	<Variable>
+		<Name>Named References</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Named References")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewFolder</Name>
+		<Value>JavaWindow("MyTeamcenter").JavaWindow("NewFolder")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Process Dialog</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("New Process Dialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveColumn</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("RemoveColumn")</Value>
+	</Variable>
+	<Variable>
+		<Name>EnterthevaluesforProperties</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("EnterthevaluesforProperties")</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportToWord</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("ExportToWord")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Change</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("New Change")</Value>
+	</Variable>
+	<Variable>
+		<Name>Password Changed</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("UserSettings").JavaWindow("Change Password").JavaWindow("PasswordChanged")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorJavaWindow</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("ErrorJavaWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>FormProperties</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Form Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>WorkflowRuleConfiguration</Name>
+		<Value>JavaWindow("ScheduleManagerWindow").JavaWindow("ScheduleManagerApplet").JavaDialog("Workflow Rule Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>ACLControlList</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("ACL Control List")</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectBusinessObjectType</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("SelectBusinessObjectType")</Value>
+	</Variable>
+	<Variable>
+		<Name>BusinessObjectType</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("SelectBusinessObjectType").JavaTable("BusinessObjectType")</Value>
+	</Variable>
+	<Variable>
+		<Name>ImportPreferences</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Import Preferences")</Value>
+	</Variable>
+	<Variable>
+		<Name>Refresh Window</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Refresh Window")</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportToExcel</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Export To Excel")</Value>
+	</Variable>
+	<Variable>
+		<Name>CopyURL</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("ExportToWord").JavaWindow("CopyURL")</Value>
+	</Variable>
+	<Variable>
+		<Name>CopiedURL</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("CopiedURL")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorWindow</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("ErrorWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>EnterValuesForPropertiesOnRelation</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("EnterValuesForPropertiesOnRelation")</Value>
+	</Variable>
+	<Variable>
+		<Name>Assign Finish/Finish Groups</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Assign Finish/Finish Groups")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLegacyItem</Name>
+		<Value>JavaDialog("NewLegacyItem")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddNewActionItem</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("AddNewActionItem")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewForm</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("NewForm")</Value>
+	</Variable>
+	<Variable>
+		<Name>IndexOptions2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("IndexOptions")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewAudit</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("NewAudit")</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignParticipants</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("AssignParticipants")</Value>
+	</Variable>
+	<Variable>
+		<Name>Exit</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Exit")</Value>
+	</Variable>
+	<Variable>
+		<Name>Check-Out@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>Check-Out@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>Sort</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Sort")</Value>
+	</Variable>
+	<Variable>
+		<Name>XML Export</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("XML Export")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewProgramView</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("NewProgramView")</Value>
+	</Variable>
+	<Variable>
+		<Name>ColumnChooser</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Column Chooser")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewDrawing</Name>
+		<Value>Window("TeamcenterWindow").JavaDialog("NewDrawing")</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowsInternetExplorer</Name>
+		<Value>Browser("Browser").Dialog("WindowsInternetExplorer")</Value>
+	</Variable>
+	<Variable>
+		<Name>Apply Column Configuration</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Apply Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Apply Column Configuration@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Apply Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete Column Configuration</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Delete Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete Column Configuration@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Delete Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save Column Configuration</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Save Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save Column Configuration@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Save Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckIndexStatus</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("CheckIndexStatus")</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenWith</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("OpenWith")</Value>
+	</Variable>
+	<Variable>
+		<Name>LastPerspective</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("LastPerspective")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeColumns</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("ChangeColumns")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeColumns@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("ChangeColumns")</Value>
+	</Variable>
+	<!-- '&' is represented as &amp; is XML -->
+	<Variable>
+		<Name>ChangeGD&amp;TSymbols</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("ChangeGD&amp;TSymbols")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Delete")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete@2</Name>
+		<Value>JavaDialog("Delete")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete@4</Name>
+		<Value>JavaWindow("DeleteWin")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete@3</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Delete")</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Remove")</Value>
+	</Variable>
+	<Variable>
+		<Name>AccessDenied</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("AccessDenied")</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectUniqueVendor</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("SelectUniqueVendor")</Value>
+	</Variable>
+	<Variable>
+		<Name>TcDefaultApplet</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>Show View</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Show View")</Value>
+	</Variable>
+	<Variable>
+		<Name>DefaultWindowUnableToCut</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Unable to Cut")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeGD&amp;TSymbols@1</Name>
+		<Value>JavaWindow("ChangeGD&amp;TSymbols")</Value>
+	</Variable>
+		<Variable>
+		<Name>ClipboardButton</Name>
+		<Value>JavaWindow("DefaultWindow").JavaCheckBox("ClipboardButton")</Value>
+	</Variable>
+	<Variable>
+		<Name>RefreshWin</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Refresh Window")</Value>
+	</Variable>
+	<Variable>
+		<Name>ReadOnlyDSWord</Name>
+		<Value>JavaWindow("MyTeamcenter").JavaWindow("ReadOnly")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteBelow</Name>
+		<Value>JavaDialog("Delete Below")</Value>
+	</Variable>
+	<Variable>
+		<Name>NavToolbar</Name>
+		<Value>JavaWindow("DefaultWindow").JavaToolbar("Navigation")</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveColumn@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Remove Column")</Value>
+	</Variable>
+	<Variable>
+		<Name>PreferenceInstance</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("PreferenceInstance")</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignObjectToProject</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("AssignObjectToProject")</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckIn@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Check-In")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddFavorites@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("AddFavorites")</Value>
+	</Variable>
+	<Variable>
+		<Name>Warning</Name>
+		<Value>Window("TeamcenterWindow").Dialog("Warning")</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewDefineCharacteristicTolerance</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("ViewDefineCharacteristicTolerance")</Value>
+	</Variable>
+		<Variable>
+		<Name>SaveFile</Name>
+		<Value>JavaWindow("DefaultWindow").Dialog("SaveFile")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorDialog@2</Name>
+		<Value>JavaWindow("DefaultWindow").Dialog("ErrorDialog")</Value>
+	</Variable>	
+	<Variable>
+		<Name>PropCheck-Out</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("CheckOut")</Value>
+	</Variable>
+	<Variable>
+		<Name>QualificationNavTree</Name>
+		<Value>JavaWindow("DefaultWindow").JavaTree("QualificationNavTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>GeneralInnerTab</Name>
+		<Value>JavaWindow("DefaultWindow").JavaTab("GeneralInnerTab")</Value>
+	</Variable>
+	<Variable>
+		<Name>QualificationPropertyName</Name>
+		<Value>JavaWindow("DefaultWindow").JavaStaticText("QualificationPropertyName")</Value>
+	</Variable>
+	<Variable>
+		<Name>QaulificationButton</Name>
+		<Value>JavaWindow("DefaultWindow").JavaButton("QaulificationButton")</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolUsed</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("New Dataset").JavaList("ToolUsed")</Value>
+	</Variable>	
+	<Variable>
+		<Name>ItemTypeTree</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("NewItem").JavaTree("ItemType")</Value>
+	</Variable>	
+	<Variable>
+		<Name>FavoritesTree</Name>
+		<Value>JavaWindow("DefaultWindow").JavaTree("Favorites")</Value>
+	</Variable>	
+	<Variable>
+		<Name>QuickSearchToolbar</Name>
+		<Value>JavaWindow("DefaultWindow").JavaToolbar("QuickSearchToolbar")</Value>
+	</Variable>
+	<Variable>
+		<Name>AutoFilterDialog</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("AutoFilter")</Value>
+	</Variable>
+	<Variable>
+		<Name>ReadyStaticText</Name>
+		<Value>JavaWindow("DefaultWindow").JavaStaticText("Ready")</Value>
+	</Variable>	
+	<Variable>
+		<Name>Duplicate</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Duplicate")</Value>
+	</Variable>	
+	<Variable>
+		<Name>SearchResultTree</Name>
+		<Value>JavaWindow("DefaultWindow").JavaTree("SearchResultTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>Warning</Name>
+		<Value>JavaDialog("Warning")</Value>
+	</Variable>
+	<Variable>
+		<Name>ReadOnly</Name>
+		<Value>JavaDialog("ReadOnly")</Value>
+	</Variable>	
+	<Variable>
+		<Name>RACTabFolderWidget@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaObject("RACTabFolderWidget")</Value>
+	</Variable>	
+	<Variable>
+		<Name>NewWorkContext</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("New Work Context")</Value>
+	</Variable>	
+	<Variable>
+		<Name>SelectRecipients</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("SelectRecipients")</Value>
+	</Variable>
+	<Variable>
+		<Name>MyProjectTree</Name>
+		<Value>JavaWindow("DefaultWindow").JavaTree("MyProjectTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>FormProperties@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Form Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>NavigationSectionOrdering</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("NavigationSectionOrdering")</Value>
+	</Variable>
+	<Variable>
+		<Name>RefreshWindow</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("Refresh Window")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewItemFromTemplateDialog</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("New Item From Template")</Value>
+	</Variable>
+	<Variable>
+		<Name>FindtemplatebynameDialog</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Find template by name")</Value>
+	</Variable>
+	<Variable>
+		<Name>ContextMenu</Name>
+		<Value>JavaWindow("DefaultWindow").WinMenu("ContextMenu")</Value>
+	</Variable>
+	<Variable>
+		<Name>Print@2</Name>
+		<Value>JavaDialog("Print")</Value>
+	</Variable>
+	<Variable>
+		<Name>Edit Properties@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("DefaultEmbeddedFrame").JavaDialog("Edit Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>WEmbeddedFrame</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>MRU List@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("MRU List")</Value>
+	</Variable>
+	<Variable>
+		<Name>Occurrence Effectivity_1@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Occurrence Effectivity_1")</Value>
+	</Variable>
+	<Variable>
+		<Name>Occurrence Effectivity_2@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Occurrence Effectivity_2")</Value>
+	</Variable>
+	<Variable>
+		<Name>Occurrence Effectivity@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Occurrence Effectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>Legacy Occurrence Effectivity@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Legacy Occurrence Effectivity")</Value>
+	</Variable>
+	<Variable>
+		<Name>Change Columns@2</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Change Columns")</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenWith@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("OpenWith")</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenByName1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("UserSettings").JavaWindow("Open by Name")</Value>
+	</Variable>
+	<Variable>
+		<Name>NoAssignPrivilege</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("No Assign Privilege")</Value>
+	</Variable>
+</Environment>

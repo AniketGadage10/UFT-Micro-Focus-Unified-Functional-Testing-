@@ -1,0 +1,62 @@
+<Environment>
+	<Variable>
+		<Name>New Part</Name>
+		<Value>Window("ADSWindow").JavaDialog("New Part")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Item</Name>
+		<Value>Window("ADSWindow").JavaDialog("New Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Change</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("New Change")</Value>
+	</Variable>
+	<Variable>
+		<Name>TechnicalDocument</Name>
+		<Value>Window("ADSWindow").JavaDialog("TechnicalDocument")</Value>
+	</Variable>
+	<Variable>
+		<Name>Generate Submittal Delivery</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("Generate Submittal Delivery")</Value>
+	</Variable>	
+	<Variable>
+		<Name>Properties</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("TcDefaultApplet").JavaDialog("Properties")</Value>
+	</Variable>	
+	<Variable>
+		<Name>Event List:</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaTable("Event List:")</Value>
+	</Variable>
+	<Variable>
+		<Name>ADS-TeamCenter</Name>
+		<Value>JavaWindow("ADS-TeamCenter")</Value>
+	</Variable>
+	<Variable>
+		<Name>Select A RelationType</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("Assign Company Location").JavaWindow("Select A RelationType")</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignCompanyLocation</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("Assign Company Location")</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties1</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("ADSWebEmbeddedFrame").JavaDialog("Properties")</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveUser</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("Remove User")</Value>
+	</Variable>
+	<Variable>
+		<Name>ADSDialog</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("ADSDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>Non-ProjectAdministratorDialog</Name>
+		<Value>JavaWindow("Project - Teamcenter 8").Dialog("non-Project Administrator Dialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeOwningProgram</Name>
+		<Value>JavaWindow("ADS-TeamCenter").JavaWindow("ChangeOwningProgram")</Value>
+	</Variable>
+</Environment>

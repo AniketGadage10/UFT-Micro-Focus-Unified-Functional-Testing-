@@ -1,0 +1,14 @@
+<Environment>
+	<Variable>
+		<Name>ADATree</Name>
+		<Value>JavaWindow("ADA License - Teamcenter")</Value>
+	</Variable>
+	<Variable>
+		<Name>ADAErrorDialog</Name>
+		<Value>JavaWindow("ADA License - Teamcenter").Dialog("ErrorDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>InAccordanceWith</Name>
+		<Value>JavaWindow("ADA License - Teamcenter").JavaEdit("InAccordanceWith")</Value>
+	</Variable>
+</Environment>

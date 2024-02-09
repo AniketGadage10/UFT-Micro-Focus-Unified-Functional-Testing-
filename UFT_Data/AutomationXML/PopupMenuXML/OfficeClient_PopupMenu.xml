@@ -1,0 +1,70 @@
+<Environment>
+	<Variable>
+		<Name>Folder</Name>
+		<Value>Create Folder...</Value>
+	</Variable>	
+	<Variable>
+		<Name>Item</Name>
+		<Value>Create Item...</Value>
+	</Variable>	
+	<Variable>
+		<Name>CheckOut</Name>
+		<Value>Check-In/Out...:Check-Out</Value>
+	</Variable>	
+	<Variable>
+		<Name>CheckIn</Name>
+		<Value>Check-In/Out...:Check-In</Value>
+	</Variable>	
+	<Variable>
+		<Name>CancelCheckOut</Name>
+		<Value>Check-In/Out...:Cancel Check-Out</Value>
+	</Variable>
+	<Variable>
+		<Name>TransferCheckOut</Name>
+		<Value>Check-In/Out...:Transfer Check-Out</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOutHistory</Name>
+		<Value>Check-In/Out...:Check-Out History</Value>
+	</Variable>
+	<Variable>
+		<Name>Copy</Name>
+		<Value>Copy</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>Paste</Value>
+	</Variable>
+	<Variable>
+		<Name>NewWorkflowProcess</Name>
+		<Value>New Workflow Process...</Value>
+	</Variable>	
+	<Variable>
+		<Name>OpenFileReadOnly</Name>
+		<Value>Open File (Read-Only)</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewPerformTask</Name>
+		<Value>View/Perform task...</Value>
+	</Variable>
+	<Variable>
+		<Name>Insert</Name>
+		<Value>Insert</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete</Name>
+		<Value>Delete</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenAndCheckOutFile</Name>
+		<Value>Open and Check-Out File</Value>
+	</Variable>
+	<Variable>
+		<Name>Revise</Name>
+		<Value>Revise...</Value>
+	</Variable>		
+		<Variable>
+		<Name>Refresh</Name>
+		<Value>Refresh</Value>
+	</Variable>	
+</Environment>

@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>PasteError</Name>
+		<Value>The object "Node" cannot be assigned because of the following error: The line cannot be assigned to the Occurrence Group because it already exists.</Value>
+	</Variable>
+	<Variable>
+		<Name>CopyPasteError</Name>
+		<Value>The object "Node" cannot be assigned because of the following error: You are attempting to create a circular structure.</Value>
+	</Variable>
+</Environment>	

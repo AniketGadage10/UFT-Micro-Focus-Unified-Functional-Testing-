@@ -1,0 +1,18 @@
+<Environment>
+	<Variable>
+		<Name>FileNewPartRequest</Name>
+		<Value>File:New:Part Request...</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleWorkflowTask</Name>
+		<Value>Schedule:Workflow Task</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewNotice</Name>
+		<Value>File:New:Notice...</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleMembership</Name>
+		<Value>Schedule:Schedule Membership</Value>
+	</Variable>
+</Environment>

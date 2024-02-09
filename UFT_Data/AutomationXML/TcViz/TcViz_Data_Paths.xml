@@ -1,0 +1,14 @@
+<Environment>
+	<Variable>
+		<Name>2D_Tiff</Name>
+		<Value>Home:AutomatedTests:2D3D_DATA:001419-2D Tiff</Value>
+	</Variable>
+	<Variable>
+		<Name>2D_DWG</Name>
+		<Value>Home:AutomatedTests:2D3D_DATA:001420-2D DWG</Value>
+	</Variable>
+	<Variable>
+		<Name>3D_ShockAbsorber</Name>
+		<Value>Home:AutomatedTests:2D3D_DATA:001421-shock_absorber</Value>
+	</Variable>
+</Environment>

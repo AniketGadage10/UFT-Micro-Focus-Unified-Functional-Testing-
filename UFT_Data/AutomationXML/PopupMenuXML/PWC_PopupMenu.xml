@@ -1,0 +1,14 @@
+<Environment>
+	<Variable>
+		<Name>SelectaProgramteamadministrator</Name>
+		<Value>Select a Program team administrator</Value>
+	</Variable>
+		<Variable>
+		<Name>SelectaProjectteamadministrator</Name>
+		<Value>Select a Project team administrator</Value>
+	</Variable>
+	<Variable>
+		<Name>SetDefaultProject</Name>
+		<Value>Set Default Project</Value>
+	</Variable>
+</Environment>

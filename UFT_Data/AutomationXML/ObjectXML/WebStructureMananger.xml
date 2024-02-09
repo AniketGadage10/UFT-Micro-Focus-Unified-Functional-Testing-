@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>TeamcenterWebStructure</Name>
+		<Value>Browser("TeamcenterStructureWeb").Page("TeamcenterWebStructure")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddSubstitute</Name>
+		<Value>Browser("TeamcenterStructureWeb").Page("TeamcenterWebStructure").WebTable("AddSubstitute")</Value>
+	</Variable>
+	<Variable>
+		<Name>2ndLevelButtonPanel</Name>
+		<Value>Browser("TeamcenterStructureWeb").Page("TeamcenterWebStructure").WebTable("2ndLevelButtonPanel")</Value>
+	</Variable>
+	<Variable>
+		<Name>ListSubstitute</Name>
+		<Value>Browser("TeamcenterStructureWeb").Page("TeamcenterWebStructure").WebTable("ListSubstitute")</Value>
+	</Variable>
+	<Variable>
+		<Name>ButtonTable</Name>
+		<Value>Browser("TeamcenterStructureWeb").Page("TeamcenterWebStructure").WebTable("ButtonTable")</Value>
+	</Variable>
+</Environment>

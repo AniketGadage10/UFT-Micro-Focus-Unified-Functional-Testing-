@@ -1,0 +1,74 @@
+<Environment>
+	<Variable>
+		<Name>TargetProperties</Name>
+		<Value>Target Properties...</Value>
+	</Variable>	
+	<Variable>
+		<Name>OpenWithEffectivity</Name>
+		<Value>Open with:Effectivity</Value>
+	</Variable>	
+	<Variable>
+		<Name>UpdateAggregateRecipe</Name>
+		<Value>Update Aggregate Recipe</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenWithContentExplorerAsLatest</Name>
+		<Value>Open with:Content Explorer (As Latest)</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateBaselineReference</Name>
+		<Value>Update Baseline Reference...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowSourceElements</Name>
+		<Value>Show Source Elements</Value>
+	</Variable>
+	<Variable>
+		<Name>ReplaySubsetRecipe</Name>
+		<Value>Replay Subset Recipe</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewProperties</Name>
+		<Value>View Properties	Alt+P</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateDesignElement</Name>
+		<Value>Update Design Component</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandAll</Name>
+		<Value>Expand All</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove</Name>
+		<Value>Remove</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenWithContentExplorer</Name>
+		<Value>Open with:Content Explorer</Value>
+	</Variable>
+	<Variable>
+		<Name>AddtoChange</Name>
+		<Value>Add to Change</Value>
+	</Variable>	
+	<Variable>
+		<Name>IncludeMembers</Name>
+		<Value>Include Members</Value>
+	</Variable>	
+	<Variable>
+		<Name>ExcludeMembers</Name>
+		<Value>Exclude Members</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenWithVariantConditions</Name>
+		<Value>Open with:Variant Conditions</Value>
+	</Variable>	
+	<Variable>
+		<Name>OpenWithVariantConfiguration</Name>
+		<Value>Open with:Variant Configuration</Value>
+	</Variable>
+	<Variable>
+		<Name>Configurebasedonselections</Name>
+		<Value>Configure based on selection(s)</Value>
+	</Variable>		
+</Environment>

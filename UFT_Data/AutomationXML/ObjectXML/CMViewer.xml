@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>CMVApplet</Name>
+		<Value>Window("CMViewer").JavaApplet("CMVApplet")</Value>
+	</Variable>
+</Environment>

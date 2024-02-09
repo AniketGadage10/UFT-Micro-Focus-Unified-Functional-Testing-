@@ -1,0 +1,34 @@
+<Environment>
+	<Variable>
+		<Name>NewRootTemplate</Name>
+		<Value>JavaWindow("WorkflowDesignerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("NewRootTemplate")</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportWorkflowTemplates</Name>
+		<Value>JavaWindow("WorkflowDesignerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("ExportWorkflowTemplates")</Value>
+	</Variable>
+	<Variable>
+		<Name>ImportWorkflowTemplates</Name>
+		<Value>JavaWindow("WorkflowDesignerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("ImportWorkflowTemplates")</Value>
+	</Variable>
+	<Variable>
+		<Name>Import Completed</Name>
+		<Value>JavaWindow("PLMXML-TeamCenter").JavaWindow("JApplet").JavaDialog("Import Completed")</Value>
+	</Variable>
+	<Variable>
+		<Name>Export Completed</Name>
+		<Value>JavaWindow("PLMXML-TeamCenter").JavaWindow("JApplet").JavaDialog("Export Completed")</Value>
+	</Variable>
+	<Variable>
+		<Name>Offline?</Name>
+		<Value>JavaWindow("WorkflowDesignerWindow").JavaWindow("Offline?")</Value>
+	</Variable>
+	<Variable>
+		<Name>ProcessTemplateFilter</Name>
+		<Value>JavaWindow("WorkflowDesignerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("ProcessTemplateFilter")</Value>
+	</Variable>
+	<Variable>
+		<Name>WrkflwDegnrApplet</Name>
+		<Value>JavaWindow("WorkflowDesignerWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+</Environment>

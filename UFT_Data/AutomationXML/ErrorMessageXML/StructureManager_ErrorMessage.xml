@@ -1,0 +1,751 @@
+<Environment>
+	<Variable>
+		<Name>EffectivityIDAlreadyExistsError</Name>
+		<Value>An effectivity with unit range already exists with this ID. Duplicate effectivities with same ID not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateEffectivityGroupRevision</Name>
+		<Value>Chosen Effectivity Group Revision already exists in the list.Select a different EffectivityGroup Revision.</Value>
+	</Variable>	
+	<Variable>
+		<Name>UpdateSuperseded</Name>
+		<Value>There are no other approved revisions for the selected item</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateSuperseded2</Name>
+		<Value>There are no approved revisions for the selected item</Value>
+	</Variable>	
+	<Variable>
+		<Name>OptionHasValue</Name>
+		<Value>Option has value  "VARVAL"  already.</Value>
+	</Variable>	
+	<Variable>
+		<Name>donothavewriteaccesstoobject</Name>
+		<Value>The current user does not have write access to the object "BVR"</Value>
+	</Variable>
+	<Variable>
+		<Name>UnloadBelow</Name>
+		<Value>This will unload the complete BOM below the selected VBLF BOM Line/BOM Lines displayed in Structure Manager.VBLF Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>AddComponentError</Name>
+		<Value> The child cannot be added to the selected parent because the child type "~" is not valid for parent type "@".</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteAccessERROR</Name>
+		<Value>The current user does not have delete access to the object "$".</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveError</Name>
+		<Value>The occurrence about to be modified or deleted may have been removed by another session.</Value>
+	</Variable>		
+	<Variable>
+		<Name>SelectError</Name>
+		<Value>Invalid objects are selected.</Value>
+	</Variable>	
+		<Variable>
+		<Name>MultiSelectError</Name>
+		<Value>Only one object should be selected.</Value>
+	</Variable>	
+	<Variable>
+		<Name>SubstituteAddError</Name>
+		<Value>Cannot create duplicate substitutes of same Item;$this occurrence already has substitute </Value>
+	</Variable>
+	<Variable>
+		<Name>Theaccessisdenied</Name>
+		<Value>The access is denied.</Value>
+	</Variable>	
+	<Variable>
+		<Name>noEffectivityGroupcouldbefound</Name>
+		<Value>No Effectivity Group could be found using the given information</Value>
+	</Variable>	
+	<Variable>
+		<Name>DeleteErrorMsg</Name>
+		<Value>The instance is referenced. </Value>
+	</Variable>
+	<Variable>
+		<Name>PasteDatasetError</Name>
+		<Value>The same Dataset/Form cannot be added twice as attachment.</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjectIsInUseError</Name>
+		<Value>Object  is in use in a BOM windowNEWLINEClose the window first</Value>
+	</Variable>
+	<Variable>
+		<Name>Theactionwassuccessful</Name>
+		<Value>The action was successful.</Value>
+	</Variable>
+	<Variable>
+		<Name>ValueSelection0</Name>
+		<Value>#is not defined on the configured Revision.</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectICAccess</Name>
+		<Value>You do not have write access to selected Incremental Change edit context</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfigureToLoadMode</Name>
+		<Value>The BOM is in Configure to Load mode.VBLFThis action will open a new window with the same top item with the specified revision rule for this set of option selections.VBLFDo you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>DesignRevisionNotEligiblePrimaryRepresentation</Name>
+		<Value>The selected Design Revision not eligible to be set as Primary Representation.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReleaseStatusEffectivity</Name>
+		<Value>Release status effectivity must have a range defined</Value>
+	</Variable>
+	<Variable>
+		<Name>ModifyVariantCondition</Name>
+		<Value>It is not allowed to modify an Option that is still in use. You need to remove its references from all Variant Conditions in order to be able to modify it.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorOnCheckoutItem</Name>
+		<Value>Object @ is Checked-Out by #, therefore you cannot modify/delete it.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorOfDeletedItem</Name>
+		<Value>The given tag () does not exist in the database or is not a persistent object tag.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorOfCutItem</Name>
+		<Value>The structure is stale. Please refresh it.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorOfSubstituteItem</Name>
+		<Value>The selection contains one or more substitute lines. The substitute lines will not be pasted on the target Item.</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMViewcannotbemodified</Name>
+		<Value>The BOM View Revision $ cannot be modified.</Value>	
+	</Variable>
+	<Variable>
+		<Name>ObjCheckotbyuserErr</Name>
+		<Value>"@" is Checked-Out by "#".</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjCheckotbyuserErr@1</Name>
+		<Value>"@" is checked-out by "#".</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjCheckoutErr</Name>
+		<Value>@ is checked out by # ($). Any changes will be lost.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjReadOnlyErr</Name>
+		<Value>@ is read only. Any changes will be lost.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteError</Name>
+		<Value>The requested paste has failed on some objects.#The failback has been performed to paste them to your NewStuff folder.</Value>
+	</Variable>	
+	<Variable>
+		<Name>PasteErrorOfSubstitute</Name>
+		<Value>Editing of attachments is not allowed for substitute lines when the "In Context" edit mode is turned on.</Value>
+	</Variable>	
+	<Variable>
+		<Name>PasteErrorOfSubstituteAbsoluteContextMode</Name>
+		<Value>Creation of attachment data in absolute context mode is not allowed for substitute lines.</Value>
+	</Variable>	
+	<Variable>
+		<Name>DeleteMarkup</Name>
+		<Value>Error(s) encountered:
+
+(1) The current user does not have delete access to the object #@#.  
+</Value>
+	</Variable>		
+	<Variable>
+		<Name>ChildPasteErrorOfSubstitute</Name>
+		<Value>A child line cannot be added to a substitute line.</Value>
+	</Variable>		
+	<Variable>
+		<Name>ValidateAccesstoApplyMarkups</Name>
+		<Value>Validation complete. There are no access problems to apply markups for the structure.</Value>
+	</Variable>	
+	<Variable>
+		<Name>BOMExpansionOnClosureRule</Name>
+		<Value>BOM Line expansion is skipped by Closure Rule. 
+ You may perform expansion after unsetting the Closure Rule from View/Set Closure Rule for Expansion dialog.</Value>
+	</Variable>
+	<Variable>
+		<Name>ColumnConfigurationError</Name>
+		<Value>A column configuration with same name was already created by an administrative user.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidClosureRule</Name>
+		<Value>Please verify that the selected Closure Rule exists.</Value>
+	</Variable>
+	<Variable>
+		<Name>CanNotAccessNotesOnTheTopLineOfTheStructure</Name>
+		<Value>You cannot access notes on the top line of the structure</Value>
+	</Variable>	
+	<Variable>
+		<Name>ReferencedByErrorMessage</Name>
+		<Value>The instance is referenced.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidQuantity</Name>
+		<Value>Invalid quantity value entered.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidQuantity@1</Name>
+		<Value>Invalid Quantity!</Value>
+	</Variable>
+	<Variable>
+		<Name>FindInDisplayMsg</Name>
+		<Value>The selected structure is not fully loaded.
+
+"Load and Search" will load all the components before searching.(This may be time-consuming for large structures.)
+
+"Search Now" will search the currently loaded components.</Value>
+	</Variable>
+	<Variable>
+		<Name>OptionNameRenameError</Name>
+		<Value>The option "@" cannot be renamed to "$", because an option with same name already exists on the Item "#".</Value>
+	</Variable>	
+	<Variable>
+		<Name>AllowMultipleValuesforOption</Name>
+		<Value>Do you want to carry over the default and derived default value(s) as user set?
+ If you select No, these values will be automatically cleared.</Value>
+	</Variable>	
+	<Variable>
+		<Name>LoadVariantRuleMsg</Name>
+		<Value>You are attempting to load a variant rule with multiple values for an option(s). Please activate the checkbox for 'Allow multiple values for option' before loading the selected variant rule.</Value>
+	</Variable>	
+	<Variable>
+		<Name>ExitMsg</Name>
+		<Value>Exit will remove all the loaded variant rules in the configuration.
+ A new single empty variant rule is automatically applied to the BOM window.
+ Default and derived default values are evaluated.
+
+ Do you want to continue with the operation?</Value>
+	</Variable>	
+ 	<Variable>
+		<Name>AllowMultipleValuesforOption1</Name>
+		<Value>You are about to disable multiple values for an option. This will automatically clear and apply the variant rule to the BOM.
+Defaults, derived defaults and rule checks will be evaluated.
+
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>AddVariantsError</Name>
+		<Value>The selected operation does not support usage of the BOM Window Variant configuration mode 2 (Overlay). Please change the BOM Window Variant configuration mode to 0 (single rule - single value) or 1 (single rule - multi value).</Value>
+	</Variable>		
+	<Variable>
+		<Name>FliterUnconfiguredBomLine</Name>
+		<Value>The BOM is in Configure to Load mode.
+This action will open a new window with the same top item with the specified revision rule for this set of option selections.
+Do you want to continue?</Value>
+	</Variable>	 
+	<Variable>
+		<Name>AssmBaselineError</Name>
+		<Value>ItemName1                   Reusing the ComponentItemName2                    Validated</Value>
+	</Variable>
+   <Variable>
+		<Name>AssmBaselineError@3</Name>
+		<Value>ItemName1                   Reusing the ComponentItemName2                   Reusing the Component</Value>
+	</Variable>		
+	<Variable>
+		<Name>ErrorWhileSwichIC</Name>
+		<Value>Do you want to save the Structure Manager changes and switch Incremental Change Context?</Value>
+	</Variable>
+	<Variable>
+		<Name>AssmBaselineError@2</Name>
+		<Value>Validation Passed</Value>
+	</Variable>
+	<Variable>
+		<Name>Duplicatesubstitutes</Name>
+		<Value>Cannot create duplicate substitutes of same Item;vblfthis occurrence already has substitute #</Value>
+	</Variable>
+	<Variable>
+		<Name>BomViewRevisionAceess</Name>
+		<Value>The BOM View Revision "$" cannot be modified. Please check your access rights.</Value>
+	</Variable>
+   <Variable>
+		<Name>donothavewriteaccessonobject</Name>
+		<Value>You do not have write access on object .</Value>
+	</Variable>
+	 <Variable>
+		<Name>BOMCompareVisibleModes</Name>
+		<Value>BOMCompareVisibleModes preference is not set to a valid value. 
+Please set the value before performing BOMCompare.</Value>
+	</Variable>
+	<Variable>
+		<Name>OperationFailedOnObject</Name>
+		<Value>The operation has failed on the object #DatasetName# (DatasetImpl).</Value>
+	</Variable>
+	<Variable>
+		<Name>ReplaceError</Name>
+		<Value>Cannot replace the BOMLine since either the replacing node or the replaced node has substructure.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteError</Name>
+		<Value>The instance is referenced.@The operation has failed on the object $ (Item).@The object is referenced by "# (BOMView Revision) ". Please report it to your system administrator.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteReferenceError</Name>
+		<Value>The object is referenced by "$/A-View (BOMView Revision) ". Please report it to your system administrator.</Value>
+	</Variable>
+	<Variable>
+		<Name>BranchNameMustbeUnique</Name>
+		<Value>A Branch with name "@" already exists. A Branch name must be unique.</Value>	
+	</Variable>
+	<Variable>
+		<Name>CreateNewOptionError</Name>
+		<Value>Item  already contains option .</Value>	
+	</Variable>
+	<Variable>
+		<Name>TheBranchisinactive</Name>
+		<Value>The Branch "@" is inactive. Item Revisions or other Branches cannot be added/removed to a Branch in inactive state.</Value>	
+	</Variable>
+	<Variable>
+		<Name>CircularBranchHierarchy</Name>
+		<Value>The operation has failed, because it would create a circular Branch hierarchy.</Value>	
+	</Variable>
+	<Variable>
+		<Name>SiblingPasteError</Name>
+		<Value>The operation has failed, because selected parent "branch1" is not a sibling of existing parents of the Branch "branch2".</Value>	
+	</Variable>
+	<Variable>
+		<Name>DeleteError@2</Name>
+		<Value>The object "$" is in use in a BOM window.#Close the window(s) with top line(s) "@".</Value>
+	</Variable>
+	<Variable>
+		<Name>OccEffectivityError</Name>
+		<Value>Occurrence effectivity must have a range defined</Value>
+	</Variable>
+		<Variable>
+		<Name>AttachmentItemCutError</Name>
+		<Value>:The object "@" is in use in a BOM window.
+Close the window(s) with top line(s) "$".</Value>	
+	</Variable>
+	<Variable>
+		<Name>BaselineWarning</Name>
+		<Value>The baseline could not be created, because the smart baseline feature is turned on and there are no changes from the last baseline.</Value>
+	</Variable>
+	<Variable>
+		<Name>CircularStructure</Name>
+		<Value>You are attempting to create a circular structure.</Value>
+	</Variable>
+	<Variable>
+		<Name>BVRDeleteErrorAfterRemoveWriteAccess</Name>
+		<Value>"ItemRev" could not be removed because you do not have access to "BVRName". Details: 
+
+The current user does not have write access to the object "BVRName".
+The BOM View Revision "BVRName" cannot be modified. Please check your access rights.
+</Value>
+	</Variable>
+	<Variable>
+		<Name>PendingEditsError</Name>
+		<Value>Cannot perform compare if either window has pending edits. Please save the structure(s) before comparing.</Value>
+	</Variable>
+	<Variable>
+		<Name>BaselineDryRunError</Name>
+		<Value> -ChildItemvblf                   51011 The current user does not have copy access to the object "DatasetName".vblf                   ERROR</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateStrucureMessage</Name>
+		<Value>The selected structure has been duplicated successfully.The top item of the duplicate structure, ItemRev, can be found in the Newstuff folder. The duplicate item revision is available in the clipboard.</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateResultsMessage</Name>
+		<Value>The selected structure has been duplicated successfully.The top item of the duplicate structure is ItemRev and is available in the clipboard.</Value>
+	</Variable>
+	<Variable>
+		<Name>BomNodeReplaceError</Name>
+		<Value>The BOM View Revision "$" cannot be modified. Please check your access rights.VBCRLFThe current user does not have write access to the object "$".VBCRLFThe "Replace" operation has completed with errors.</Value>
+	</Variable>
+	<Variable>
+		<Name>ClearFilterSelectionsMSM</Name>
+		<Value>The ability to filter the where referenced results only applies
+to the One Level operation.  Therefore the fields will be cleared.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExistingPartFoundError</Name>
+		<Value>An existing part is found. Create/Save-As only creates new Parts. 
+In order to create a new Part Revision, please use the File->Revise command.
+</Value>
+	</Variable>
+	<Variable>
+		<Name>ExistingPartFoundError@2</Name>
+		<Value>The object "$" is not saved because "ID = @" is not unique.</Value>
+	</Variable>
+	<Variable>
+		<Name>NewVariantItemError</Name>
+		<Value>The instance cannot be saved because it contains at least one attribute that violates a unique attribute rule.</Value>
+	</Variable>
+	<Variable>
+		<Name>NewVariantItemError@2</Name>
+		<Value>The Item "@" is not unique.
+The object "@" is not saved because "ID = $" is not unique.</Value>
+	</Variable>
+	<Variable>
+		<Name>FindInBOM</Name>
+		<Value>The selected structure is not fully loaded.
+
+"Load and Search" will load all the components before searching.(This may be time-consuming for large structures.)
+
+"Search Now" will search the currently loaded components.</Value>
+	</Variable>
+	<Variable>
+		<Name>FindInDisplayMessageVerify</Name>
+		<Value>You have entered a wildcard character, which is not supported. There is no need to use a wildcard as the "=" operator will find any line containing the string you entered.</Value>
+	</Variable>
+	<Variable>
+		<Name>CutBOMLine</Name>
+		<Value>Cannot cut BOM lines from BVRName. Write access is denied.</Value>
+	</Variable>
+	<Variable>
+		<Name>CyclicConditionFoundMessage</Name>
+		<Value>Cyclic display condition is found. Do you want to proceed to display them again?</Value>
+	</Variable>
+	<Variable>
+		<Name>ValidationOnlyOnOperationBySelection</Name>
+		<Value>The Validation of the structure ItemName passed.</Value>
+	</Variable>
+	<Variable>
+		<Name>Noobjectselected</Name>
+		<Value>Please select an object.</Value>
+	</Variable>
+	<Variable>
+		<Name>EditVariantErrorMessage</Name>
+		<Value>Property Legacy Variant Condition Tag is not modifiable.
+The BOM View Revision "BOMViewRevision" cannot be modified. Please check your access rights.
+The current user does not have write access to the object "BOMViewRevision".</Value>
+	</Variable>
+	<Variable>
+		<Name>CreatePublishLink</Name>
+		<Value>Occurrence chosen as source is already a source for some PublishLink.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddTargetsToPublishLink</Name>
+		<Value>Invalid source as input.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddTargetsToPublishLink@1</Name>
+		<Value>Occurrence chosen as target is already a target for some PublishLink.</Value>
+	</Variable>	
+	<Variable>
+		<Name>NoPublishLinkExists</Name>
+		<Value>No Publish Link exists for the source.</Value>
+	</Variable>
+	<Variable>
+		<Name>FindPublishLinkTarget</Name>
+		<Value>Source line for the selected target is not present in the companion panel</Value>
+	</Variable>	
+	<Variable>
+		<Name>FindPublishLinkSource</Name>
+		<Value>Target line for selected source is not present in the companion panel</Value>
+	</Variable>	
+	<Variable>
+		<Name>RemovePublishLinkTarget</Name>
+		<Value>Invalid target for remove.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteBOMLineInLargeStrMsg</Name>
+		<Value>This operation will remove all lines of the occurrences of the selected objects and then delete the objects. If structure is big, it may take a long time.
+Choose Yes to continue the delete action or No to remove line(s) instead.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddBOMLinesError</Name>
+		<Value>Cannot add components to a linked variant item structure.</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMCompareNoDiff</Name>
+		<Value>No difference was found between the BOM Lines.</Value>
+	</Variable>
+		<Variable>
+		<Name>NoVariantsRules</Name>
+		<Value>There are no saved variant rules found.</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjectNotUsedAssemblyError</Name>
+		<Value>This object is not used in any assemblies.</Value>
+	</Variable>
+	<Variable>
+		<Name>MassUpdateAddPartError</Name>
+		<Value>This operation will add a part in a structure that contains the target part.  It does not matter if the target part has substitutes or not and it does not matter if the target part is the preferred or alternate substitute.  The part will be added to the structure and it is up to the user to reposition the component within the structure.</Value>
+	</Variable>
+	<Variable>
+		<Name>MassUpdateRemovePartError</Name>
+		<Value>This operation will remove the target part in a structure if the target part has no substitutes or it is a preferred substitute.  If the target part is an alternate substitute it will not be removed.  If the target part is a preferred substitute all the alternate substitutes will be removed with the target part.</Value>
+	</Variable>
+	<Variable>
+		<Name>MassUpdateStructuralChange</Name>
+		<Value>This operation will not make any structural changes.  This operation will only revise structures that contains the target part.  It does not matter if the target part does or does not have substitutes and if the target part is a preferred or alternate substitute.  It will be the users responsibility to manually make the changes to the revised structures.</Value>
+	</Variable>
+		<Variable>
+		<Name>MassUpdateOperationAssigned</Name>
+		<Value>An operation type is already assigned to the selected target/impacted parent Item Revision pair. Select a different target and impacted parent Item Revision Pair, or delete the existing pair and add a new operation with the same target and impacted parent Item Revision pair.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteAccessError@1</Name>
+		<Value>You do not have delete access to the object</Value>
+	</Variable>
+	<Variable>
+		<Name>UnabletosplittheBOMline</Name>
+		<Value>You cannot split a BOM line having quantity less than two.</Value>
+	</Variable>
+	<Variable>
+		<Name>OccurenceEffectivityInformation</Name>
+		<Value>Occurrence effectivity cannot be created for unsaved structure</Value>
+	</Variable>
+	<Variable>
+		<Name>EditReplaceErrorOutOfIndex</Name>
+		<Value>Array index out of range</Value>
+	</Variable>
+	<Variable>
+		<Name>ProductContextPasteErrorOnItemRevision</Name>
+		<Value>Item ItemID is not allowed as an attachment of an Item/Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>ProductContextRePasteError</Name>
+		<Value>Object PContext is already in the target folder as Variability Scope.</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfiguratorContextConflictWarning</Name>
+		<Value>There is a Conflict in Configurator Context attached to the Top BOM Line and Default Configurator Context. 
+Overriding with Default Configurator Context @.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnsetDefaultConfiguratorContext</Name>
+		<Value>Default Configurator Context is unset. You need to restart Structure Manager for change in Configurator Context to take effect.</Value>
+	</Variable>
+	<Variable>
+		<Name>ManageVariabilityErrorMessage</Name>
+		<Value>The current user does not have Manage Variability access privileges to perform this operation.</Value>
+	</Variable>
+	<Variable>
+		<Name>InContextErrMsg</Name>
+		<Value>The property already is defined by a higher level In-Context.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnsavedchangesStructureManagerErrMsg</Name>
+		<Value>'@' has been modified. Do you want to save the changes?</Value>
+	</Variable>
+	<Variable>
+		<Name>FilterUnconfiguredErrMsg</Name>
+		<Value>Filter Unconfigured BOM lines due to Variants.</Value>
+	</Variable>
+	<Variable>
+	<Name>MoveNodeWarning</Name>
+	<Value>One or more selected lines are variants. This action will copy variant conditions to the new lines.
+Moreover, the variant conditions may become invalid during cut and paste operation, so please correct
+ them manually if needed.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveResource</Name>
+		<Value>'Variant Configuration View (Structure Manager)' has been modified. Save changes?</Value>
+	</Variable>
+	<Variable>
+		<Name>FilterUnconfiguredErrMsg@1</Name>
+		<Value>The BOM is in Configure to Load mode.
+This action will open a new window with the same top item with the specified revision rule for this set of option selections.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>LoadConfigurationMsg</Name>
+		<Value>The contents of Variant Configuration view are not saved. Are you sure you want to load the new configuration and lose the changes?</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantConfigurationLoadMsg</Name>
+		<Value>The BOM is now in Configure to Load mode. No further changes can be applied to the BOM.</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateCutback</Name>
+		<Value>An internal error has occurred during creation or modification of Occurrence Effectivity Cutback ($) for BOM View Revision "BVR". Please contact your system administrator for more information.VBCR
+The current user does not have write access to the object "BVR".</Value>
+	</Variable>
+	<Variable>
+		<Name>InactiveCutback</Name>
+		<Value>Inactive cutbacks cannot be deleted.</Value>
+	</Variable>
+	<Variable>
+		<Name>BomLineScopeErrMsg</Name>
+		<Value>Selected BOM line or BOM lines are not in scope for In-Context editing.</Value>
+	</Variable>
+	<Variable>
+		<Name>PCAToLegacyErrMsg</Name>
+		<Value>Property Legacy Variant Condition Tag is not modifiable.
+Classic Variant Conditions cannot be created, because the Product Configurator-authored Variant Condition already exists. Enable Product Configurator support through the preference "PSM_enable_product_configurator" and try again.</Value>
+	</Variable>
+	<Variable>
+		<Name>FoundModularVariantCondition</Name>
+		<Value>The selected line has a Modular Variant Expression.
+A Variant Expression in Configurator cannot be created until the Modular Variant Expression is deleted on the selected line.</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantFormulaErrMsg</Name>
+		<Value>The creation of a Configurator Variant Expression on the line "ItemRev" has failed, because it contains a Modular Variant Expression.</Value>
+	</Variable>
+	<Variable>
+		<Name>ModularVariantConditionErrMsg</Name>
+		<Value>No modular variant condition can be created, because the line "ItemName" already contains a product configurator-authored variant condition.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelatedSubstitutes</Name>
+		<Value>No write access to update preferred substitute. The change will be temporary.</Value>
+	</Variable>
+	<Variable>
+		<Name>SendingUnreadableObject</Name>
+		<Value>One or more of the input objects are invalid for sending to the target.</Value>
+	</Variable>
+	<Variable>
+		<Name>CompositionContextError</Name>
+		<Value>The structure context cannot be opened in Structure Manager.</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenValidStructureContextError</Name>
+		<Value>The Structure Context object does not contain any valid structure</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantRuleErrMsg</Name>
+		<Value>Invalid variant rule "#".~No revision configured for Item *.</Value>
+	</Variable>
+	<Variable>
+		<Name>OccConItemInfoErrMsg</Name>
+		<Value>The child object has failed the validation of the condition "SM6_OccConOccConRule".</Value>
+	</Variable>
+	<Variable>
+		<Name>LegacyVarientErrMsg</Name>
+		<Value>The current user does not have write access to the object "#".</Value>
+	</Variable>
+	<Variable>
+		<Name>OccConItemInfoErrMsg@1</Name>
+		<Value>The child object has failed the validation of the condition "SM6_OccConOccConRule".</Value>
+	</Variable>
+	<Variable>
+		<Name>OccurrenceTypeInvalidEditInContextMode</Name>
+		<Value>An invalid input was provided for the Occurrence Type value. The value cannot be empty when the In-Context mode is activated or the value is already In-Context.</Value>
+	</Variable>
+	<Variable>
+		<Name>LOVErrorMsg</Name>
+		<Value>The value "n" is not a valid value for the property "SM_Note1" of type "String".</Value>
+	</Variable>
+<Variable>
+		<Name>PartDeleteDetailedError</Name>
+		<Value>The instance is referenced.
+The operation has failed on the object PartName (Part).
+The object is referenced by "RefName (Part) ". Please report it to your system administrator.</Value>
+	</Variable>
+	<Variable>
+		<Name>RootNodeUncheckError</Name>
+		<Value>This operation is not allowed on the topline of the structure. Only Clone and Revise operations are allowed on the topline.</Value>
+	</Variable>
+	<Variable>
+		<Name>MoveNodeWarning</Name>
+		<Value>One or more selected lines are variants. This action will copy variant conditions to the new lines.
+Moreover, the variant conditions may become invalid during cut and paste operation, so please correct
+ them manually if needed.</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveLevelWarning</Name>
+		<Value>One or more selected lines are variants. This action will move options and rules to the parent and merge variant conditions with those of the children if necessary.</Value>
+	</Variable>
+	<Variable>
+		<Name>MoveNodeOutScopeWarning</Name>
+		<Value>The option "#" is out of the module's scope.</Value>
+	</Variable>
+	<Variable>
+		<Name>ModificationErrMsg</Name>
+		<Value>The object "#" could not be loaded or refreshed. Please refer to the preceding errors in this error stack for more information.
+		</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsImportRemoteError</Name>
+		<Value>One or more unsuitable objects have been selected for import (only remote objects allowed)</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeIDVariantConditionError</Name>
+		<Value>Invalid Tag NULL object (in object) - the requested object does not exist</Value>
+	</Variable>
+	<Variable>
+		<Name>UnsavedVariantDataModifications</Name>
+		<Value>There are unsaved modifications to the Variant Data for "#". Do you want to save them?</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteMarkup@1</Name>
+		<Value>Error(s) encountered:
+
+(1) The current user does not have permission to delete #@#.
+The current user does not have delete access to the object #@#.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidObjectInstance</Name>
+		<Value>An invalid object instance tag is being used in conjunction with property object_name.
+The access is denied.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportToExcelMsg</Name>
+		<Value>MS Excel's outlining feature can only display up to 8 levels. Since this structure exceeds that number of levels, it will be exported as a flat list.
+</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateSolutionVariantMsg</Name>
+		<Value>Update for solution variant item SolutionVarName   has completed successfully.</Value>
+	</Variable>
+	<Variable>
+		<Name>SingleLevelSolutionVariantErrMsg</Name>
+		<Value>Single Level Solution Variant for Reuse category is blocked</Value>
+	</Variable>
+	<Variable>
+		<Name>AddCompErrOnReuseSV</Name>
+		<Value>The selected components cannot be added to a Solution Variant of Reuse category.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddCompErrOnReuseSV@1</Name>
+		<Value>The Solution Variant structure of Reuse category cannot be modified.</Value>
+	</Variable>	
+	<Variable>
+		<Name>ConfirmUpdateSolutionVariant</Name>
+		<Value>There are no structural changes action taken for solution variant assembly.
+Click Yes to apply "Updated" status to solution variant.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveCompErrOnReuseSV</Name>
+		<Value>The selected components cannot be removed from a Solution Variant of Reuse category.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReviseCompErrOnReuseSV</Name>
+		<Value> A Solution Variant of a Reuse category cannot be revised.</Value>
+	</Variable>		
+	<Variable>
+		<Name>SaveResource@1</Name>
+		<Value>Save changes in "Variant Configuration View (Structure Manager)"?</Value>
+	</Variable>	
+	<Variable>
+		<Name>NoVariantsRules@1</Name>
+		<Value>No results found. Please update your search criteria and try again.</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfiguratorContextConflictWarning@1</Name>
+		<Value>There is a Conflict in Configurator Context attached to the Top BOM Line and Default Configurator Context. 
+Overriding with Configurator Context attached to the Top BOM Line @.</Value>
+	</Variable>
+	<Variable>
+		<Name>SolutionVariantCreationMsg</Name>
+		<Value>Solution Variant SolutionVariantName created successfully and is pasted under NewStuff Folder.@Do you wish to open it?</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateVariantItemMessage</Name>
+		<Value>Update will revise the variant item and update with
+ respect to the selected Generic Component Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>ApplyMarkupMessage</Name>
+		<Value>OK to modify the structure as shown by the markups?</Value>
+	</Variable>
+	<Variable>
+		<Name>ValidationofSelectedColumnExpression</Name>
+		<Value>Validation has failed with violations.
+Please review the violation recorded on tooltip of the columns in Variant Formula Expression Editor View view.</Value>
+	</Variable>
+	
+	<Variable>
+		<Name>ExpressionisInvalid</Name>
+		<Value>The expression is invalid. To get list of violation(s), select a single invalid</Value>
+	</Variable>
+</Environment>	

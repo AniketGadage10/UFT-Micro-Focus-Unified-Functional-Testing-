@@ -1,0 +1,82 @@
+<Environment>	
+	<Variable>
+		<Name>Object</Name>
+		<Value>object_string</Value>
+	</Variable>
+	<Variable>
+		<Name>Part Number</Name>
+		<Value>spr0partNumber</Value>
+	</Variable>
+	<Variable>
+		<Name>Quantity Requested</Name>
+		<Value>spr0quantityRequested</Value>
+	</Variable>
+	<Variable>
+		<Name>Disposition</Name>
+		<Value>disposition</Value>
+	</Variable>
+	<Variable>
+		<Name>Part Movement Type</Name>
+		<Value>part_movement_type</Value>
+	</Variable>
+	<Variable>
+		<Name>Replaced Part</Name>
+		<Value>spr0replacedPart</Value>
+	</Variable>
+	<Variable>
+		<Name>Physical Part</Name>
+		<Value>physical_part</Value>
+	</Variable>
+	<Variable>
+		<Name>Disposition</Name>
+		<Value>disposition</Value>
+	</Variable>
+	<Variable>
+		<Name>Characteristics Name</Name>
+		<Value>util_characteristic_name</Value>
+	</Variable>
+	<Variable>
+		<Name>Unit</Name>
+		<Value>util_unit</Value>
+	</Variable>
+	<Variable>
+		<Name>Time Since New</Name>
+		<Value>util_time_since_new</Value>
+	</Variable>
+	<Variable>
+		<Name>Last Value</Name>
+		<Value>util_last_value</Value>
+	</Variable>
+	<Variable>
+		<Name>Last Utilization Date</Name>
+		<Value>util_last_recorded_date</Value>
+	</Variable>
+	<Variable>
+		<Name>Severity</Name>
+		<Value>severity</Value>
+	</Variable>
+	<Variable>
+		<Name>In Progress</Name>
+		<Value>InProgress</Value>
+	</Variable>
+	<Variable>
+		<Name>Is Failure</Name>
+		<Value>is_failure</Value>
+	</Variable>
+	<Variable>
+		<Name>Fault Code</Name>
+		<Value>fault_code</Value>
+	</Variable>
+	<Variable>
+		<Name>Notice Type</Name>
+		<Value>smr0warningType</Value>
+	</Variable>
+	<Variable>
+		<Name>Long Description</Name>
+		<Value>smr0longDescription</Value>
+	</Variable>
+	<Variable>
+		<Name>Resource</Name>
+		<Value>secondary_object</Value>
+	</Variable>
+</Environment>

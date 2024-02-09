@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>ChangeManager</Name>
+		<Value>JavaWindow("ChangeManager")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeriveChange</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("DeriveChange")</Value>
+	</Variable>
+	<Variable>
+		<Name>SolutionImpacted</Name>
+		<Value>JavaWindow("ChangeManager").JavaWindow("SolutionImpacted")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddParticipantsError</Name>
+		<Value>JavaWindow("MyTeamcenter").JavaWindow("WEmbeddedFrame").JavaDialog("Assign Participants").JavaDialog("AddParticipantsError")</Value>
+	</Variable>
+	<Variable>
+		<Name>AddParticipantsErrorNew</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("DefaultEmbeddedFrame").JavaDialog("AssignParticipants").JavaDialog("AddParticipantsError")</Value>
+	</Variable>
+</Environment>

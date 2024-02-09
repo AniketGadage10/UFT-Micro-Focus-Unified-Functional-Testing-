@@ -1,0 +1,14 @@
+<Environment>
+	<Variable>
+		<Name>NewAdministrativeClass</Name>
+		<Value>JavaWindow("ContentManagement").JavaWindow("NewAdministrativeClass")</Value>
+	</Variable>
+	<Variable>
+		<Name>LoadVariantRule</Name>
+		<Value>JavaWindow("ContentManagement").JavaWindow("LoadVariantRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveVariantRule</Name>
+		<Value>JavaWindow("ContentManagement").JavaWindow("SaveVariantRule")</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,18 @@
+<Environment>
+	<Variable>
+		<Name>FailedToPaste</Name>
+		<Value>Failed to paste</Value>
+	</Variable>
+	<Variable>
+		<Name>FailedToPasteInCompLOC</Name>
+		<Value>An invalid company location was given. The Vendor Part and Company Location must belong to the same Vendor.</Value>
+	</Variable>
+	<Variable>
+		<Name>FailedToCreateItem</Name>
+		<Value> Item ~ is not allowed as an attachment of an Item/Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>FailedToCreateFolder</Name>
+		<Value>Relating an object of type "Folder" to an object of type "Item Revision" is not allowed, because the "Specifications" relation is not supported between these two objects.</Value>
+	</Variable>
+</Environment>

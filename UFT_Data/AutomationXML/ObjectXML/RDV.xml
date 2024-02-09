@@ -1,0 +1,58 @@
+<Environment>
+	<Variable>
+		<Name>RDVPSEWindow</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("RDV_PSEWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>RDVJApplet</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("RDV_JApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchResults</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("RDV_JApplet").JavaDialog("SearchResults")</Value>
+	</Variable>
+	<Variable>
+		<Name>RDV_StructureManager</Name>
+		<Value>JavaWindow("RDV_StructureManager")</Value>
+	</Variable>
+	<Variable>
+		<Name>Spatial Filter</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("Spatial Filter")</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemAttributes</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("RDV_JApplet").JavaDialog("ItemAttributes")</Value>
+	</Variable>
+	<Variable>
+		<Name>Change Search</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("RDV_JApplet").JavaDialog("Change Search")</Value>
+	</Variable>
+	<Variable>
+		<Name>Scopes</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("Scopes")</Value>
+	</Variable>
+	<Variable>
+		<Name>RACTabFolderWidget</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaObject("RACTabFolderWidget")</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemAttributes@1</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("RDV_PSEWindow").JavaDialog("ItemAttributes")</Value>
+	</Variable>
+	<Variable>
+		<Name>Change Search@1</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("RDV_PSEWindow").JavaDialog("Change Search")</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfirmationBox</Name>
+		<Value>JavaWindow("RDV_StructureManager").JavaWindow("ConfirmationBox")</Value>
+	</Variable>
+	<Variable>
+		<Name>RDV_StructureManagerWindow</Name>
+		<Value>Window("RDV_StructureManagerWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>RDV_JApplet</Name>
+		<Value>Window("RDV_StructureManagerWindow").JavaWindow("RDV_JApplet")</Value>
+	</Variable>
+</Environment>

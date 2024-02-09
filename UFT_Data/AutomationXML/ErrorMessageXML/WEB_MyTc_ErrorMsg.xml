@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>MessageFromWebPage</Name>
+		<Value>No object of type "Vendor" has been selected from the search results. Please try again.</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateVendorErrMsg</Name>
+		<Value>48043: The Item "VendorName" is not unique.</Value>
+	</Variable>
+</Environment>

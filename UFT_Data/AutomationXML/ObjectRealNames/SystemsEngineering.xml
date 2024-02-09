@@ -1,0 +1,70 @@
+<Environment>
+	<Variable>
+		<Name>Object</Name>
+		<Value>object_string</Value>
+	</Variable>
+		<Variable>
+		<Name>Type</Name>
+		<Value>object_type</Value>
+	</Variable>
+	<Variable>
+		<Name>Defining Context</Name>
+		<Value>defining_context</Value>
+	</Variable>
+	<Variable>
+		<Name>Complying Context</Name>
+		<Value>complying_context</Value>
+	</Variable>
+	<Variable>
+		<Name>Relation Type</Name>
+		<Value>relation_type</Value>
+	</Variable>
+	<Variable>
+		<Name>Owner</Name>
+		<Value>owning_user</Value>
+	</Variable>
+	<Variable>
+		<Name>Group ID</Name>
+		<Value>owning_group</Value>
+	</Variable>
+	<Variable>
+		<Name>Last Modified Date</Name>
+		<Value>last_mod_date</Value>
+	</Variable>
+	<Variable>
+		<Name>Date Modified</Name>
+		<Value>last_mod_date</Value>
+	</Variable>
+	<Variable>
+		<Name>Checked-Out Date</Name>
+		<Value>checked_out_date</Value>
+	</Variable>
+	<Variable>
+		<Name>Checked-Out By</Name>
+		<Value>checked_out_user</Value>
+	</Variable>
+	<Variable>
+		<Name>Checked-Out</Name>
+		<Value>checked_out</Value>
+	</Variable>	
+	<Variable>
+		<Name>Description</Name>
+		<Value>object_desc</Value>
+	</Variable>
+	<Variable>
+		<Name>Status</Name>
+		<Value>release_status_list</Value>
+	</Variable>
+	<Variable>
+		<Name>Revision</Name>
+		<Value>item_revision_id</Value>
+	</Variable>
+	<Variable>
+		<Name>Name</Name>
+		<Value>object_name</Value>
+	</Variable>
+	<Variable>
+		<Name>Item ID</Name>
+		<Value>item_id</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,26 @@
+<Environment>
+	<Variable>
+		<Name>Copy</Name>
+		<Value>Copy</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>Paste</Value>
+	</Variable>	
+	<Variable>
+		<Name>PasteAsMEAssign</Name>
+		<Value>Paste As:MEAssign</Value>
+	</Variable>	
+	<Variable>
+		<Name>IdentifyResolvedFault</Name>
+		<Value>Identify Resolved Fault</Value>
+	</Variable>	
+	<Variable>
+		<Name>ShowPlanDetails</Name>
+		<Value>Show Plan Details</Value>
+	</Variable>	
+	<Variable>
+		<Name>Cut</Name>
+		<Value>Cut</Value>
+	</Variable>	
+</Environment>

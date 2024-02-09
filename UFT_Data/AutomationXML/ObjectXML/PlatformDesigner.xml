@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>NewArchitectureBreakdown</Name>
+		<Value>Window("PDWindow").JavaDialog("NewArchitectureBreakdown")</Value>
+	</Variable>
+	<Variable>
+		<Name>JTabbedPane</Name>
+		<Value>JavaWindow("PlatformDesigner").JavaWindow("TcDefaultApplet").JavaTab("JTabbedPane")</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,102 @@
+<Environment>
+	<Variable>
+		<Name>Createanewinterface</Name>
+		<Value>Interface...</Value>
+	</Variable>
+	<Variable>
+		<Name>StartTraceLinkCreation</Name>
+		<Value>Start Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>CustomNote</Name>
+		<Value>Custom Note...</Value>
+	</Variable>
+	<Variable>
+		<Name>DerivedRequirement</Name>
+		<Value>Derived Requirement...</Value>
+	</Variable>	
+	<Variable>
+		<Name>MoveUp</Name>
+		<Value>Move the selected object up one position within the same structure level</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateanewFunction</Name>
+		<Value>Function...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowCustomNotes</Name>
+		<Value>Custom Notes Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>Createanewconnection</Name>
+		<Value>Connection...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEditattachmentwithMSWord</Name>
+		<Value>MS Word View</Value>
+	</Variable>
+	<Variable>
+		<Name>EndTraceLinkCreation</Name>
+		<Value>End Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>TraceLinksView</Name>
+		<Value>Trace Links View</Value>
+	</Variable>
+	<Variable>
+		<Name>Promote</Name>
+		<Value>Promote the selected object to one higher level in the structure hierarchy (Ctrl+Up)</Value>
+	</Variable>
+	<Variable>
+		<Name>Demote</Name>
+		<Value>Demote the selected object to one lower level in the structure hierarchy (Ctrl+Down)</Value>
+	</Variable>
+	<Variable>
+		<Name>StructureSearch</Name>
+		<Value>Structure Search</Value>
+	</Variable>
+	<Variable>
+		<Name>MoveDown</Name>
+		<Value>Move the selected object down one position within the same structure level</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteAsNew</Name>
+		<Value>Paste a duplicate of the object contained in the clipboard as a child of the current selection (Ctrl+Shift+V)</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantCondition</Name>
+		<Value>Variant Condition</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteTraceLinkDelete</Name>
+		<Value>Delete (Delete)</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowTraceLink</Name>
+		<Value>Show Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>OrphanReport</Name>
+		<Value>Orphan Report</Value>
+	</Variable>
+	<Variable>
+		<Name>HideTraceLink</Name>
+		<Value>Hide Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>ReqExpressionView</Name>
+		<Value>Requirement Expression View</Value>
+	</Variable>
+	<Variable>
+		<Name>QuickCreatePanel</Name>
+		<Value>Quick Create Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>Configuration</Name>
+		<Value>Configuration</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowConfigurationInformation</Name>
+		<Value>Show Configuration Information</Value>
+	</Variable>
+</Environment>

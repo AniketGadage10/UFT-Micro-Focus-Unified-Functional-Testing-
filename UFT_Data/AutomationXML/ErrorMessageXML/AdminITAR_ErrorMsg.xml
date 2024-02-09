@@ -1,0 +1,26 @@
+<Environment>
+	<Variable>
+		<Name>AddingUserToLockedLicenseError</Name>
+		<Value>users/groups to locked/expired licenses</Value>
+	</Variable>	
+	<Variable>
+		<Name>ModifyLockDateExpiredLicenseError</Name>
+		<Value>The license could not be created or updated. Please check with your system administrator for more information.vbcrlfThe Lock Date cannot be modified for expired licenses.
+</Value>
+	</Variable>	
+	<Variable>
+		<Name>ModifyLockDatePreferenceInvalidError</Name>
+		<Value>The license could not be created or updated. Please check with your system administrator for more information.vbcrlfThe privilege "PREFNAME" specified in ADA_license_administration_privilege site preference is invalid.
+</Value>
+	</Variable>	
+	<Variable>
+		<Name>ModifySubgroupNotEnabledError</Name>
+		<Value>The license could not be created or updated. Please check with your system administrator for more information.vbcrlfThe subgroup support is not enabled.
+</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddingUserToLockedLicenseError@1</Name>
+		<Value>The license could not be created or updated. Please check with your system administrator for more information.vbcrlfAdding users/groups to locked/expired licenses is not allowed.
+</Value>
+	</Variable>	
+</Environment>

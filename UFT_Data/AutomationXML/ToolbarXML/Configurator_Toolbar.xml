@@ -1,0 +1,126 @@
+<Environment>
+	<Variable>
+		<Name>AddGroup</Name>
+		<Value>Add Group (Ctrl+G)</Value>
+	</Variable>
+	<Variable>
+		<Name>AddFamily</Name>
+		<Value>Add Family (Ctrl+J)</Value>
+	</Variable>
+	<Variable>
+		<Name>AddModelFamily</Name>
+		<Value>Add Model Family (Ctrl+Shift+J)</Value>
+	</Variable>
+	<Variable>
+		<Name>AddModel</Name>
+		<Value>Add Model (Ctrl+Shift+P)</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddValue</Name>
+		<Value>Add Feature (Ctrl+L)</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenAvailabilityMartrixview</Name>
+		<Value>Open Availability Matrix view</Value>
+	</Variable>		
+	<Variable>
+		<Name>NavigationPane</Name>
+		<Value>Navigation Pane</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenVariantConfigurationview</Name>
+		<Value>Open Variant Configuration view</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenConfiguratorRulesview</Name>
+		<Value>Open Configurator Rules view</Value>
+	</Variable>
+	<Variable>
+		<Name>Expand</Name>
+		<Value>Expand</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenExpressionEditor</Name>
+		<Value>Open Expression Editor</Value>
+	</Variable>
+	<Variable>
+		<Name>AddModelFamily</Name>
+		<Value>Add Model Family</Value>
+	</Variable>
+	<Variable>
+		<Name>AddModel</Name>
+		<Value>Add Model</Value>
+	</Variable>
+	<Variable>
+		<Name>Search</Name>
+		<Value>Search</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenAvailabilityMatrixview</Name>
+		<Value>Open Availability Matrix view</Value>
+	</Variable>
+	<Variable>
+		<Name>OverlayConfigurationMode</Name>
+		<Value>Overlay Configuration Mode</Value>
+	</Variable>
+	<Variable>
+		<Name>OrderConfigurationMode</Name>
+		<Value>Order Configuration Mode</Value>
+	</Variable>
+	<Variable>
+		<Name>Guidedconfigurationmode</Name>
+		<Value>Guided configuration mode</Value>
+	</Variable>
+	<Variable>
+		<Name>ValidateVariantExpressions</Name>
+		<Value>Validate Variant Expressions</Value>
+	</Variable>
+	<Variable>
+		<Name>ReloadView</Name>
+		<Value>Reload View</Value>
+	</Variable>
+	<Variable>
+		<Name>ExporttoExcel</Name>
+		<Value>Export to Excel</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenSavedVariantRulesview</Name>
+		<Value>Open Saved Variant Rules view</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenFreeFormExpressionEditor</Name>
+		<Value>Open Free-form Expression Editor</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenContextIndependentSearchView</Name>
+		<Value>Open Context Independent Search View</Value>
+	</Variable>
+	<Variable>
+		<Name>Applythecurrentconfigurationtothestructure</Name>
+		<Value>Apply the current configuration to the associated structure</Value>
+	</Variable>
+	<Variable>
+		<Name>ApplyConstraints</Name>
+		<Value>Apply constraints toggled on</Value>
+	</Variable>
+	<Variable>
+		<Name>AllowValidationRulesToExpand</Name>
+		<Value>Allow validation rules to expand toggled on</Value>
+	</Variable>
+	<Variable>
+		<Name>ValidateIndividualColumnExpressions</Name>
+		<Value>Validate Individual Column Expression</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandToAllLevels</Name>
+		<Value>Expand to all levels</Value> 
+	</Variable>
+	<Variable>
+		<Name>CollapseAllLevels</Name>
+		<Value>Collapse all levels</Value> 
+	</Variable>
+	<Variable>
+		<Name>SearchVariantRulesbasedonExpression</Name>
+		<Value>Search Variant Rules based on Expression</Value> 
+	</Variable>
+</Environment>

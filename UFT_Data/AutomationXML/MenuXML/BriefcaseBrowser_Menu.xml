@@ -1,0 +1,38 @@
+<Environment>
+	<Variable>
+		<Name>OpenCADAssembly</Name>
+		<Value>File:Open CAD Assembly</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenBriefcase</Name>
+		<Value>File:Open Briefcase</Value>
+	</Variable>
+	<Variable>
+		<Name>AddDataset</Name>
+		<Value>Tools:Add Dataset</Value>
+	</Variable>
+	<Variable>
+		<Name>WindowPrefrences</Name>
+		<Value>Window:Preferences</Value>
+	</Variable>	
+	<Variable>
+		<Name>WindowResetPerspective</Name>
+		<Value>Window:Reset Perspective...</Value>
+	</Variable>
+	<Variable>
+		<Name>BBExit</Name>
+		<Value>File:Exit</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileSaveBriefcase</Name>
+		<Value>File:Save Briefcase...</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileExportToCSV</Name>
+		<Value>File:Export to CSV</Value>
+	</Variable>	
+	<Variable>
+		<Name>OwnershipTransfer</Name>
+		<Value>Tools:Ownership Transfer</Value>
+	</Variable>	
+</Environment>

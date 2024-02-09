@@ -1,0 +1,23 @@
+<Environment>
+	<Variable>
+		<Name>SavecurrentResource</Name>
+		<Value>Save current Resource</Value>
+	</Variable>
+	<Variable>
+		<Name>EditcurrentResource</Name>
+		<Value>Edit current Resource</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchbyClassificationDialog</Name>
+		<Value>Search by Classification Dialog</Value>
+	</Variable>
+	<Variable>
+		<Name>AddClassifiedComponent</Name>
+		<Value>Add Classified Component...</Value>
+	</Variable>
+	<Variable>
+		<Name>AddorDeletePropagationStartpoint</Name>
+		<Value>Add or Delete Propagation Start Point on the selected line</Value>
+	</Variable>
+	
+</Environment>

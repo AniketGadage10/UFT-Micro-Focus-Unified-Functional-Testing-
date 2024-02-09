@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>ConfiguratorContext</Name>
+		<Value>File:New:Configurator Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewDictionary</Name>
+		<Value>File:New:Dictionary...</Value>
+	</Variable>
+</Environment>

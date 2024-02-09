@@ -1,0 +1,50 @@
+<Environment>
+	<Variable>
+		<Name>Organization Role Wizard</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaDialog("Organization Role Wizard")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteConfirmation</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaDialog("DeleteConfirmation")</Value>
+	</Variable>
+	<Variable>
+		<Name>OrganizationDisciplineWizard</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaDialog("OrganizationDisciplineWizard")</Value>
+	</Variable>
+	<Variable>
+		<Name>User Rate</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaDialog("User Rate")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete User</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaDialog("Delete User")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteConfirmation@1</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("DeleteConfirmation")</Value>
+	</Variable>
+	<Variable>
+		<Name>Organization JApplet</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>Organization User Wizard</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaDialog("Organization User Wizard")</Value>
+	</Variable>
+	<Variable>
+		<Name>OrganizationWindow</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>AdditionalPropertiesLink</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaStaticText("AddAdditionalProperties")</Value>
+	</Variable>
+	<Variable>
+		<Name>Organization Error</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaDialog("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>nonDBAAccess</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("non-DBA Access")</Value>
+	</Variable>
+</Environment>

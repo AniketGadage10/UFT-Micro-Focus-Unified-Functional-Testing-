@@ -1,0 +1,243 @@
+<Environment>
+	<Variable>
+		<Name>Controlfiletabwasnotfound</Name>
+		<Value>Control file tab was not found. Please make sure that control file tab exists in the workbook with the name 'Test1-ControlFile'.</Value>
+	</Variable>
+	<Variable>
+		<Name>ModificationToRichContent</Name>
+		<Value>Do you want to save your modifications to the Rich Content?</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenItemInMSWordError</Name>
+		<Value>Viewing contents of selected type of object is not supported in this View.</Value>
+	</Variable>
+	<Variable>
+		<Name>MultiSheetExportTemplateError</Name>
+		<Value>Multi-sheet export templates are not supported for working offline and reimport. Please select a single sheet Excel template.</Value>
+	</Variable>
+	<Variable>
+		<Name>CopyURLError</Name>
+		<Value>Copy URL will not honor a runtime object template override, unless template override is saved for REQ_default_spec_template specification template.</Value>
+	</Variable>
+	<Variable>
+		<Name>GoToObjectNotSupported</Name>
+		<Value>Go To Object in Structure Application is not supported for Trace Link Objects. Opening the selected object in My Teamcenter application.</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateTraceLinkFailed</Name>
+		<Value>If Manufacturing object selected as target for Trace Link then source should be Requirement object.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteTracelinkOfReleasedObject</Name>
+		<Value>The Tracelink object "Link1" cannot be deleted because both primary and secondary objects of the Tracelink are baselined.</Value>
+	</Variable>	
+	<Variable>
+		<Name>TracelinkAlreadyExist</Name>
+		<Value>The object "Paragh2" is already related to the object "Paragh1" through the relation "FND_TraceLink".</Value>
+	</Variable>	
+	<Variable>
+		<Name>ErrorForReleasedItem</Name>
+		<Value>Error while retrieving specification data</Value>
+	</Variable>	
+	<Variable>
+		<Name>DeleteTracelinkForNote</Name>
+		<Value>The selected Trace Link(s) has custom notes.
+OK to delete selected Trace Link Objects?</Value>
+	</Variable>	
+	<Variable>
+		<Name>ParagraphError</Name>
+		<Value>The child cannot be added to the selected parent because the child type "Paragraph" is not valid for parent type "Requirement Specification".</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemError</Name>
+		<Value>The child cannot be added to the selected parent because the child type "Item" is not valid for parent type "Requirement Specification".</Value>
+	</Variable>
+	<Variable>
+		<Name>M3SEConn_AutoError</Name>
+		<Value>The child cannot be added to the selected parent because the child type "M3SEConn_Auto" is not valid for parent type "Function".</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMViewReviseError</Name>
+		<Value>The BOM View Revision BOMViewName cannot be modified. Please check your access rights. (2)VBCRLFThe current user does not have write access to the object BOMViewName. (2)</Value>
+	</Variable>
+	<Variable>
+		<Name>ReviseError</Name>
+		<Value>Error in revise object</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteFailedError</Name>
+		<Value>The requested paste has failed on some objects.
+The failback has been performed to paste them to your NewStuff folder.</Value>
+	</Variable>
+	<Variable>
+		<Name>DetailPasteFailedError</Name>
+		<Value>Can only paste Items, ItemRevisions or BOMLines here.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidItemIDError</Name>
+		<Value>Supplied item_id value "ITEMID" is invalid.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidItemIDError@2</Name>
+		<Value>The value "ITEMID" for the property "item_id" of type "Requirement" is invalid</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteTracelinkReleasedPrimaryObject</Name>
+		<Value>The Tracelink object "Link" cannot be deleted because its primary object is baselined.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteTracelinkReleasedSecondaryObject</Name>
+		<Value>The Tracelink object "Link" cannot be deleted because its secondary object is baselined.</Value>
+	</Variable>	
+	<Variable>
+		<Name>CreateTraceLinkFailed@1</Name>
+		<Value>The object "ItemRev2" is already related to the object "ItemRev1" through the relation "FND_TraceLink".</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteTraceLinkError</Name>
+		<Value>Error during deleting Trace Link objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>DetailsDeleteTraceLinkError</Name>
+		<Value>The business object "Link" could not be deleted. Please refer to the Teamcenter server syslog file for more information.
+The Tracelink object "Link" cannot be deleted because both primary and secondary objects of the Tracelink are released.</Value>
+	</Variable>
+	<Variable>
+		<Name>DetailsDeleteTraceLinkError@2</Name>
+		<Value>The business object "BZTracelink" could not be deleted. Please refer to the Teamcenter server syslog file for more information.vbcrlfThe Tracelink object "BZTracelink" cannot be deleted because its secondary object is released.vbcrlf</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateTraceLinkFailed@2</Name>
+		<Value>Trace Link creation failed for at least one of the selected objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>DemoteActionError</Name>
+		<Value>The "Demote" action is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>MoveUpActionError</Name>
+		<Value>The "Move Up" action is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>MoveDownActionError</Name>
+		<Value>The "Move Down" action is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>TheBOMViewAddError</Name>
+		<Value>The BOM View Revision cannot be added to an unmodifiable Item Revision. Please check your access rights to the Item Revision.</Value>
+	</Variable>
+	<Variable>
+		<Name>PromoteActionError</Name>
+		<Value>The "Promote" action is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>WarningMessage</Name>
+		<Value>The Trace Link direction between the "defining" object "@" and the "complying" object "$" may be incorrect.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReverseMessage</Name>
+		<Value>Reverse the Trace Link direction.</Value>
+	</Variable>
+	<Variable>
+		<Name>ProceedMessage</Name>
+		<Value>Create the Trace Link as defined.</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMViewReviseError@1</Name>
+		<Value>The BOM View Revision BOMViewName cannot be modified. Please check your access rights.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandAllWarning</Name>
+		<Value>Expanding the tree may take a long time.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>FindInVisibleViewError</Name>
+		<Value>No matching occurrence found in all visible views for the selected object.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandLevelError</Name>
+		<Value>Specified value in Expand Level = $ exceeds maximum allowed depth = @ as configured in preference "FND_Tracelink_Report_Depth".</Value>
+	</Variable>
+	<Variable>
+		<Name>TeamcenterExtensionError</Name>
+		<Value>Property Find No. is not modifiable.The BOM View Revision RevisionName cannot be modified. Please check your access rights.The current user does not have write access to the object RevisionName.</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOutError</Name>
+		<Value>Export to Live Excel was not done because either the object is not checked-out or is checked-out by another user. Please check-out the object before exporting.</Value>
+	</Variable>
+	<Variable>
+		<Name>RedBtnMessage</Name>
+		<Value>A "default_relation" preference sets the default Trace Link type "M3SV_FND_Tracelink" from "defining" object type "M3SEFunc_AutoRevision" to "complying" object type "Requirement Revision".newlineNo default Trace Link type, however, is defined for the selected direction.newlineTo correct the situation, please add a value for the preference of name "Requirement Revision_M3SEFunc_AutoRevision_default_relation".</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteTracelinkOfReleasedObject@2</Name>
+		<Value>The Tracelink object "$" cannot be deleted because both primary and secondary objects of the Tracelink are baselined.
+	</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteRevision</Name>
+		<Value>The last revision of an Item cannot be independently deleted. Delete the Item object itself.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteCheckedOut</Name>
+		<Value>The selected object(s) cannot be deleted (e.g. they may be checked-out): ItemIDName</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorRetrievingData</Name>
+		<Value>An error has occurred while pasting the Specification "RmUE_ImpSelFldErr" to the folder "Test_ERRNUMBER". The Specification has been pasted to the Newstuff folder instead.
+The object "Test_ERRNUMBER" could not be loaded or refreshed. Please refer to the preceding errors in this error stack for more information.
+The access is denied.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteTracelinkOfReleasedObject@3</Name>
+		<Value>The current user does not have write access to the object "$".</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenTextError</Name>
+		<Value>Invalid selection. Select a Requirement or Paragraph to view/edit text.</Value>
+	</Variable>
+	<Variable>
+		<Name>FindInVisibleViewFailed</Name>
+		<Value>No matching occurrence found in all visible views for the selected object.</Value>
+	</Variable>
+	<Variable>
+		<Name>FunDeleteErrMsg</Name>
+		<Value>The Type "NodeName" is referenced by another structure.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReqDeleteErrMsg</Name>
+		<Value>The operation has failed on the object  (PSOccurrenceImpl).
+The object is referenced by "ReqName (BOMView Revision) ". Please report it to your system administrator.</Value>
+	</Variable>
+	<Variable>
+	<Name>ExportToExcelTraceReportComplying</Name>
+		<Value>The Trace View template "$" is invalid. The number of reports in Trace View should match the number of sheets in the template. Please select an appropriate template as per the report type of Trace View.</Value>
+	</Variable>
+	<Variable>
+	<Name>OverwriteColumnConfigurationError</Name>
+		<Value>A column configuration with the same name already exists. Do you wish to overwite it?</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveViewConfigurationError</Name>
+		<Value>Column configuration with name NameForSaveView is already Published.
+ Please use different name to save column configuration.</Value>	
+	</Variable>
+	<Variable>
+		<Name>BOMRemoveError</Name>
+		<Value>Removing the BOM Line "BOMLINE" would cause the BOM Line "REQUIREMENT" to be moved beneath the BOM Line "REQSPEC", which is not allowed because an object of type "$" cannot be child of an object of type "@".</Value>	
+	</Variable>
+	<Variable>
+		<Name>FindinViewError</Name>
+		<Value>Not able to navigate to the selected BOM Line, as the BOM Window is currently not loaded.</Value>	
+	</Variable>
+	<Variable>
+		<Name>BOMViewPromoteDemoteError</Name>
+		<Value>The BOM View Revision "BOMViewName" cannot be modified. Please check your access rights.</Value>
+	</Variable>
+	<Variable>
+		<Name>WordCheckOutError</Name>
+		<Value>Export to Live Word was not done because either the object is not checked-out or is checked-out by another user. Please check-out the object before exporting.</Value>
+	</Variable>
+</Environment>

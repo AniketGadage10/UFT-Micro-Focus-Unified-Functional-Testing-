@@ -1,0 +1,11 @@
+﻿Option Explicit
+
+Dim sUserName,sPassword
+
+Function Login( sUserName,sPassword)
+
+	WpfWindow("Micro Focus MyFlight Sample").WpfEdit("agentName").Set sUserName
+	WpfWindow("Micro Focus MyFlight Sample").WpfEdit("password").Set sPassword
+	WpfWindow("Micro Focus MyFlight Sample").WpfButton("OK").Click
+	
+End Function

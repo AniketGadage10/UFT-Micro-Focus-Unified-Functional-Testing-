@@ -1,0 +1,84 @@
+<Environment>
+	<Variable>
+		<Name>OpenPart</Name>
+		<Value>You chose to open: ITEMREV
+		Another revision of the same part is already loaded: ITEMREV
+		To see the currently loaded part, choose Change Displayed Part.
+		If you still want to open the part, choose Cancel and close the conflicting part first.
+		</Value>
+	</Variable>
+	<Variable>
+		<Name>ExtraComponents</Name>
+		<Value>The structure of the following part has been modified in Teamcenter:
+ 
+		ITEMREV  
+ 
+		There are new components to be positioned.
+		In order to position these new components, set the work part to this part.
+		Use the Assemblies -> Components -> Manage Pending Components command.
+		</Value>
+	</Variable>
+	<Variable>
+		<Name>Exit</Name>
+		<Value>You have unsaved changes to this object:
+		Do you want to save it before exiting?
+
+		ITEMREV
+		</Value>
+	</Variable>
+	<Variable>
+		<Name>ReadonlyPartMsg</Name>
+		<Value>This part is read-only.
+
+Do you want to continue?
+
+
+ItemRevision
+</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckoutPartsMsg</Name>
+		<Value>    The part is read-only:  ItemRevision  
+</Value>
+	</Variable>
+	<Variable>
+		<Name>ReadonlyObjectsMsg</Name>
+		<Value>A read-only object has been modified.
+You will not be able to save the changes to it.
+
+
+ItemRevision - Insufficient access.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveFailedsMsg</Name>
+		<Value>The following objects failed to save:
+
+
+While saving ItemRevision:
+    ItemRevision -  The dataset is read-only
+</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenPartErrMsg</Name>
+		<Value>Warnings while opening ItemRevision.
+The following warnings were issued while loading.
+
+    ID/Rev - Part revision not found.
+</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveFailedsMsg@1</Name>
+		<Value>The following errors occurred:
+
+The objects are read-only : ItemRevision
+</Value>
+</Variable>
+<Variable>
+		<Name>SaveFailedsMsg@2</Name>
+		<Value>The following errors occurred:
+
+The dataset is read-only : ItemRevision
+</Value>
+</Variable>
+</Environment>	
+	

@@ -1,0 +1,24 @@
+<Environment>
+	<Variable>
+		<Name>Project - Teamcenter 8</Name>
+		<Value>JavaWindow("Project - Teamcenter 8")</Value>
+	</Variable>
+	<Variable>
+		<Name>Project - Teamcenter 8_Old</Name>
+		<Value>JavaWindow("Project - Teamcenter 8_Old")</Value>
+	</Variable>
+	<Variable>
+		<Name>JApplet</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteConfirmation</Name>
+		<Value>JavaWindow("Organization - Teamcenter").JavaWindow("JApplet").JavaDialog("DeleteConfirmation")</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectAdministratorDialog</Name>
+		<Value>JavaWindow("Project - Teamcenter 8").Dialog("non-Project Administrator Dialog")</Value>
+	</Variable>
+</Environment>
+
+	

@@ -1,0 +1,50 @@
+<Environment>
+	<Variable>
+		<Name>ID</Name>
+		<Value>ID</Value>
+	</Variable>
+	<Variable>
+		<Name>Name</Name>
+		<Value>Name</Value>
+	</Variable>
+	<Variable>
+		<Name>Type</Name>
+		<Value>Type</Value>
+	</Variable>
+	<Variable>
+		<Name>Severity</Name>
+		<Value>Severity</Value>
+	</Variable>
+	<Variable>
+		<Name>Applicability</Name>
+		<Value>Applicability</Value>
+	</Variable>
+	<Variable>
+		<Name>Subject</Name>
+		<Value>Subject</Value>
+	</Variable>
+	<Variable>
+		<Name>Message</Name>
+		<Value>Message</Value>
+	</Variable>
+	<Variable>
+		<Name>Feature Data Type</Name>
+		<Value>Feature Data Type</Value>
+	</Variable>
+	<Variable>
+		<Name>Unit of Measure</Name>
+		<Value>Unit of Measure</Value>
+	</Variable>
+	<Variable>
+		<Name>Optional</Name>
+		<Value>Optional</Value>
+	</Variable>
+	<Variable>
+		<Name>Free-form</Name>
+		<Value>Free-form</Value>
+	</Variable>
+	<Variable>
+		<Name>Multi-select</Name>
+		<Value>Multi-select</Value>
+	</Variable>
+</Environment>

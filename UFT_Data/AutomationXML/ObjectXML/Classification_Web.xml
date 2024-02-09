@@ -1,0 +1,34 @@
+<Environment>
+	<Variable>
+		<Name>Search</Name>
+		<Value>Browser("Classification").Page("Classification").WebButton("Search")</Value>
+	</Variable>
+	<Variable>
+		<Name>QuerryTable</Name>
+		<Value>Browser("Classification").Page("Classification").WebTable("QuerryTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>ClassNameStructure</Name>
+		<Value>Browser("Classification").Page("Classification").WebElement("ClassNameStructure")</Value>
+	</Variable>
+	<Variable>
+		<Name>Information</Name>
+		<Value>Browser("Classification").Dialog("Information")</Value>
+	</Variable>
+	<Variable>
+		<Name>TableResults</Name>
+		<Value>Browser("Classification").Page("Classification").WebTable("TableResults")</Value>
+	</Variable>
+	<Variable>
+		<Name>Classification</Name>
+		<Value>Browser("Classification").Page("Classification")</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertiesTable2</Name>
+		<Value>Browser("Classification").Page("Classification").WebTable("PropertiesTable2")</Value>
+	</Variable>
+	<Variable>
+		<Name>ClassMatchNo</Name>
+		<Value>Browser("Classification").Page("Classification").WebElement("ClassMatchNo")</Value>
+	</Variable>
+</Environment>

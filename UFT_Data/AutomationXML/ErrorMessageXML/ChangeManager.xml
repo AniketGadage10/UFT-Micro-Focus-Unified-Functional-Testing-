@@ -1,0 +1,82 @@
+<Environment>
+	<Variable>
+		<Name>ImplementsNotAllowed</Name>
+		<Value>None of the selected changes can be added to Implements</Value>
+	</Variable>
+	<Variable>
+		<Name>ReferenceNotSatisfied</Name>
+		<Value>The condition Cm0isCMReferencesCreatableForTask is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationCreNtAllowed</Name>
+		<Value>The Relation creation is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>SolutionNotSatisfied</Name>
+		<Value>The condition Cm0isCMHasSolutionItemCreatableForTask has not been satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>CMReferenceNotSatisfied</Name>
+		<Value>The condition isCMReferencesCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>SolutionIsNotSatisfied</Name>
+		<Value>The condition Cm0isCMHasSolutionItemCreatableForTask is not satisfied.</Value>
+	</Variable>
+		<Variable>
+		<Name>ImpactedNotSatisfied</Name>
+		<Value>The condition Cm0isCMHasImpactedItemCreatableForTask is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>ProblemNotSatisfied</Name>
+		<Value>The condition Cm0isCMHasProblemItemCreatableForTask is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemAlreadyexists</Name>
+		<Value>The Item "@-NewECR" is not unique.</Value>
+	</Variable>
+	<Variable>
+		<Name>ECNPatternError</Name>
+		<Value>Unable to create Business Object.</Value>
+	</Variable>
+	<Variable>
+		<Name>ECRPatternError</Name>
+		<Value>Valid  pattern is "ECR-"nnnnnn.</Value>
+	</Variable>
+	<Variable>
+		<Name>ECRPatternErrorInfo</Name>
+		<Value>key - description of pattern characters outside of quotes</Value>
+	</Variable>	
+	<Variable>
+		<Name>ItemAlreadyexistsECN</Name>
+		<Value>The Item "ECNName" is not unique.</Value>
+	</Variable>	
+	<Variable>
+		<Name>WorkspaceObjectErrorMessage</Name>
+		<Value>Relating an object of type "Workspace object" to an object of type "Change Item Revision" is not allowed, because the "Problems" relation is not supported between these two objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>WorkspaceObjectErrorMessage@1</Name>
+		<Value>Relating an object of type "Workspace object" to an object of type "Schedule Task" is not allowed, because the "Problems" relation is not supported between these two objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>WorkspaceObjectErrorMessage_SolItm</Name>
+		<Value>Relating an object of type "Folder" to an object of type "Schedule Task" is not allowed, because the "Solutions" relation is not supported between these two objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationcreationErrorMessage</Name>
+		<Value>The Relation creation is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>Assigningparticipants</Name>
+		<Value>Assigning participants is not allowed...</Value>
+	</Variable>	
+	<Variable>
+		<Name>SupersedureConfirmationMsg</Name>
+		<Value>Do you wish to update BOM Changes (Needed only if structure is edited outside change control)?</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddParticipantsError</Name>
+		<Value>The current user is not licensed to perform authoring functions in Teamcenter. Please contact your system administrator for further assistance.</Value>
+	</Variable>	
+</Environment>

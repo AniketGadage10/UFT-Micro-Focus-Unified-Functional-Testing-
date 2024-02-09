@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>ProductConfigurator</Name>
+		<Value>JavaWindow("ProductConfigurator")</Value>
+	</Variable>
+</Environment>

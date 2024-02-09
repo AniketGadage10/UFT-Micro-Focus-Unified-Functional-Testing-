@@ -1,0 +1,65 @@
+<Environment>
+	<Variable>
+		<Name>ObjectSendToWorkflowFeedback</Name>
+		<Value>The new workflow process has been successfully created.$#Go to your workflow inbox to view the new task.</Value>
+	</Variable>	
+	<Variable>
+		<Name>WorkflowSuccessfullyPerformed </Name>
+		<Value>The workflow task has been successfully performed.</Value>
+	</Variable>	
+	<Variable>
+		<Name>DeleteObject</Name>
+		<Value>The selected object(s) cannot be deleted (e.g. they may be checked-out): </Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOutWarning</Name>
+		<Value>The file 'filename' is already open in Edit mode and has been checked-out.</Value>
+	</Variable>	
+	<Variable>
+		<Name>PossibleIssuesError</Name>
+		<Value>Incorrect password entered for secured task. Please enter the correct password.</Value>
+	</Variable>	
+	<Variable>
+		<Name>OpenReadOnlyFile</Name>
+		<Value>The file 'DATASETPATH' is already open. No action was taken.</Value>
+	</Variable>	
+	<Variable>
+		<Name>ChangeUserSettingError</Name>
+		<Value>Your current group/role does not match the required group/role '*/Tc_QALead'. Would you like to change your current user setting to 'Engineering/Tc_QALead'?</Value>
+	</Variable>	
+	<Variable>
+		<Name>DecisionError</Name>
+		<Value>Decision cannot be set because the Task state is not 'Started'. Please refresh the task.</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckoutAndOpenWarning</Name>
+		<Value>You are not editing the most current version.
+
+Do you want to close this version, check-out and download the most current version?</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckInWarningMsg</Name>
+		<Value>The file is currently checked out. Would you like to check it in with this save?</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfirmCheckOutWarningMsg</Name>
+		<Value>Would you like to check out the file?</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsDuplicateNameError</Name>
+		<Value>The specified file name already exists in the selected location.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveToTeamcenterWarning</Name>
+		<Value>Changes in "filename" have not been saved to Teamcenter. Do you want to save the changes to Teamcenter?</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckoutWarningAfterReadonly</Name>
+		<Value>The file 'DATASETPATH' is already open in Read-Only mode. It has been checked-out, but is not editable. First close, then re-open the file in Edit mode to make changes.</Value>
+	</Variable>
+	<Variable>
+		<Name>CancelCheckoutNoChangesWarning</Name>
+		<Value>The document is checked-out, but no changes have been made. Do you wish to cancel the check-out?</Value>
+	</Variable>
+
+</Environment>

@@ -1,0 +1,18 @@
+<Environment>
+	<Variable>
+		<Name>JavaApplet</Name>
+		<Value>JavaWindow("DefaultWindow").JavaApplet("JavaApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>DefaultWindow</Name>
+		<Value>JavaWindow("DefaultWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>TcDefaultApplet</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet")</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Properties")</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>ChangeType_ProblemReport</Name>
+		<Value>Problem Report</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeType_DeviationRequest</Name>
+		<Value>Deviation Request</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeType_ChangeRequest</Name>
+		<Value>Change Request</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeType_ChangeNotice</Name>
+		<Value>Change Notice</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeType_ActionItem</Name>
+		<Value>Action Item</Value>
+	</Variable>
+</Environment>

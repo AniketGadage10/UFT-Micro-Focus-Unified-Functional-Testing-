@@ -1,0 +1,38 @@
+<Environment>
+	<Variable>
+		<Name>ClassificationApplet</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>Create Classification</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("Create Classification")</Value>
+	</Variable>
+	<Variable>
+		<Name>XML Export</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("XML Export")</Value>
+	</Variable>
+	<Variable>
+		<Name>Classify Object</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("Classify Object")</Value>
+	</Variable>
+	<Variable>
+		<Name>Print</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("Print")</Value>
+	</Variable>
+	<Variable>
+		<Name>ClassAdminApplet</Name>
+		<Value>JavaWindow("ClassAdminMainWin").JavaWindow("ClassificationSubWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>ListofValuesDialog</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("ListofValuesDialog")</Value>
+	</Variable>
+	<Variable>
+		<Name>FormatError</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("Format error")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteConfirmation</Name>
+		<Value>JavaWindow("ClassificationMainWin").JavaWindow("ClassificationSubWindow").JavaDialog("DeleteConfirmation")</Value>
+	</Variable>
+</Environment>

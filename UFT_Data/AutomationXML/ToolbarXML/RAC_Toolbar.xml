@@ -1,0 +1,402 @@
+<Environment>
+	<Variable>
+		<Name>Cut</Name>
+		<Value>Cut the selection and put it on the clipboard (Ctrl+X)</Value>
+	</Variable>
+	<Variable>
+		<Name>Save</Name>
+		<Value>Save</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>Paste a reference to the object contained in the clipboard (Ctrl+V)</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete</Name>
+		<Value>Delete the selected object permanently (Delete)</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenSearchView</Name>
+		<Value>Open Search View</Value>
+	</Variable>
+	<Variable>
+		<Name>Clearallsearchfields</Name>
+		<Value>Clear all search fields</Value>
+	</Variable>
+	<Variable>
+		<Name>Savetheselectedobject</Name>
+		<Value>Save the current contents (Ctrl+S)</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenHome</Name>
+		<Value>Open Home</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEditContentRecipe</Name>
+		<Value>View/edit content recipe</Value>
+	</Variable>
+	<Variable>
+		<Name>DisplayAccessibility</Name>
+		<Value>Display accessibility of selected object</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerTabSaveandKeepCheckedOut</Name>
+		<Value>Save and Keep Checked-Out</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerTabCheckIn</Name>
+		<Value>Check In...</Value>
+	</Variable>
+	<Variable>
+		<Name>AddSearchtoMySavedSearches</Name>
+		<Value>Add Search to My Saved Searches</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerTabCheckOut</Name>
+		<Value>Check Out...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEditattachmentwithMSWord</Name>
+		<Value>MS Word View</Value>
+	</Variable>
+	<Variable>
+		<Name>Openselectedobject</Name>
+		<Value>Open selected object (Ctrl+O)</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectASearch</Name>
+		<Value>Select a Search</Value>
+	</Variable>
+	<Variable>
+		<Name>StartTraceLinkCreation</Name>
+		<Value>Start Trace Link Creation</Value>
+	</Variable>
+	<Variable>
+		<Name>EndTraceLinkCreation</Name>
+		<Value>End Trace Link Creation</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewMenu</Name>
+		<Value>View Menu</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateNewRequirement</Name>
+		<Value>Requirement...</Value>
+	</Variable>
+	<Variable>
+		<Name>AdvancedSearch</Name>
+		<Value>Advanced Search</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowHideDataPanel</Name>
+		<Value>Show/Hide Data Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>FilterManagement</Name>
+		<Value>Filter Management</Value>
+	</Variable>
+	<Variable>
+		<Name>Searchwithincurrentcontent</Name>
+		<Value>Search within current content</Value>
+	</Variable>
+	<Variable>
+		<Name>Savethecurrentcontents</Name>
+		<Value>Save the current contents (Ctrl+S)</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateSubsetDefinition</Name>
+		<Value>Create Subset Definition</Value>
+	</Variable>
+	<Variable>
+		<Name>EndTraceLinkCreationwithSubtype</Name>
+		<Value>End Trace Link Creation with Subtype</Value>
+	</Variable>
+	<Variable>
+		<Name>CreatePartition</Name>
+		<Value>Create Partition</Value>
+	</Variable>
+	<Variable>
+		<Name>MoreProperties</Name>
+		<Value>More Properties...</Value>
+	</Variable>
+	<Variable>
+		<Name>Copy</Name>
+		<Value>Copy the selection and put it on the clipboard (Ctrl+C)</Value>
+	</Variable>
+	<Variable>
+		<Name>CopyAppend</Name>
+		<Value>Copy Append (Ctrl+Shift+C)</Value>
+	</Variable>
+	<Variable>
+		<Name>Revise</Name>
+		<Value>Revise...</Value>
+	</Variable>
+	<Variable>
+		<Name>NewWorkflowProcess</Name>
+		<Value>New Workflow Process...</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAs</Name>
+		<Value>Save As</Value>
+	</Variable>
+	<Variable>
+		<Name>GenerateTraceabilityreport</Name>
+		<Value>Generate a Traceability report</Value>
+	</Variable>
+	<Variable>
+		<Name>AddNew</Name>
+		<Value>Add New...</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandsSelectedObjectToAllLevels</Name>
+		<Value>Expands the selected object(s) to all levels</Value>
+	</Variable>
+	<Variable>
+		<Name>LoadAll</Name>
+		<Value>Load All</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenCCTree</Name>
+		<Value>Open Collaboration Context Tree</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportobjectstoWord</Name>
+		<Value>Export Objects to Word</Value>
+	</Variable>
+	<Variable>
+		<Name>ExecuteAndDisplaySearchResults</Name>
+		<Value>Executes the search and displays the results in search result view</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenHomefolder</Name>
+		<Value>Open Home folder</Value>
+	</Variable>
+	<Variable>
+		<Name>CancelCheckout</Name>
+		<Value>Cancel Checkout...</Value>
+	</Variable>
+	<Variable>
+		<Name>SavestheAMRuleTreechangesCtrlS</Name>
+		<Value>Save the current contents (Ctrl+S)</Value>
+	</Variable>
+	<Variable>
+		<Name>MovestheselectedAMRuleUponelevel</Name>
+		<Value>Moves the selected AM Rule Up one level</Value>
+	</Variable>
+	<Variable>
+		<Name>DisplayspropertiesoftheselectedobjectAltEnter</Name>
+		<Value>Displays properties of the selected object (Alt+P)</Value>
+	</Variable>
+	<Variable>
+		<Name>CancelCheckout</Name>
+		<Value>Cancel Checkout...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewChangeFoldersOfSelectedTask</Name>
+		<Value>View change folders of selected Task</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerTabSaveAndKeepChkOut</Name>
+		<Value>Save And Keep Checked-Out</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerTabCancelChkOut</Name>
+		<Value>Cancel Checkout...</Value>
+	</Variable>
+	<Variable>
+		<Name>Packtheselectedline</Name>
+		<Value>Pack the selected line (Ctrl+Shift+M)</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveCtrlS</Name>
+		<Value>Save (Ctrl+S)</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowHideStructureManagerSearchPanel</Name>
+		<Value>Show/Hide Structure Manager Search Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>Lot</Name>
+		<Value>Lot...</Value>
+	</Variable>
+	<Variable>
+		<Name>CustomNote</Name>
+		<Value>Custom Note</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowCustomNotes</Name>
+		<Value>Custom Notes Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>Refresh</Name>
+		<Value>Refresh the selected object (F5)</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenWorklist</Name>
+		<Value>Open Worklist</Value>
+	</Variable>		
+	<Variable>
+		<Name>AddFinish</Name>
+		<Value>Add Finish</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveFinish</Name>
+		<Value>Remove Finish</Value>
+	</Variable>
+	<Variable>
+		<Name>AddNewActionItems</Name>
+		<Value>Add New</Value>
+	</Variable>
+	<Variable>
+		<Name>MarkupModeONOFF</Name>
+		<Value>Switches the BOM markup mode on or off</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenstheBOMmarkuoviewer</Name>
+		<Value>Opens the BOM markup viewer</Value>
+	</Variable>	
+	<Variable>
+		<Name>DeleteMarkupthislevel</Name>
+		<Value>Delete Markup (this level)</Value>
+	</Variable>	
+	<Variable>
+		<Name>ApplyMarkupkupthislevel</Name>
+		<Value>Apply Markup (this level)</Value>
+	</Variable>	
+	<Variable>
+		<Name>SavetoTeamcenter</Name>
+		<Value>Save to Teamcenter</Value>
+	</Variable>	
+	<Variable>
+		<Name>StartOpenInLifecycleVisualization</Name>
+		<Value>Start/Open in Lifecycle Visualization</Value>
+	</Variable>	
+	<Variable>
+		<Name>Createanewrequirementsspecification</Name>
+		<Value>Requirement Specification...</Value>
+	</Variable>	
+	<Variable>
+		<Name>CreateanewFunction</Name>
+		<Value>Function...</Value>
+	</Variable>	
+	<Variable>
+		<Name>CreateanewSystemsEngineeringBlock</Name>
+		<Value>Create a new Systems Engineering Block</Value>
+	</Variable>	
+	<Variable>
+		<Name>CreateanewLogicalBlock</Name>
+		<Value>Logical Block...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ExportObjectstoExcel</Name>
+		<Value>Export Objects to Excel</Value>
+	</Variable>	
+	<Variable>
+		<Name>NewTask</Name>
+		<Value>New Task...</Value>
+	</Variable>	
+	<Variable>
+		<Name>NewMilestone</Name>
+		<Value>New Milestone...</Value>
+	</Variable>	
+	<Variable>
+		<Name>Changesearchfromsearchhistory</Name>
+		<Value>Change search from search history</Value>
+	</Variable>	
+	<Variable>
+		<Name>ActivityAssignments</Name>
+		<Value>Activity Assignments</Value>
+	</Variable>
+	<Variable>
+		<Name>StartNXApplication</Name>
+		<Value>Start/Open in NX</Value>
+	</Variable>
+		<Variable>
+		<Name>OpenSimpleSearchView</Name>
+		<Value>Open Simple Search View</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectBusinessObjectTypeToSearch</Name>
+		<Value>Select a Business Object Type To Search.</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenInbox</Name>
+		<Value>Open Inbox</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateNewNote</Name>
+		<Value>Create New Note</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEditMSView</Name>
+		<Value>MS Word View</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowHideDataPanelMSM</Name>
+		<Value>Show/Hide the data panel</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowHideSecondStructurePanel</Name>
+		<Value>Show/Hide the second structure panel</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowGraphics</Name>
+		<Value>Show Graphics</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandSelectedObject</Name>
+		<Value>Expand the selected object(s)</Value>
+	</Variable>
+	<Variable>
+		<Name>CollapseToTheRootObject</Name>
+		<Value>Collapse to the root object</Value>
+	</Variable>
+	<Variable>
+		<Name>CloseAll</Name>
+		<Value>Close All</Value>
+	</Variable>
+	<Variable>
+		<Name>Enableresponsetoselections</Name>
+		<Value>Enable response to selections</Value>
+	</Variable>
+	<Variable>
+		<Name>MyWorklist</Name>
+		<Value>My Worklist</Value>
+	</Variable>	
+	<Variable>
+		<Name>NewWorkflowProcess_OfficeClient</Name>
+		<Value>New Workflow Process</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveChanges</Name>
+		<Value>Save Changes</Value>
+	</Variable>	
+	<Variable>
+		<Name>ExportObjectstoCSV</Name>
+		<Value>Export Objects to CSV</Value>
+	</Variable>	
+	<Variable>
+		<Name>SystemsEngineering</Name>
+		<Value>Systems Engineering</Value>
+	</Variable>
+	<Variable>
+		<Name>Copy1</Name>
+		<Value>Copy</Value>
+	</Variable>	
+	<Variable>
+		<Name>Reorderthesections</Name>
+		<Value>Re-order the sections</Value>
+	</Variable>	
+	<Variable>
+		<Name>Perform</Name>
+		<Value>Perform</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemRevTargetsPaste</Name>
+		<Value>Paste</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenInLifecycleVisualization</Name>
+		<Value>Open in Lifecycle Visualization</Value>
+	</Variable>	
+</Environment>

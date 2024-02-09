@@ -1,0 +1,503 @@
+<Environment>
+	<Variable>
+		<Name>StructureManager</Name>
+		<Value>JavaWindow("StructureManager")</Value>
+	</Variable>
+	<Variable>
+		<Name>PSEApplet</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>Revision Rules</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Revision Rules")</Value>
+	</Variable>
+	<Variable>
+		<Name>Create New Revision Rule</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Create New Revision Rule")</Value>
+	</Variable>
+	<Variable>
+		<Name>View / Set Current Revision</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("View / Set Current Revision")</Value>
+	</Variable>
+	<Variable>
+		<Name>Configure</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Configure")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save configuration for</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Configure").JavaDialog("Save configuration for")</Value>
+	</Variable>
+	<Variable>
+		<Name>Search for variants</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Search for variants")</Value>
+	</Variable>
+	<Variable>
+		<Name>Set Date/Unit/End Item</Name>
+		<Value>Window("StructureManagerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Set Date/Unit/End Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>Set Date/Unit/End Item @2</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Set Date/Unit/End Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save New Configuration Context</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Save New Configuration Context")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save New Configuration Context@1</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("SaveAsNewConfiguration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Apply Configuration Context</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Apply Configuration Context")</Value>
+	</Variable>
+	<Variable>
+		<Name>Edit option</Name>
+		<Value>Window("StructureManagerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Edit option")</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("PSEWindow").JavaDialog("Paste")</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste @2</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Paste")</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Remove")</Value>
+	</Variable>
+	<Variable>
+		<Name>Error</Name>
+		<Value>Window("StructureManagerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Paste").JavaDialog("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>Error @2</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorWindow</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("ErrorWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>Invalid selections</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Invalid selections")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Variant Item</Name>
+		<Value>Window("StructureManagerWindow").JavaDialog("New Variant Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>BOM Compare</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("BOM Compare")	</Value>
+	</Variable>
+	<Variable>
+		<Name>View/Edit Multi Unit Configuration</Name>
+		<Value>JavaWindow("MyTeamcenter").JavaWindow("View/Edit Multi Unit Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenByName</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("OpenByName")</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenByNameWindow</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Open by Name")</Value>
+	</Variable>
+	<Variable>
+		<Name>Variant Item Update</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Variant Item Update")</Value>
+	</Variable>
+	<Variable>
+		<Name>Unlink Variant Item</Name>
+		<Value>JavaDialog("Unlink Variant Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>Add</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Add")</Value>
+	</Variable>
+	<Variable>
+		<Name>Global_Alternate</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaCheckBox("Global_Alternate")</Value>
+	</Variable>
+	<Variable>
+		<Name>AlternateTable</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaTable("AlternateTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>Note</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Note")</Value>
+	</Variable>
+	<Variable>
+		<Name>Variant Condition</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Variant Condition")</Value>
+	</Variable>
+	<Variable>
+		<Name>Variant Condition @2</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("PSEWindow").JavaDialog("Variant Condition")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save As New Configuration</Name>
+		<Value>JavaWindow("Manufacturing Process").JavaWindow("Save As New Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Create/Revise IC Context</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Create/Revise IC Context")</Value>
+	</Variable>
+	<Variable>
+		<Name>Split Occurrence</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Split Occurrence")</Value>
+	</Variable>
+	<Variable>
+		<Name>CommunicationsProfiler</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("CommunicationsProfiler")</Value>
+	</Variable>
+	<Variable>
+		<Name>Variant Rule</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Variant Rule")</Value>
+	</Variable>
+	<Variable>
+		<Name>Load Variant Rule</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Variant Rule").JavaWindow("Load Variant Rule")</Value>
+	</Variable>
+	<Variable>
+		<Name>Save As...</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Variant Rule").JavaWindow("Save As...")</Value>
+	</Variable>
+	<Variable>
+		<Name>Duplicate</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Duplicate")</Value>
+	</Variable>
+	<Variable>
+		<Name>Duplicate Results</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Duplicate").JavaWindow("Duplicate Results")</Value>
+	</Variable>
+	<Variable>
+		<Name>SmartSelection</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Duplicate").Dialog("SmartSelection")</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMTable</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaTable("BOMTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>Update</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Update")</Value>
+	</Variable>
+	<Variable>
+		<Name>PSEWindow</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("PSEWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>View / Set Current Revision</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("View / Set Current Revision")</Value>
+	</Variable>
+	<Variable>
+		<Name>View / Set Current Revision@1</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("PSEWindow").JavaDialog("View / Set Current Revision")</Value>
+	</Variable>
+	<!--' - - - - - - - From General.tsr - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+	<Variable>
+		<Name>Delete</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Delete")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete Below</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Delete Below")</Value>
+	</Variable>
+	<Variable>
+		<Name>New Collaboration Context</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("New Collaboration Context")</Value>
+	</Variable>
+	<Variable>
+		<Name>Check-In</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Check-In")</Value>
+	</Variable>
+	<Variable>
+		<Name>Check-Out</Name>
+		<Value>Window("TeamcenterWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>View/Edit Change</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("View/Edit Change")</Value>
+	</Variable>
+	<Variable>
+		<Name>DataTblTab</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaTab("DataTblTab")</Value>
+	</Variable>
+	<Variable>
+		<Name>Unload Below</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("UnloadBelow")</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantItemRevise</Name>
+		<Value>JavaDialog("VariantItemRevise")</Value>
+	</Variable>
+	<Variable>
+		<Name>SplitIncrementalChange</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("SplitIncrementalChange")</Value>
+	</Variable>
+	<Variable>
+		<Name>DetachedWindow</Name>
+		<Value>JavaWindow("StructureManager").Dialog("DetachedWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewSetClosureRule</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("ViewSetClosureRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidClosureRule</Name>
+		<Value>Fn_SISW_PSE_GetObject("ViewSetClosureRule").JavaWindow("InvalidClosureRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidClosureRule@2</Name>
+		<Value>Fn_SISW_PSE_GetObject("StructureManager").JavaWindow("InvalidClosureRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>Group Entries</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Group Entries")</Value>
+	</Variable>
+	<Variable>
+		<Name>Apply Column Configuration</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Apply Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete Column Configuration</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Delete Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Delete Column Configuration@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Delete Column Configuration")</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateRollupReport</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("CreateRollupReport")</Value>
+	</Variable>
+	<Variable>
+		<Name>RollupReportTemplates</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("RollupReportTemplates")</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewRollupReport</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("ViewRollupReport")</Value>
+	</Variable>
+	<Variable>
+		<Name>FindInDisplay</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("FindInDisplay")</Value>
+	</Variable>
+	<Variable>
+		<Name>Close Application</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Close Application")</Value>
+	</Variable>
+	<Variable>
+		<Name>NewManufacturingFeature</Name>
+		<Value>JavaDialog("NewManufacturingFeature")</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchForItemRev</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Variant Rule").JavaWindow("Load Variant Rule").JavaWindow("SearchForItemRev")</Value>
+	</Variable>	
+	<Variable>
+		<Name>VariantRule@1</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Variant Rule")</Value>
+	</Variable>	
+	<Variable>
+		<Name>LoadVariantRule@1</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("LoadVariantRule")</Value>
+	</Variable>	
+	<Variable>
+		<Name>SaveAs</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("SaveAs")</Value>
+	</Variable>	
+		<Variable>
+		<Name>VariantRules</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Variant Rule").JavaWindow("Load Variant Rule").JavaWindow("VariantRules")</Value>
+	</Variable>	
+	<Variable>
+		<Name>VariantRule@2</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Variant Rule").JavaWindow("VariantRule")</Value>
+	</Variable>	
+	<Variable>
+		<Name>Configure@1</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("PSEWindow").JavaDialog("Configure")</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantRule@3</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("PSEWindow").JavaDialog("VariantRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>SwichIncrementalChange</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("SwichIncrementalChange")</Value>
+	</Variable>
+	<Variable>
+		<Name>InContext</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaStaticText("IN CONTEXT")</Value>
+	</Variable>
+	<Variable>
+		<Name>InContext_1</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaStaticText("IN CONTEXT_1")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeColumns</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Change Columns")</Value>
+	</Variable>
+	<Variable>
+		<Name>ApplyConfigurationContext</Name>
+		<Value> JavaWindow("StructureManager").JavaWindow("Apply Configuration Context")</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsNewCollaboration</Name>
+		<Value> JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Save as New Collaboration")</Value>
+	</Variable>
+	<Variable>
+		<Name>Configure</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Configure")</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteMarkup</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("DeleteMarkup")</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantRule@4</Name>
+		<Value>Window("StructureManagerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("VariantRule")</Value>
+	</Variable>
+	<Variable>
+		<Name>BOMPanel</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaObject("BOMPanel")</Value>
+	</Variable>
+	<Variable>
+		<Name>FreezeColumns</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("FreezeColumns")</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantExitWindow</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Variant Rule").JavaWindow("Exit")</Value>
+	</Variable>
+	<Variable>
+		<Name>Referencers Print Wizard</Name>
+		<Value>Window("StructureManagerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("ReferencersPrintWizard")</Value>
+	</Variable>
+	<Variable>
+		<Name>Print</Name>
+		<Value>Window("StructureManagerWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Print")</Value>
+	</Variable>
+	<Variable>
+		<Name>PSEApplet1</Name>
+		<Value>Window("StructureManagerWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>EditQuantity</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Edit Quantity")</Value>
+	</Variable>
+	<Variable>
+		<Name>Warning</Name>
+		<Value>JavaDialog("Warning")</Value>
+	</Variable>
+	<Variable>
+		<Name>StructureManagerWindow</Name>
+		<Value>Window("StructureManagerWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>Create New Revision Rule@2</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("PSEWindow").JavaDialog("Create New Revision Rule")</Value>
+	</Variable>
+	<Variable>
+		<Name>DetachedWindowPSEApplet</Name>
+		<Value>JavaWindow("StructureManager").Dialog("DetachedWindow").JavaWindow("WEmbeddedFrame")</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveColumn</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("RemoveColumn")</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveColumn@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Remove Column")</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove@1</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("WEmbeddedFrame").JavaDialog("Remove")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorWindow@1</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Shell").JavaWindow("ErrorWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>Error</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorJavaWindow</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("ErrorJavaWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantNatTable</Name>
+		<Value>JavaWindow("StructureManager").JavaObject("VariantNatTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>ICEditContext</Name>
+		<Value>JavaWindow("StructureManager").JavaTable("ICEditContext")</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsWindow</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Save As...")</Value>
+	</Variable>
+	<Variable>
+		<Name>SMLoadVariantRule</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Load Variant Rule")</Value>
+	</Variable>
+	<Variable>
+		<Name>VariantCondError</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Variant Condition").JavaDialog("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>Newstructurecontext</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("New structure context")</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateErr</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Duplicate").JavaWindow("DuplicateError")</Value>
+	</Variable>
+	<Variable>
+		<Name>AutoCreateVIStructures</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Auto Create Of VI Structures")</Value>
+	</Variable>
+	<Variable>
+		<Name>ErrorWindow@2</Name>
+		<Value>JavaWindow("ErrorWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>Transfer Check-Out</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("WEmbeddedFrame").JavaDialog("Transfer Check-Out")</Value>
+	</Variable>
+	<Variable>
+		<Name>WarningWindow</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Warning")</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove@2</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Remove")</Value>
+	</Variable>
+	<Variable>
+		<Name>MultilevelSolutionVariant</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Multi-level Solution Variant")</Value>
+	</Variable>
+	<Variable>
+		<Name>SolutionSearchResultTable</Name>
+		<Value>JavaWindow("StructureManager").JavaTable("SolutionSearchResultTable")</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateSolutionVariant</Name>
+		<Value>JavaWindow("UpdateSoVarShell").JavaWindow("UpdateSolutionVariant")</Value>
+	</Variable>	
+	<Variable>
+		<Name>Set Date/Unit/End Item @3</Name>
+		<Value>JavaWindow("DefaultWindow").JavaWindow("TcDefaultApplet").JavaDialog("Set Date/Unit/End Item")</Value>
+	</Variable>
+	<Variable>
+		<Name>Update Solution Variant</Name>
+		<Value>JavaWindow("StructureManager").JavaWindow("Update Solution Variant")</Value>
+	</Variable>
+	<Variable>
+		<Name>Shell Update Solution Variant</Name>
+		<Value>JavaWindow("UpdateSoVarShell").JavaWindow("UpdateSolutionVariant").JavaWindow("Update Solution Variant")</Value>
+	</Variable>
+</Environment>

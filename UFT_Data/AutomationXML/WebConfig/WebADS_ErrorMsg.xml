@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>PasteFailError</Name>
+		<Value>Copy the Custom Note to the clipboard and select the Item/Item Revision to which that custom note has to be associated.</Value>
+	</Variable>
+	<Variable>
+		<Name>AttachDuplicateStandardNoteError</Name>
+		<Value>The instance cannot be saved because it contains at least one attribute that violates a unique attribute rule.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AccessDeniedError</Name>
+		<Value>The access is denied.</Value>
+	</Variable>
+	<Variable>
+		<Name>FinishGroupCreationByPastingItemError</Name>
+		<Value>The given tag () does not exist in the database or is not a persistent object tag.</Value>
+	</Variable>
+	<Variable>
+		<Name>AttachDuplicateStandardNoteError@1</Name>
+		<Value>The object "sStdNote" is already related to the object "sItemName" through the relation "Standard Notes Lists".</Value>
+	</Variable>
+</Environment>

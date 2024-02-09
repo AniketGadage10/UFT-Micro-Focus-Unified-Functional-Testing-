@@ -1,0 +1,76 @@
+<Environment>
+	<Variable>
+		<Name>InvalidLogin</Name>
+		<Value>The login attempt failed: either the user ID or the password is invalid</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOutError</Name>
+		<Value>Could not Check-Out</Value>
+	</Variable>
+	<Variable>
+		<Name>WorklistNewItemError</Name>
+		<Value>it could not be attached at the selected location. Instead, it has been placed in your Newstuff folder</Value>
+	</Variable>
+	<Variable>
+	  <Name>AssignParticipantsError</Name>
+	  <Value>Assigning participants is not allowed.</Value>
+	</Variable>	
+	<Variable>
+	  <Name>ObjectNotReferencedByAnother</Name>
+	  <Value>This object is not referenced by another</Value>
+	</Variable>	 
+	<Variable>
+	  <Name>DeleteAllSequenceError</Name>
+	  <Value>The last revision of an Item cannot be independently deleted. Delete the Item object itself</Value>
+	</Variable>
+	<Variable>
+	  <Name>RemoveRevisionColumnError</Name>
+	  <Value>You may only show one revision relation. Please remove either revision or displayed revision from the show column</Value>
+	</Variable>
+	<Variable>
+	  <Name>InvalidSelection</Name>
+	  <Value>Selected BOM line, or lines, are not in the scope of the Context line selected.</Value>
+	</Variable>
+	<Variable>
+	  <Name>substituteTargetBOMline</Name>
+	  <Value>Target BOM line is not selected. Select a target BOM line to add the substitute.</Value>
+	</Variable>
+	<Variable>
+	  <Name>substitutepreferredBOMline</Name>
+	  <Value>Select a preferred bom line with substitutes.</Value>
+	</Variable>
+	<Variable>
+	  <Name>SearchFail</Name>
+	  <Value>Search failed to find any objects</Value>
+	</Variable>
+	<Variable>
+	  <Name>NothingOnClipboard</Name>
+	  <Value>Nothing on the clipboard to paste</Value>
+	</Variable>
+	<Variable>
+	  <Name>Nothingselected</Name>
+	  <Value>Nothing selected.</Value>
+	</Variable>
+	<Variable>
+	  <Name>DeleteObject</Name>
+	  <Value>Delete the selected objects?</Value>
+	</Variable>
+	<Variable>
+	  <Name>ReplaceSubstituteTargetBOMline</Name>
+	  <Value>Target BOM line is not selected. Select a target BOM line to replace.</Value>
+	</Variable>
+	<Variable>
+	  <Name>ReplaceSingleItemWithMultipleItems</Name>
+	  <Value>Multiple items in clip board. Cannot replace single item with multiple items.</Value>
+	</Variable>
+	<Variable>
+		<Name>IDPatternIE</Name>
+		<Value>The valid Naming Rule pattern is</Value>
+	</Variable>
+	<Variable>
+		<Name>PurgeError</Name>
+		<Value>63356: Unable to purge: No Dataset or ItemRevision is selected..</Value>
+	</Variable>
+</Environment>
+
+

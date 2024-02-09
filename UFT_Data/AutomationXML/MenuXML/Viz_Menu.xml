@@ -1,0 +1,238 @@
+<Environment>
+	<Variable>
+		<Name>FileOpen</Name>
+		<Value>File:Open...	Ctrl+O</Value>
+	</Variable>
+	<Variable>
+		<Name>FileInsert</Name>
+		<Value>File:Insert...</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveSession</Name>
+		<Value>File:Save Session</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveSessionAs</Name>
+		<Value>File:Save Session As...</Value>
+	</Variable>
+	<Variable>
+		<Name>SavePLMXML</Name>
+		<Value>File:Save As...</Value>
+	</Variable>
+	<Variable>
+		<Name>EnableMarkup</Name>
+		<Value>Tools:Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>TextMarkup</Name>
+		<Value>Markup:Draw:Text</Value>
+	</Variable>
+	<Variable>
+		<Name>EnableAnchor</Name>
+		<Value>Markup:Anchor</Value>
+	</Variable>
+	<Variable>
+		<Name>EnableMeasurement</Name>
+		<Value>Tools:Measurement</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsInspector</Name>
+		<Value>Actions:Inspector:JT Inspector Design Authority...</Value>
+	</Variable>
+	<Variable>
+		<Name>MeasurementTypeSingle</Name>
+		<Value>Measurement:Type:Single</Value>
+	</Variable>
+	<Variable>
+		<Name>EnableSnapshots</Name>
+		<Value>Tools:Snapshots</Value>
+	</Variable>
+	<Variable>
+		<Name>SnapshotsAdd</Name>
+		<Value>Snapshots:Add</Value>
+	</Variable>
+	<Variable>
+		<Name>SnapshotsToggleView</Name>
+		<Value>Snapshots:Toggle View</Value>
+	</Variable>
+	<Variable>
+		<Name>Exit</Name>
+		<Value>File:Exit</Value>
+	</Variable>
+	<Variable>
+		<Name>Close</Name>
+		<Value>File:Close</Value>
+	</Variable>
+	<Variable>
+		<Name>CloseSession</Name>
+		<Value>File:Close Session</Value>
+	</Variable>
+	<Variable>
+		<Name>FilePrefrencesTCIntegration</Name>
+		<Value>File:Preferences:Teamcenter Integration...</Value>
+	</Variable>
+	<Variable>
+		<Name>2DMarkupTextUnRestricted</Name>
+		<Value>Markup:Draw:Text:Unrestricted Text</Value>
+	</Variable>
+	<Variable>
+		<Name>2DMarkupTextRestricted</Name>
+		<Value>Markup:Draw:Text:UnRestricted Text</Value>
+	</Variable>
+	<Variable>
+		<Name>ImageCapture</Name>
+		<Value>Actions:Image Capture</Value>
+	</Variable>
+	<Variable>
+		<Name>3DMarkupInsetImage</Name>
+		<Value>Markup:Draw:Inset Image...</Value>
+	</Variable>
+	<Variable>
+		<Name>2DMarkupInsetImage</Name>
+		<Value>Markup:Draw:Inset Image</Value>
+	</Variable>
+	<Variable>
+		<Name>LCVActionPartTrasformation</Name>
+		<Value>Action:Part Transformation:Transformation...</Value>
+	</Variable>
+	<Variable>
+		<Name>PSMGraphicsTemporaryTrasformation</Name>
+		<Value>Graphics:Transformation:Temporary Transformation</Value>
+	</Variable>
+	<Variable>
+		<Name>Toolbars2DMarkup</Name>
+		<Value>Toolbars:2D Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>3DMarkupEllipse</Name>
+		<Value>Markup:Draw:Ellipse</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewPreferences</Name>
+		<Value>View:Preferences...</Value>
+	</Variable>
+	<Variable>
+		<Name>3DMarkupLine</Name>
+		<Value>Markup:Draw:Line:Line</Value>
+	</Variable>
+	<Variable>
+		<Name>3DMarkupRectangle</Name>
+		<Value>Markup:Draw:Rectangle</Value>
+	</Variable>
+	<Variable>
+		<Name>3DMarkupFreehandLine</Name>
+		<Value>Markup:Draw:Line:Freehand</Value>
+	</Variable>
+	<Variable>
+		<Name>FileExportImage</Name>
+		<Value>File:Export Image...</Value>
+	</Variable>
+	<Variable>
+		<Name>3DMarkupNewLayer</Name>
+		<Value>Markup:New Layer</Value>
+	</Variable>
+	<Variable>
+		<Name>LCVActionsPartTrasformation</Name>
+		<Value>Actions:Part Transformation:Transformation...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolbarsSnapshots</Name>
+		<Value>Toolbars:Snapshots</Value>
+	</Variable>
+	<Variable>
+		<Name>ConceptAppearancePartColor</Name>
+		<Value>Concept:Appearance:Quick Color...</Value>
+	</Variable>
+	<Variable>
+		<Name>FilePrefrencesPLMXML</Name>
+		<Value>File:Preferences:PLM XML...</Value>
+	</Variable>
+	<Variable>
+		<Name>PSMGraphicsVisibilityViewSelected</Name>
+		<Value>Graphics:Visibility:View Selected</Value>
+	</Variable>
+	<Variable>
+		<Name>PSMGraphicsVisibilityReverseBlankAll</Name>
+		<Value>Graphics:Visibility:Reverse Blank All</Value>
+	</Variable>	
+	<Variable>
+		<Name>ViewVisibilitySelectedOn</Name>
+		<Value>View:Visibility:Selected On</Value>
+	</Variable>	
+	<Variable>
+		<Name>PSMShowSubcomponents</Name>
+		<Value>Graphics:Show Subcomponents</Value>
+	</Variable>
+	<Variable>
+		<Name>PSMHideSubcomponents</Name>
+		<Value>Graphics:Hide Subcomponents</Value>
+	</Variable>
+	<Variable>
+		<Name>2DMarkupRectangle</Name>
+		<Value>Markup:Draw:Shape:Rectangle</Value>
+	</Variable>
+	<Variable>
+		<Name>2DMarkupEllipse</Name>
+		<Value>Markup:Draw:Shape:Ellipse</Value>
+	</Variable>
+	<Variable>
+		<Name>2DMarkupLine</Name>
+		<Value>Markup:Draw:Line:Line</Value>
+	</Variable>
+	<Variable>
+		<Name>2DMarkupFreehandLine</Name>
+		<Value>Markup:Draw:Line:Freehand</Value>
+	</Variable>
+	<Variable>
+		<Name>LoadOptions</Name>
+		<Value>File:Preferences:Load Options...</Value>
+	</Variable>
+	<Variable>
+		<Name>CAEViewingDisplayOptions</Name>
+		<Value>CAE Viewing:Display Options...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewDockingWindows</Name>
+		<Value>View:Docking Windows...</Value>
+	</Variable>
+	<Variable>
+		<Name>ActionsLayerFilter</Name>
+		<Value>Actions:Layer Filter...</Value>
+	</Variable>
+	<Variable>
+		<Name>CAEViewingIdentify</Name>
+		<Value>CAE Viewing:Identify...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsPartEdit</Name>
+		<Value>Tools:Part Edit</Value>
+	</Variable>
+	<Variable>
+		<Name>PartEditBRep</Name>
+		<Value>Part Edit:B-Rep...</Value>
+	</Variable>
+	<Variable>
+		<Name>Toolbars3DComparison</Name>
+		<Value>Toolbars:3D Comparison</Value>
+	</Variable>
+	<Variable>
+		<Name>FilePreferences3DLoader</Name>
+		<Value>File:Preferences:3D Loader...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewOrthographic</Name>
+		<Value>View:Orthographic</Value>
+	</Variable>
+	<Variable>
+		<Name>MeasurementTypeRadius</Name>
+		<Value>Measurement:Type:Radius</Value>
+	</Variable>
+	<Variable>
+		<Name>ConceptAppearanceImagePalette</Name>
+		<Value>Concept:Appearance:Image Palette...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewStatusBar</Name>
+		<Value>View:Status Bar</Value>
+	</Variable>
+</Environment>

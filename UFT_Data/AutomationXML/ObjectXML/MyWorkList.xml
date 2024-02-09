@@ -1,0 +1,66 @@
+<Environment>
+	<Variable>
+		<Name>Workflow Surrogate</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("Workflow Surrogate")</Value>
+	</Variable>
+	<Variable>
+		<Name>Perform Do Task</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("Perform Do Task")</Value>
+	</Variable>
+	<Variable>
+		<Name>Assign Participants</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("Assign Participants")</Value>
+	</Variable>
+	<Variable>
+		<Name>Perform Signoff</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("Perform Signoff")</Value>
+	</Variable>
+	<Variable>
+		<Name>Signoff Decision</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("Signoff Decision")</Value>
+	</Variable>
+	<Variable>
+		<Name>Error</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("Error")</Value>
+	</Variable>
+	<Variable>
+		<Name>MyWorkListApplet</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyWorkListWindow")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeUserSetting</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("Change User Setting")</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangeUserSetting@1</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyWorkListWindow").JavaDialog("Change User Setting")</Value>
+	</Variable>
+	<Variable>
+		<Name>SignOffTeamTree</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyWorkListWindow").JavaTree("SignOffTeamTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>OrganizationTree</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyWorkListWindow").JavaTree("OrgTree")</Value>
+	</Variable>
+	<Variable>
+		<Name>UsrRoleGrpSrch</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyWorkListWindow").JavaEdit("UsrRoleGrpSrch")</Value>
+	</Variable>
+	<Variable>
+		<Name>RefreshButton</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyWorkListWindow").JavaButton("Refresh")</Value>
+	</Variable>
+	<Variable>
+		<Name>AbortActionComments</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("AbortAction")</Value>
+	</Variable>
+	<Variable>
+		<Name>PromoteActionComments@2</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("Promote Action Comments")</Value>
+	</Variable>
+	<Variable>
+		<Name>Select Signoff Team</Name>
+		<Value>JavaWindow("MyWorkListWindow").JavaWindow("MyTeamcenter").JavaDialog("SelectSignoffTeamDialog")</Value>
+	</Variable>
+</Environment>

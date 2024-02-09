@@ -1,0 +1,26 @@
+<Environment>
+	<Variable>
+		<Name>UnableToSaveSessionWithLocalRefWarning</Name>
+		<Value>Unable to save session with only local file references to a server.</Value>
+	</Variable>
+	<Variable>
+		<Name>ArraySizeWarning</Name>
+		<Value>Arrow Size must be larger than 0.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeformationWarning</Name>
+		<Value>Deformation Scale must be larger than 0.</Value>
+	</Variable>
+	<Variable>
+		<Name>MissingBRepInfo</Name>
+		<Value>Processed 103 part(s), 11 of them has no B-Rep information.</Value>
+	</Variable>
+	<Variable>
+		<Name>EditInProgressMessage</Name>
+		<Value>B-Rep edit is currently active.</Value>
+	</Variable>
+	<Variable>
+		<Name>EndItemStateErrorMsg</Name>
+		<Value>End Item cannot be set on the occurrence of a root line</Value>
+	</Variable>
+</Environment>

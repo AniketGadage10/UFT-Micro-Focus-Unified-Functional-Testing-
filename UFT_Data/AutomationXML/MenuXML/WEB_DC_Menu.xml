@@ -1,0 +1,6 @@
+<Environment>
+	<Variable>
+		<Name>FileNewZone</Name>
+		<Value>File:New:Zone...</Value>
+	</Variable>
+</Environment>

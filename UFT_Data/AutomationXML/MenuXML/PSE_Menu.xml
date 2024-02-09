@@ -1,0 +1,210 @@
+<Environment>
+	<Variable>
+		<Name>FileNewBOMViewRevision</Name>
+		<Value>File:New:BOM View Revision...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowConnectedLines</Name>
+		<Value>View:Show Connected Lines</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsStructureAlignementPublishData</Name>
+		<Value>Tools:Structure Alignment:Publish Data</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsCompare</Name>
+		<Value>Tools:Compare...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsOnlyConfigureRoot</Name>
+		<Value>Tools:Variants:Only Configure Root</Value>
+	</Variable>	
+	<Variable>
+		<Name>ApplyMarkups</Name>
+		<Value>Tools:Markup:Apply Markups (all levels)</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsItemRevision</Name>
+		<Value>File:Save As...:Item(Revision)...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsRollupReportCreate...</Name>
+		<Value>Tools:Rollup Report:Create...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsRollupReportView...</Name>
+		<Value>Tools:Rollup Report:View...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsRollupReportTemplates...</Name>
+		<Value>Tools:Rollup Report:Templates...</Value>
+	</Variable>
+	<Variable>
+		<Name>CopySelectedDataWithHeaders</Name>
+		<Value>Copy Selected Data:With Headers</Value>
+	</Variable>	
+	<Variable>
+		<Name>CopySelectedDataWithoutHeaders</Name>
+		<Value>Copy Selected Data:Without Headers</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewManufacturingFeature</Name>
+		<Value>File:New:Manufacturing Feature...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewProcessVariable</Name>
+		<Value>File:New:Process Variable...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCSaveasNewStructureContext</Name>
+		<Value>File:CC:Save as New Structure Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowUnconfiguredByOccurrenceEffectivity</Name>
+		<Value>Show Unconfigured By Occurrence Effectivity</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileCCSaveAsNewCollaborationContext</Name>
+		<Value>File:CC:Save as New Collaboration Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowUnconfiguredChnages</Name>
+		<Value>View:Show Unconfigured Changes</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileDuplicate</Name>
+		<Value>File:Duplicate...</Value>
+	</Variable>
+    <Variable>
+		<Name>ToolsVendorPartSelectionRule</Name>
+		<Value>Tools:Vendor Part Selection Rule...</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileSaveAsBOMViewRevision</Name>
+		<Value>File:Save As...:BOM View Revision...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsIncrementalChangeSplit</Name>
+		<Value>Tools:Incremental Change:Split...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsIncrementalChangeCreateContext</Name>
+		<Value>Tools:Incremental Change:Create Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsIncrementalChangeCreateAnICContext</Name>
+		<Value>Tools:Incremental Change:Create an Incremental Change context</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewExpand</Name>
+		<Value>View:Expand</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewProperties</Name>
+		<Value>View:View Properties	Alt+P</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewProperties@1</Name>
+		<Value>View:View Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewExpandBelow</Name>
+		<Value>View:Expand Below</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewCollapseBelow</Name>
+		<Value>View:Collapse Below</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowDataPanel</Name>
+		<Value>View:Show Data Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>EditVariantCondition</Name>
+		<Value>Edit:Variant Condition...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsConfigureVariants</Name>
+		<Value>Tools:Variants:Configure Variants...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRevisionRuleSetDate/Unit/End Item</Name>
+		<Value>Tools:Revision Rule:Set Date/Unit/End Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsEffectivityRevisionEffectivity</Name>
+		<Value>Tools:Effectivity:Revision Effectivity...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsRevisionRuleCreate/Edit</Name>
+		<Value>Tools:Revision Rule:Create/Edit...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsEffectivityOccurrenceEffectivityView/Edit/Create/Edit</Name>
+		<Value>Tools:Effectivity:Occurrence Effectivity...:View, Edit and Create...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowUnconfiguredByOccurrenceEffectivity</Name>
+		<Value>View:Show Unconfigured By Occurrence Effectivity</Value>
+	</Variable>
+	<Variable>
+		<Name>EditAdd</Name>
+		<Value>Edit:Add...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPasteSpecial</Name>
+		<Value>Edit:Paste Special...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewNotes</Name>
+		<Value>View:Notes...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShow/HideDataPanel</Name>
+		<Value>View:Show/Hide Data Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsEffectivityOccurrenceEffectivityCalculateNetEffectivity</Name>
+		<Value>Tools:Effectivity:Occurrence Effectivity...:Calculate Net Effectivity</Value>
+	</Variable>
+	<Variable>
+		<Name>FileCCSaveasNewStructureContext@2</Name>
+		<Value>File:Collaboration Context:Save as New Structure Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditUnsetDefaultConfiguratorContext</Name>
+		<Value>Edit:Unset Default Configurator Context</Value>
+	</Variable>
+	<Variable>
+		<Name>EditSetDefaultConfiguratorContext</Name>
+		<Value>Edit:Set Default Configurator Context</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsSearch</Name>
+		<Value>Tools:Variants:Search...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsCountModules</Name>
+		<Value>Tools:Variants:Count Modules...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsUnlinkVariantItem</Name>
+		<Value>Tools:Variants:Unlink Variant Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsVariantsUpdateVariantItem</Name>
+		<Value>Tools:Variants:Update Variant Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEnableVariantConfigureToLoad</Name>
+		<Value>View:Enable Variant Configure To Load</Value>
+	</Variable>
+	<Variable>
+		<Name>FileSaveAsStructureContext</Name>
+		<Value>File:Save As...:Structure Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSolutionVariantEnableMultiLevelCreation</Name>
+		<Value>Tools:Solution Variant:Enable Multi-Level Creation</Value>
+	</Variable>
+</Environment>

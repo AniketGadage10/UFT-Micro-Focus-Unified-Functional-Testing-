@@ -1,0 +1,138 @@
+<Environment>
+	<Variable>
+		<Name>CreateSubsetDefinition</Name>
+		<Value>Create Subset Definition</Value>
+	</Variable>
+	<Variable>
+		<Name>OpennewContentExplorerview</Name>
+		<Value>Open new Content Explorer view</Value>
+	</Variable>
+	<Variable>
+		<Name>CreatePartition</Name>
+		<Value>Create Partition</Value>
+	</Variable>
+	<Variable>
+		<Name>AddGroup</Name>
+		<Value>Add Group (Ctrl+G)</Value>
+	</Variable>
+	<Variable>
+		<Name>AddFamily</Name>
+		<Value>Add Family (Ctrl+J)</Value>
+	</Variable>
+	<Variable>
+		<Name>AddValue</Name>
+		<Value>Add Value (Ctrl+L)</Value>
+	</Variable>
+	<Variable>
+		<Name>Refreshview</Name>
+		<Value>Refresh view (F5)</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandObjectsToAllLevels</Name>
+		<Value>Expand objects to all levels</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenVariantConstraintsView</Name>
+		<Value>Open Variant Constraints view</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenVariantDefaultsView</Name>
+		<Value>Open Variant Defaults view</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenSavedVariantRulesView</Name>
+		<Value>Open Saved Variant Rules view</Value>
+	</Variable>
+	<Variable>
+		<Name>ClearTheTextField</Name>
+		<Value>Clear the Text Field</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveTheCurrentContents</Name>
+		<Value>Save the current contents (Ctrl+S)</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenExpressionEditor</Name>
+		<Value>Open Expression Editor</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenHome</Name>
+		<Value>Open Home</Value>
+	</Variable>
+	<Variable>
+		<Name>Searchwithincurrentcontent</Name>
+		<Value>Search within current content</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateDesignElement</Name>
+		<Value>Create Component</Value>
+	</Variable>
+		<Variable>
+		<Name>OrganizeByPresentedParents</Name>
+		<Value>Organize the current view contents by their Presented Parents</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEditContentRecipe</Name>
+		<Value>View/edit content recipe</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenInclusionRulesView</Name>
+		<Value>Open Inclusion Rules view</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateNewSubset</Name>
+		<Value>Create a new Subset</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateBaseline</Name>
+		<Value>Create Baseline</Value>
+	</Variable>
+	<Variable>
+		<Name>View/editcontentrecipe</Name>
+		<Value>View/edit content recipe</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowHistoricalobjects</Name>
+		<Value>Show Historical objects</Value>
+	</Variable>
+	<Variable>
+		<Name>Opennew4GDContentExplorerview</Name>
+		<Value>Open new 4GD Content Explorer view</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportToExcel</Name>
+		<Value>Export To Excel</Value>
+	</Variable>
+	<Variable>
+		<Name>Open3DViewer</Name>
+		<Value>Open 3D Viewer</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEditMappings</Name>
+		<Value>Open View/Edit Mappings view</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveWorkingContext</Name>
+		<Value>Save Working Context</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewVariantConfiguration</Name>
+		<Value>View Variant Configuration</Value>
+	</Variable>
+	<Variable>
+		<Name>OverlayConfigurationMode</Name>
+		<Value>Overlay Configuration Mode</Value>
+	</Variable>
+	<Variable>
+		<Name>Guidedconfigurationmode</Name>
+		<Value>Guided configuration mode</Value>
+	</Variable>
+	<Variable>
+		<Name>OrderConfigurationMode</Name>
+		<Value>Order Configuration Mode</Value>
+	</Variable>
+	<Variable>
+		<Name>Validate</Name>
+		<Value>Validate</Value>
+	</Variable>
+</Environment>

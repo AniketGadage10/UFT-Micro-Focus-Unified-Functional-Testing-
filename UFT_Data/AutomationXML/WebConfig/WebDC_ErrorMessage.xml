@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>SCOCreationInformationMessage</Name>
+		<Value>The Structure Context object NodeName is successfully saved</Value>
+	</Variable>
+	<Variable>
+		<Name>NumberOfMatchesExceedsCurrentLimitMessage</Name>
+		<Value>The number of matches Number exceeds the current limit of 300. Click "OK" to continue, "Cancel" to abort.</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,26 @@
+<Environment>
+	<Variable>
+		<Name>ObjectName</Name>
+		<Value>_VisDM_Object_Name</Value>
+	</Variable>
+	<Variable>
+		<Name>PrimaryObjectID</Name>
+		<Value>_VisDM_Primary_Object_ID</Value>
+	</Variable>
+	<Variable>
+		<Name>ShapeRelationID</Name>
+		<Value>_VisDM_Shape_Relation_ID</Value>
+	</Variable>
+	<Variable>
+		<Name>PersistentObjectID</Name>
+		<Value>_VisDM_Persistent_Object_ID</Value>
+	</Variable>
+	<Variable>
+		<Name>ShapeID</Name>
+		<Value>_VisDM_Shape_ID</Value>
+	</Variable>
+	<Variable>
+		<Name>MEmbershipType</Name>
+		<Value>_VisDM_Membership_Type</Value>
+	</Variable>	
+</Environment>

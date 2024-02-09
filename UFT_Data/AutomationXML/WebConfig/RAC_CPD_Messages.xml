@@ -1,0 +1,166 @@
+<Environment>
+	<Variable>
+		<Name>ErrorMessage</Name>
+		<Value>The selected Partition cannot be deleted because it has one or more Members which control their membership. Please delete all such members first.</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckInErrorMessage</Name>
+		<Value>The action cannot be performed because "NodeName" was Checked-Out by "UserName" on DateTime.</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckInErrorMessage1</Name>
+		<Value> "NodeName" cannot be modified nor deleted because it was checked-out by "UserName" on DateTime.</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOutErrorMessage</Name>
+		<Value>A Subordinate Design Component cannot be checked-out individually. Instead, please check-out the associated Reuse Design Component "NodeName".</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteSubordinateDEErrorMessage</Name>
+		<Value>A Subordinate Design Component cannot be updated.</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateDesignElementErrorMessage</Name>
+		<Value>Item is an invalid input to this operation. Select an Item Revision instead.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidRelationErrorMessage</Name>
+		<Value>[] - Invalid relation.  Can not insert to parent object: NodeName</Value>
+	</Variable>
+	<Variable>
+		<Name>CategoryChangeMessage</Name>
+		<Value>Do you want to change the target Design Element from category Promissory to Reuse?</Value>
+	</Variable>
+	<Variable>
+		<Name>FromUnitcannotbegreaterthanToUnit</Name>
+		<Value>From Unit cannot be greater than To Unit</Value>
+	</Variable>
+	<Variable>
+		<Name>InDatecannotbegreaterthanorequaltoOutDate</Name>
+		<Value>In Date cannot be greater than or equal to Out Date</Value>
+	</Variable>	
+	<Variable>
+		<Name>SourceAssemblyNotPreciseError</Name>
+		<Value>The source assembly "NodeName" is not precise. Please select a precise assembly. An assembly is a precise assembly when it contains specified revisions of components.</Value>
+	</Variable>
+	<Variable>
+		<Name>NewPartitionErrorMessage</Name>
+		<Value>You cannot create a new Partition until a Partition Scheme has been selected.</Value>
+	</Variable>
+	<Variable>
+		<Name>CutOperationErrorMessage</Name>
+		<Value>Cut operation is not supported for NodeName in this view.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidToPasteErrorMessage</Name>
+		<Value>It is invalid to paste NodeName onto NodeName.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidSourceObjecErrorMessage</Name>
+		<Value>NodeName is an invalid source object for paste operation.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidTargetObjecErrorMessage</Name>
+		<Value>NodeName is an invalid target object for paste operation.</Value>
+	</Variable>
+	<Variable>
+		<Name>CutIsNotSupportedErrorMessage</Name>
+		<Value>Cut operation is not supported for Design Component in this view.</Value>
+	</Variable>
+	<Variable>
+		<Name>SourceModelConfigureRevisionErrorMessage</Name>
+		<Value>The source model "NodeName" has no configured revision. The Revision Rule used to configure the source model is "Precise; Any Status". Please select a Revision Rule which will configure the source model so that there is at least one revision configured.</Value>
+	</Variable>
+	<Variable>
+		<Name>CannotUpdateUsingMultipleSourceObjectsErrorMessage</Name>
+		<Value>Cannot update a NodeName using multiple source objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidTagNULLobjectErrorMessage</Name>
+		<Value>The specified tag  has been deleted, can not find requested object</Value>
+	</Variable>
+	<Variable>
+		<Name>UniqueValueErrorMessageForCD</Name>
+		<Value>A Business Object "Product Design" already exists with properties "{Model ID = NodeID}". Please specify at least one unique value to create the Business Object "Product Design".</Value>
+	</Variable>
+	<Variable>
+		<Name>UniqueValueErrorMessageForDE</Name>
+		<Value>A Business Object "Design Component" already exists with properties "{ID = NodeID}, {Revision ID = 001}". Please specify at least one unique value to create the Business Object "Design Component".</Value>
+	</Variable>	
+	<Variable>
+		<Name>UniqueValueErrorMessageForPartition</Name>
+		<Value>A Business Object "PartitionType@1" already exists with properties "{ID = NodeID}, {Partition Scheme Type = PartitionSchemeType}, {Model Object = CDNodeName}, {Revision ID = 001}". Please specify at least one unique value to create the Business Object "PartitionType@2".</Value>
+	</Variable>
+	<Variable>
+		<Name>OperationOnlyAcceptsErrorMessage</Name>
+		<Value>This operation only accepts Items, Item Revisions or BOM Lines as inputs.</Value>
+	</Variable>
+	<Variable>
+		<Name>ObjectCheckOutErrorMessage</Name>
+		<Value>The action cannot be performed because "NodeName" was checked-out by "User" on Date_Time.</Value>
+	</Variable>
+	<Variable>
+		<Name>WriteAccessDeniedErrorMessage</Name>
+		<Value>The "Write" access is denied on the object "NodeName"</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidObjectforCutOperationInContentExplorer</Name>
+		<Value>Invalid object for cut operation. You cannot cut a root node in the Content Explorer View.</Value>
+	</Variable>
+	<Variable>
+		<Name>PastePartitionItemRevisionError</Name>
+		<Value>You can only paste a Partition Item revision to a Collaborative Design or a Partition.</Value>
+	</Variable>
+	<Variable>
+		<Name>OperationIsInvalidError</Name>
+		<Value>Operation is invalid. Create or select a partition scheme.</Value>
+	</Variable>
+	<Variable>
+		<Name>FirstTermShouldBeIncludeMessage</Name>
+		<Value>The first term in a recipe or group should use "Include".</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidRecipeTermMessage</Name>
+		<Value>The term "Within 1 m of NodeName" cannot be added to an "Exclude" group.</Value>
+	</Variable>
+	<Variable>
+		<Name>ComponentsAreForDisplayPurposeOnlyMessage</Name>
+		<Value>You have selected component(s) NodeName that are not instanced in WorksetName. The components are for display purposes only, and cannot be removed, unless all of its instanced children are removed.</Value>
+	</Variable>
+	<Variable>
+		<Name>PastePartitionItemRevisionError_new</Name>
+		<Value>You can only paste a Partition Item revision to a Partition or an Application Model.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteDEtostaticPartitionErrorMessage</Name>
+		<Value>Paste operation is not supported for NodeName unless the source and target objects are in the same Collaborative Design.</Value>
+	</Variable>
+	<Variable>
+		<Name>PartitionScheme_TypeErrorMessage</Name>
+		<Value>The current partition scheme does not allow this partition type.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidPasteOpeartion</Name>
+		<Value>NodeName is an invalid source or contains invalid source object(s) for paste operation.</Value>
+	</Variable>
+	<Variable>
+		<Name>PstErrOfSamePartSchOfDiffCD</Name>
+		<Value>One or more selected objects cannot be added or replaced as children or parents of the target Partition because they have different Scheme type or Model Context. Only Partitions of same Scheme and Model Context as that of the target Partition are allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>PrtSchemeNotSupported</Name>
+		<Value>You cannot paste a Partition from one Partition Scheme to another.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidPasteOpeartion@1</Name>
+		<Value>Paste of SOURCEOBJECT to TARGETOBJECT is unsupported.</Value>
+	</Variable>
+	<Variable>
+		<Name>PastePartitionFunctionalItemRevisionError</Name>
+		<Value>Partition Functional Item Revision is an invalid object type to instance into NODENAME.</Value>
+	</Variable>
+	<Variable>
+		<Name>NoPartitionSchemeError</Name>
+		<Value>No Partition Scheme is in context. Please create or select a partition scheme.</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,134 @@
+<Environment>
+	<Variable>
+		<Name>EditPromoteOneLevel</Name>
+		<Value>Edit:Promote One Level</Value>
+	</Variable>	
+	<Variable>
+		<Name>EditDemoteOneLevel</Name>
+		<Value>Edit:Demote One Level</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileNewConnection</Name>
+		<Value>File:New:Connection...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewInterface</Name>
+		<Value>File:New:Interface...</Value>
+	</Variable>
+	<Variable>
+		<Name>FileOpenText</Name>
+		<Value>File:Open in MSWord Application</Value>
+	</Variable>
+	<Variable>
+		<Name>EndTraceLink...</Name>
+		<Value>Tools:Trace Link:End Trace Link...</Value>
+    </Variable>
+	<Variable>
+		<Name>FileNewCreateDiagram</Name>
+		<Value>File:New:Diagram</Value>
+    </Variable>
+	<Variable>
+		<Name>FileNewBlocksOther</Name>
+		<Value>File:New:Blocks:Custom Block...</Value>
+    </Variable>
+	<Variable>
+		<Name>FileNewCustomNote</Name>
+		<Value>File:New:Custom Note...</Value>
+    </Variable>
+	<Variable>
+		<Name>FileNewRequirementsSpec</Name>
+		<Value>File:New:Requirement Specification...</Value>
+    </Variable>
+	<Variable>
+		<Name>FileNewBudgetDefinition</Name>
+		<Value>Tools:Budgets:Create Budget Definition</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSetClosureRule</Name>
+		<Value>Tools:View/Set Rule for BOM Expansion</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowCustomNotes</Name>
+		<Value>View:Show Custom Notes Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNewRequirement</Name>
+		<Value>File:New:Requirement...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSignalManagerAssociateSignalToTarget</Name>
+		<Value>Tools:Signal Manager:Associate Signal To Target</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSignalManagerAssociateSignalToSource</Name>
+		<Value>Tools:Signal Manager:Associate Signal To Source</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsSignalManagerAssociateSignalToTransmitter</Name>
+		<Value>Tools:Signal Manager:Associate Signal To Transmitter</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowTraceabilityMatrix</Name>
+		<Value>View:Show Traceability Matrix...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsStructureSearch</Name>
+		<Value>Tools:Structure Search...</Value>
+	</Variable>
+	<Variable>
+		<Name>EditUp</Name>
+		<Value>Edit:Move Up</Value>
+	</Variable>
+	<Variable>
+		<Name>EditDown</Name>
+		<Value>Edit:Move Down</Value>
+	</Variable>
+	<Variable>
+		<Name>EditPasteAsNew</Name>
+		<Value>Edit:Paste as New</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewAccess</Name>
+		<Value>View:Access</Value>
+	</Variable>
+	<Variable>
+		<Name>EditBudget</Name>
+		<Value>Tools:Budgets:Edit Budget...</Value>
+	</Variable>	
+	<Variable>
+		<Name>FileImportSpec</Name>
+		<Value>File:Import Spec...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewShowTraceLinks</Name>
+		<Value>View:Show Trace Links...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewRefresh</Name>
+		<Value>View:Refresh	F5</Value>
+	</Variable>
+	<Variable>
+		<Name>FileNew</Name>
+		<Value>File:New</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsAssignWorkContext</Name>
+		<Value>Tools:Assign work Context...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsCompareStructureCompareBOMCompare</Name>
+		<Value>Tools:Compare:Structure Compare:BOM Compare...</Value>
+	</Variable>
+	<Variable>
+		<Name>ToolsCompareStructureCompareClearCompare</Name>
+		<Value>Tools:Compare:Structure Compare:Clear Compare</Value>
+	</Variable>
+	<Variable>
+		<Name>SystemsEngineeringTraceability</Name>
+		<Value>Systems Engineering:Traceability</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewRefreshCurrentStructure</Name>
+		<Value>View:Refresh Current Structure</Value>
+	</Variable>
+</Environment>

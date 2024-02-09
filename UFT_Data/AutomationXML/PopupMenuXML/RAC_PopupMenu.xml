@@ -1,0 +1,686 @@
+<Environment>
+	<Variable>
+		<Name>SendToMyTeamcenter</Name>
+		<Value>Send To:My Teamcenter</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToStructureManager</Name>
+		<Value>Send To:Structure Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToServiceRequestManager</Name>
+		<Value>Send To:Service Request Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToValidationManager</Name>
+		<Value>Send To:Validation Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToDesignContext</Name>
+		<Value>Send To:DesignContext</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewProperties</Name>
+		<Value>View Properties	Alt+P</Value>
+	</Variable>
+	<Variable>
+		<Name>Refresh</Name>
+		<Value>Refresh	F5</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateSuperseded</Name>
+		<Value>Update Superseded</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithImpactAnalysis</Name>
+		<Value>Open with:Impact Analysis</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithViewer</Name>
+		<Value>Open with:Viewer</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOut</Name>
+		<Value>Check-In/Out:Check Out...</Value>
+	</Variable>
+	<Variable>
+		<Name>CancelCheckOut</Name>
+		<Value>Check-In/Out:Cancel Checkout...</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckIn</Name>
+		<Value>Check-In/Out:Check In...</Value>
+	</Variable>
+	<Variable>
+		<Name>TransferCheckout</Name>
+		<Value>Check-In/Out:Transfer Checkout...</Value>
+	</Variable>
+	<Variable>
+		<Name>SendTo4GD</Name>
+		<Value>Send To:4G Designer</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToEnvelope</Name>
+		<Value>Send To:Envelope...</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOutHistory</Name>
+		<Value>Check-In/Out:Checkout History...</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithEffectivity</Name>
+		<Value>Open with:Effectivity</Value>
+	</Variable>
+		<Variable>
+		<Name>SendToDesignContext</Name>
+		<Value>Send To:DesignContext</Value>
+	</Variable>
+	<Variable>
+	  <Name>SendToMultiStructureManager</Name>
+	  <Value>Send To:Multi-Structure Manager</Value>
+	</Variable>
+	<Variable>
+	  <Name>StructureSearch</Name>
+	  <Value>Structure Search...</Value>
+	</Variable>
+	<Variable>
+		<Name>Edit</Name>
+		<Value>Edit</Value>
+	</Variable>
+	<Variable>
+	  <Name>EditProperties</Name>
+	  <Value>Edit Properties</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithSummary</Name>
+		<Value>Open with:Summary</Value>
+	</Variable>
+	<Variable>
+		<Name>Copy</Name>
+		<Value>Copy	Ctrl+C</Value>
+	</Variable>
+	<Variable>
+		<Name>Paste</Name>
+		<Value>Paste	Ctrl+V</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToSystemsEngineering</Name>
+		<Value>Send To:Systems Engineering</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToReportGenerator</Name>
+		<Value>Send To:Report Generator</Value>
+	</Variable>
+	<Variable>
+		<Name>TraceLinkStartTraceLink</Name>
+		<Value>Trace Link:Start Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>TraceLinkEndTraceLink</Name>
+		<Value>Trace Link:End Trace Link</Value>
+	</Variable>
+	<Variable>
+		<Name>ColumnSelection</Name>
+		<Value>Column...</Value>
+	</Variable>
+	<Variable>
+		<Name>ComplyingTable</Name>
+		<Value>Trace Link:Traceability Report:Complying</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertiesOnRelation</Name>
+		<Value>Properties On Relation...</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewEditMultiUnitConfiguration</Name>
+		<Value>View/Edit Multi-unit Configuration...</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectAssign</Name>
+		<Value>Project:Assign...</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToManufacturingProcessPlanner</Name>
+		<Value>Send To:Manufacturing Process Planner</Value>
+	</Variable>
+	<Variable>
+		<Name>SetInContext</Name>
+		<Value>Set In Context</Value>
+	</Variable>
+	<Variable>
+		<Name>Configurebasedonselection</Name>
+		<Value>Configure based on selection(s)</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateDesignElement</Name>
+		<Value>Update Design Component</Value>
+	</Variable>
+	<Variable>
+		<Name>ReplaySubsetDefinitionRecipe</Name>
+		<Value>Replay Subset Definition Recipe</Value>
+	</Variable>
+	<Variable>
+		<Name>Cut</Name>
+		<Value>Cut	Ctrl+X</Value>
+	</Variable>
+	<Variable>
+		<Name>Access</Name>
+		<Value>Access...</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove</Name>
+		<Value>Remove	Ctrl+R</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectRemove</Name>
+		<Value>Project:Remove</Value>
+	</Variable>
+	<Variable>
+		<Name>UnloadBelow</Name>
+		<Value>Unload Below</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveInContextOverride</Name>
+		<Value>Remove In-Context Override</Value>
+	</Variable>
+	<Variable>
+		<Name>DefiningTable</Name>
+		<Value>Trace Link:Traceability Report:Defining</Value>
+	</Variable>
+	<Variable>
+		<Name>Properties@1</Name>
+		<Value>View Properties	Alt+P</Value>
+	</Variable>
+	<Variable>
+		<Name>AllocateFrom</Name>
+		<Value>Allocate From</Value>
+	</Variable>
+	<Variable>
+		<Name>AllocateTo</Name>
+		<Value>Allocate To</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowAllocationsInAllocationsNavigator</Name>
+		<Value>Show Allocations In Allocations Navigator</Value>
+	</Variable>
+	<Variable>
+		<Name>GenerateReport</Name>
+		<Value>Generate Report</Value>
+	</Variable>
+	<Variable>
+		<Name>NamedReferences</Name>
+		<Value>Named References...</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToSoftwareParameterManager</Name>
+		<Value>Send To:Software Parameter Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>AddMemoryLayout</Name>
+		<Value>Add:Memory Layout...</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToPlatformDesigner</Name>
+		<Value>Send To:Platform Designer</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToPlantDesigner</Name>
+		<Value>Send To:Plant Designer</Value>
+	</Variable>
+	<Variable>
+		<Name>ReplaySubsetRecipe</Name>
+		<Value>Replay Subset Recipe</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithContentExplorer</Name>
+		<Value>Open with:Content Explorer</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToServiceManager</Name>
+		<Value>Send To:Service Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToServiceScheduler</Name>
+		<Value>Send To:Service Scheduler</Value>
+	</Variable>
+	<Variable>
+		<Name>RemovefromWorkset</Name>
+		<Value>Remove from Workset</Value>
+	</Variable>
+	<Variable>
+		<Name>AddContractEventSchedule</Name>
+		<Value>Add Contract Event Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>GenerateSubmittalDeliverySchedule</Name>
+		<Value>Generate Submittal Delivery Schedule</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToClassification</Name>
+		<Value>Send To:Classification</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToManufacturingProcessPlanner</Name>
+		<Value>Send To:Manufacturing Process Planner</Value>
+	</Variable>
+	<Variable>
+		<Name>RemovefromSubset</Name>
+		<Value>Remove from Subset</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithDetails</Name>
+		<Value>Open with:Details</Value>
+	</Variable>
+	<Variable>
+		<Name>ReplayPartitionRecipe</Name>
+		<Value>Replay Partition Recipe</Value>
+	</Variable>
+	<Variable>
+		<Name>NewWorkflowProcess</Name>
+		<Value>New:Workflow Process...	Ctrl+P</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToAsBuiltManager</Name>
+		<Value>Send To:As-Built Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SetPreferredPhysicalLocation</Name>
+		<Value>Set Preferred Physical Location</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowinServiceEditor</Name>
+		<Value>Show in Service Editor</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdatePartitionFromPartitionTemplate</Name>
+		<Value>Update Partition from Partition Template</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToServicePlanner</Name>
+		<Value>Send To:Service Planner</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToRelationBrowser</Name>
+		<Value>Send To:Relation Browser</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToPartPlanner</Name>
+		<Value>Send To:Part Planner</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithVariantOptions</Name>
+		<Value>Open with:Variant Options</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithVariantDefaults</Name>
+		<Value>Open with:Variant Defaults</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithVariantConstraints</Name>
+		<Value>Open with:Variant Constraints</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithImagePreview</Name>
+		<Value>Open with:Image Preview</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithJTPreview</Name>
+		<Value>Open with:JT Preview</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithRelationBrowser</Name>
+		<Value>Open with:Relation Browser</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithSavedVariantRules</Name>
+		<Value>Open with:Saved Variant Rules</Value>
+	</Variable>
+	<Variable>
+		<Name>Remove@1</Name>
+		<Value>Remove</Value>
+	</Variable>
+	<Variable>
+		<Name>Group</Name>
+		<Value>Group</Value>
+	</Variable>
+	<Variable>
+		<Name>UnGroup</Name>
+		<Value>Un-Group</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToProductConfigurator</Name>
+		<Value>Send To:Product Configurator</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToChangeManager</Name>
+		<Value>Send To:Change Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>AddGroup</Name>
+		<Value>Add Group</Value>
+	</Variable>
+	<Variable>
+		<Name>AddFamily</Name>
+		<Value>Add Family</Value>
+	</Variable>
+	<Variable>
+		<Name>AddValue</Name>
+		<Value>Add Value</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowUnassignedElements</Name>
+		<Value>Show Unassigned Elements</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithVariantConditions</Name>
+		<Value>Open with:Variant Conditions</Value>
+	</Variable>
+	<Variable>
+		<Name>NewLot</Name>
+		<Value>New:Lot...</Value>
+	</Variable>
+	<Variable>
+		<Name>RaiseActionItem</Name>
+		<Value>Raise Action Item...</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignFinish</Name>
+		<Value>Assign Finish</Value>
+	</Variable>
+	<Variable>
+		<Name>SetPreferredSubstitute</Name>
+		<Value>Set Preferred Substitute</Value>
+	</Variable>	
+	<Variable>
+		<Name>ToolsAssignCompanyLocation</Name>
+		<Value>Tools:Assign Company Location</Value>
+	</Variable>
+	<Variable>
+		<Name>MakeFrom</Name>
+		<Value>Make From</Value>
+	</Variable>
+	<Variable>
+		<Name>PrintTableHTMLText</Name>
+		<Value>Print Table:HTML / Text</Value>
+	</Variable>
+	<Variable>
+		<Name>RemovefromSubsetDefinition</Name>
+		<Value>Remove from Subset Definition</Value>
+	</Variable>
+	<Variable>
+		<Name>NewChangeInContext</Name>
+		<Value>New Change in context...</Value>
+	</Variable>		
+	<Variable>
+		<Name>SendToLifecycleViewer</Name>
+		<Value>Send To:Lifecycle Viewer</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenInSystemsEngineering</Name>
+		<Value>Open In Systems Engineering</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenInRequirementsManager</Name>
+		<Value>Open In Requirements Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToRequirementsManager</Name>
+		<Value>Send To:Requirements Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToWorkflowViewer</Name>
+		<Value>Send To:Workflow Viewer</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToScheduleManager</Name>
+		<Value>Send To:Schedule Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenStructureInSecondPanel</Name>
+		<Value>Open Structure in Second Panel</Value>
+	</Variable>
+	<Variable>
+		<Name>LinkStructures</Name>
+		<Value>Link Structures...</Value>
+	</Variable>
+	<Variable>
+		<Name>Subscribe</Name>
+		<Value>Subscribe...</Value>
+	</Variable>
+	<Variable>
+		<Name>SubscriptionManager</Name>
+		<Value>Subscription Manager...</Value>
+	</Variable>
+		<Variable>
+		<Name>EnableColumnSelection</Name>
+		<Value>Enable Column Selection</Value>
+	</Variable>
+		<Variable>
+		<Name>CopySelectedDataForQuery</Name>
+		<Value>Copy Selected Data:For Query</Value>
+	</Variable>
+	<Variable>
+		<Name>SetPrivilegedUsers</Name>
+		<Value>Set Privileged Users</Value>
+	</Variable>
+	<Variable>
+		<Name>UnsetPrivilegedUsers</Name>
+		<Value>Unset Privileged Users</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteSpecial</Name>
+		<Value>Paste Special...</Value>
+	</Variable>
+	<Variable>
+		<Name>AddQuote</Name>
+		<Value>Add Quote...</Value>
+	</Variable>
+	<Variable>
+		<Name>LicenseAttach</Name>
+		<Value>License:Attach</Value>
+	</Variable>
+	<Variable>
+		<Name>LicenseDetach</Name>
+		<Value>License:Detach</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteProperty</Name>
+		<Value>Paste Property</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandEndItem</Name>
+		<Value>Expand End Item</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToCAEManager</Name>
+		<Value>Send To:CAE Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToAs-BuiltManager</Name>
+		<Value>Send To:As-Built Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToSendToPlatformDesigner</Name>
+		<Value>Send To:Platform Designer</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToSendToSendToServiceManager</Name>
+		<Value>Send To:Service Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToSendToSendToSendToServicePlanner</Name>
+		<Value>Send To:Service Planner</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToSendToSendToSendToSendToSoftwareParameterManager</Name>
+		<Value>Send To:Software Parameter Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToCollaborativeProductDevelopment</Name>
+		<Value>Send To:Collaborative Product Development</Value>
+	</Variable>
+<Variable>
+		<Name>ViewerToolbars2DMarkup</Name>
+		<Value>Viewer Toolbars:2D Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerToolbars2DMeasurement</Name>
+		<Value>Viewer Toolbars:2D Measurement</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerToolbars2DGDTMarkup</Name>
+		<Value>Viewer Toolbars:2D GDT Markup</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerToolbars2DViewing</Name>
+		<Value>Viewer Toolbars:2D Viewing</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddToFavorites</Name>
+		<Value>Add To Favorites</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowSubComponents</Name>
+		<Value>Show SubComponents</Value>
+	</Variable>
+	<Variable>
+		<Name>HideSubComponents</Name>
+		<Value>Hide SubComponents</Value>
+	</Variable>
+	<Variable>
+		<Name>EditProperties@1</Name>
+		<Value>Edit:Properties	Alt+P</Value>
+	</Variable>
+		<Variable>
+		<Name>SendToAsBuiltManager</Name>
+		<Value>Send To:As-Built Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToServiceManager</Name>
+		<Value>Send To:Service Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>Relate</Name>
+		<Value>Relate Solution Item to Impacted Item</Value>
+	</Variable>
+	<Variable>
+		<Name>UpdateModelInstantiation</Name>
+		<Value>Update Model Instantiation</Value>
+	</Variable>
+	<Variable>
+		<Name>ShowSourceElements</Name>
+		<Value>Show Source Elements</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToResourceManager</Name>
+		<Value>Send To:Resource Manager</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveSearchResult</Name>
+		<Value>Save search result...</Value>
+	</Variable>
+	<Variable>
+		<Name>AddtoMySavedSearches</Name>
+		<Value>Add to My Saved Searches</Value>
+	</Variable>
+	<Variable>
+		<Name>AssignFinishtoOccurrence</Name>
+		<Value>Assign Finish to Occurrence</Value>
+	</Variable>
+	<Variable>
+		<Name>AddVendorRole</Name>
+		<Value>Add Vendor Role...</Value>
+	</Variable>	
+	<Variable>
+		<Name>RemoveVendorRole</Name>
+		<Value>Remove Vendor Role...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ChangeVendor</Name>
+		<Value>Change Vendor...</Value>
+	</Variable>	
+	<Variable>
+		<Name>UpdatePreferredStatus</Name>
+		<Value>Update Preferred Status...</Value>
+	</Variable>	
+	<Variable>
+		<Name>ShowAllocatedTo</Name>
+		<Value>Show Allocated To</Value>
+	</Variable>
+	<Variable>
+		<Name>SendToProductConfigurator</Name>
+		<Value>Send To:Product Configurator</Value>
+	</Variable>	
+	<Variable>
+		<Name>SetasDefaultConfiguratorContext</Name>
+		<Value>Set as Default Configurator Context</Value>
+	</Variable>	
+	<Variable>
+		<Name>ChangeOwningProgram</Name>
+		<Value>Change Owning Program...</Value>
+	</Variable>
+	<Variable>
+		<Name>CreateProject</Name>
+		<Value>Create Project</Value>
+	</Variable>	
+	<Variable>
+		<Name>CreateCustomNote</Name>
+		<Value>Create Custom Note</Value>
+	</Variable>
+	<Variable>
+		<Name>DocumentCompareWithPrior</Name>
+		<Value>Document Compare:Compare With Prior</Value>
+	</Variable>	
+	<Variable>
+		<Name>Properties@2</Name>
+		<Value>Properties...</Value>
+	</Variable>
+	<Variable>
+		<Name>WorklistRMB</Name>
+		<Value>Status ...</Value>
+	</Variable>
+	<Variable>
+		<Name>OpeninStructureManagerwithSupersedureWindow</Name>
+		<Value>Open in Structure Manager with Supersedure Window</Value>
+	</Variable>
+	<Variable>
+		<Name>OpenwithEffectivityView</Name>
+		<Value>Open with:Effectivity View</Value>
+	</Variable>
+	<Variable>
+		<Name>SplitExpression</Name>
+		<Value>Split Expression	 Ctrl + Alt + T</Value>
+	</Variable>
+	<Variable>
+		<Name>ExpandBelow</Name>
+		<Value>Expand Below</Value>
+	</Variable>
+	<Variable>
+		<Name>ClearExpression</Name>
+		<Value>Clear Expression	 Del</Value>
+	</Variable>
+	<Variable>
+		<Name>CopyExpression</Name>
+		<Value>Copy Expression	 Ctrl + Alt + C</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteExpression</Name>
+		<Value>Paste Expression	 Ctrl + Alt + V</Value>
+	</Variable>
+	<Variable>
+		<Name>ConfigureVariantsBasedonSelection</Name>
+		<Value>Configure Variants Based on Selection(s)</Value>
+	</Variable>
+	<Variable>
+		<Name>SelectColumnExpressions</Name>
+		<Value>Select Column Expressions  </Value>
+	</Variable>
+	<Variable>
+		<Name>OpenWithExchangeView</Name>
+		<Value>Open with:Exchange View</Value>
+	</Variable>
+	<Variable>
+		<Name>ClearFilter</Name>
+		<Value>Clear Filter	 Ctrl + Q</Value>
+	</Variable>
+</Environment>

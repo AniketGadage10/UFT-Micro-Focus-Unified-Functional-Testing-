@@ -1,0 +1,92 @@
+<Environment>
+	<Variable>
+		<Name>TaskEndDateError</Name>
+		<Value>The Task "TaskName" cannot finish (eDate) before it starts (sDate).</Value>
+	</Variable>
+	<Variable>
+		<Name>TaskStartDateDependencyOrConstraintError</Name>
+		<Value>Changing the date of the Task "TaskName" would violate a dependency or constraint.</Value>
+	</Variable>
+	<Variable>
+		<Name>TaskFixedConstraintError</Name>
+		<Value>The Task "TaskName" cannot be moved because of its "Fixed" constraint.</Value>
+	</Variable>	
+	<Variable>
+		<Name>WorkflowLaunchError</Name>
+		<Value>The workflow has already launched.  Task deliverable(s) cannot be added or removed.</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleSaveAsError</Name>
+		<Value>The Schedule Task cannot be updated because the Task "TaskName1" is in the "complete" state. Refresh the schedule to obtain the latest copy.</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertiesModificationErrMsg</Name>
+		<Value>The lock on Schedule "ScheduleName" was not granted, because it is currently held by the user "UserName" who is currently modifying the Schedule or has an open deferred session.@</Value>
+	</Variable>
+	<Variable>
+		<Name>DeferredsessionSaveMsg</Name>
+		<Value>Do you want to save the changes before exiting the deferred session?</Value>
+	</Variable>
+	<Variable>
+		<Name>TaskUpdateErrMsg</Name>
+		<Value>The Schedule Task "TaskName" cannot be modified, because the logged-in user is neither assigned to the Task nor is the coordinator of the Schedule.</Value>
+	</Variable>
+	<Variable>
+		<Name>TaskUpdateErrMsg1</Name>
+		<Value>You do not have the correct access privileges to modify one or more objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleUpdateErrMsg</Name>
+		<Value>The Schedule Task "ScheduleName" cannot be checked-out, because Schedule Tasks of types Schedule Summary Task, Summary Task and Phase Task cannot be checked-out.</Value>
+	</Variable>
+	<Variable>
+		<Name>SchedulePropertiesModifyErrMsg</Name>
+		<Value>You do not have the correct access privileges to modify one or more objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>DateModifyMsg</Name>
+		<Value>Modifying the dates of a schedule could cause tasks to exist outside the project time frame. Are you sure you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>PropModifyInformationMsg</Name>
+		<Value>If you would like the existing percent complete of the tasks to reflect the new linked value, you will need to recalculate the schedule.</Value>
+	</Variable>
+	<Variable>
+		<Name>TaskAbortedError</Name>
+		<Value>The Task "TaskName" has been aborted. No further action is allowed on this task.</Value>
+	</Variable>
+	<Variable>
+		<Name>RecalculateScheduleMsg</Name>
+		<Value>Do you want to re-calculate the schedule before loading it?</Value>
+	</Variable>
+	<Variable>
+		<Name>SchedulePropertiesModifyErrMsg@1</Name>
+		<Value>The following properties of the Master or Sub-schedule/Template "ScheduleName" can not be modified: "Is Schedule Public", "Is Schedule Template" and "Published".</Value>
+	</Variable>
+	<Variable>
+		<Name>TaskAbortError</Name>
+		<Value>Aborting cannot be undone.
+Setting the schedule task status to aborted will result in the task's workflow processes being aborted.
+Any tasks in this schedule, or other schedules that have dependencies to this task, may not start as planned.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>SchedulingError</Name>
+		<Value>The schedule cannot be updated because the system is configured to not allow the update of schedules when in the "TASKSTATUS" state. The preference "SM_PREVENT_UPDATE_STATES" specificies those states of the schedule cannot be updated.</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleAbortError</Name>
+		<Value>Aborting cannot be undone.
+Setting the schedule status to aborted will result in all tasks, not started and in progress, to be aborted, and all workflow processes will be aborted.
+Tasks in other schedules that have dependencies to tasks in this schedule may not start as planned.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>ScheduleAbortError@1</Name>
+		<Value>The Schedule "ScheduleName" has been aborted. No further action is allowed on this schedule.</Value>
+	</Variable>
+	<Variable>
+		<Name>PropertiesModificationErrMsg_Change</Name>
+		<Value>The selected operation cannot be performed because the Schedule "ScheduleName" is locked by "UserName".@</Value>
+	</Variable>
+</Environment>

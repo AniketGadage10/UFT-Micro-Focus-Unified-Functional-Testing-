@@ -1,0 +1,528 @@
+<Environment>
+	<Variable>
+		<Name>ReviseError</Name>
+		<Value>The business object "ItemRevision" could not be revised.
+Working Revisions limit exceeded for Item. The Maximum number of revisions allowed is : RevisionNumber</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsError</Name>
+		<Value> The "Save As" action performed on the object ItemName has failed.
+The instance cannot be saved because it contains at least one attribute that violates a unique attribute rule.</Value>
+	</Variable>
+	<Variable>
+		<Name>ValidItemIDPattern</Name>
+		<Value>Value should match one of following patterns (see all patterns on mouse hover)NewLine1."TypeOfItem-"TypeOfPattern</Value>
+	</Variable>
+	<Variable>
+		<Name>AddComponentError</Name>
+		<!-- "~" and "@" are the replacements for child type and parent type respectively -->
+		<Value> The child cannot be added to the selected parent because the child type "~" is not valid for parent type "@".</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckOutErrorMSg</Name>
+		<Value>sItemName is checked out by UserName. Any changes will be lost.NewLineDo you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>TeamcenterChangeError</Name>
+		<Value>None of the changes you make to the Rich Content for the selected Teamcenter Item</Value>
+	</Variable>
+	<Variable>
+		<Name>ReadOnlyMessage</Name>
+		<Value>sDatasetName is read only. Any changes will be lost.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidLogin</Name>
+		<Value>The login attempt failed: either the user ID or the password is invalid.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveChangesViewer</Name>
+		<Value>Do you want to save the changes in the viewer?</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationDel</Name>
+		<Value>The Relation deletion has failed due to some constraints. Please refer to the syslog file for more information.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationDelMore</Name>
+		<Value>Addition/Removal not allowed. Frozen relationship. See rule for:</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemRevisionSelectionError</Name>
+		<Value>Please select one of Item Revisions under Part Representations.</Value>
+	</Variable>	
+	<Variable>
+		<Name>AddObjectOtherThanFinishItems</Name>
+		<Value>The given tag () does not exist in the database or is not a persistent object tag.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteSpecialErrorWFinishItem</Name>
+		<Value>Item ItemID is not allowed as an attachment of an Item/Revision:</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteErrorINFinishesFolder</Name>
+		<Value>No additional objects of type "Finish" can be attached with a relation "Finishes" under the object "FinishGroupName" of type "Finish Revision", because this would exceed the set limit for the secondary objects. Please refer to the rule for "Finish Revision, Finish, Finishes".</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsErrorMessage</Name>
+		<Value>The "Save As" action performed on the object "@" has failed.~The instance cannot be saved because it contains at least one attribute that violates a unique attribute rule.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExeclImportError</Name>
+		<Value>.csv may contain features that are not compatible with CSV</Value>
+	</Variable>
+	<Variable>
+		<Name>ExeclImportError@1</Name>
+		<Value>Some features might be lost if you save this workbook in the comma-delimited (.csv) format. To preserve these features, save it in an Excel file format.</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemAlreadyExists</Name>
+		<Value>The Item "ItemName" is not unique.</Value>
+	</Variable>
+	<Variable>
+		<Name>EnterRequiredFields</Name>
+		<Value>Please enter value in required field(s).</Value>
+	</Variable>
+	<Variable>
+		<Name>PermissionDeniedForAdding</Name>
+		<Value>The relation of type "PASTE_SPECIAL_RELATION" between "ITEM_REVISION1" of type "M3_Item_RelAtt1Revision" and "ITEM_REVISION2" cannot be created, because the current user does not have write access to modify "ITEM_REVISION1".</Value>
+	</Variable>
+	<Variable>
+		<Name>NewProgramViewExceedsAllowedLengthError</Name>
+		<Value>The name 'The New Program View Wizard contains Fields as Name,Description,Import,Choose coloumns and Open on Create.Verify they are working correctly.' exceeds the allowed length of '128'.</Value>
+	</Variable>
+	<Variable>
+		<Name>ChangesDoneInWordFileAndThenSaveError</Name>
+		<Value> may contain features that are not compatible with Plain Text format. Do you want to save the document in this format?
+
+MSBullet To save, choose Yes.
+MSBullet To preserve formatting, choose No.  Then save a copy in the latest Word format.
+
+</Value>
+	</Variable>
+	<Variable>
+		<Name>ExcelFileOpenErr</Name>
+		<Value>A document with the name 'Filename.xlsx' is already open. You cannot open two documents with the same name, even if the documents are in different folders. vbCrLf To open the second document</Value>
+	</Variable>
+	<Variable>
+		<Name>LengthExceedError</Name>
+		<Value>The name 'OBJECT_NAME' exceeds the allowed length of '32'.</Value>
+	</Variable>
+	<Variable>
+		<Name>PasetSpecialError</Name>
+		<Value>Relating an object of type "UGMASTER" to an object of type "Item Revision" is not allowed, because the "Manifestations" relation is not supported between these two objects.</Value>
+	</Variable>
+	<Variable>
+		<Name>Lock/ModifyError@1</Name>
+		<Value>The lock/unlock/create/modify/delete of site preferences has failed.</Value>
+	</Variable>
+	<Variable>
+		<Name>Lock/ModifyError@2</Name>
+		<Value>In order to edit site preferences, you need to request the other system administrator to unlock the feature through "Edit->Options->Index" dialog or through logging-out of Teamcenter.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationDel</Name>
+		<Value>Cannot delete master form of Item/Revision</Value>
+	</Variable>
+	<Variable>
+		<Name>PurgeError</Name>
+		<Value>No Dataset or ItemRevision is selected.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidGrpErrMsg</Name>
+		<Value>The given group is unknown.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidRoleErrMsg</Name>
+		<Value>The role entered is invalid. Logging in with the default role</Value>
+	</Variable>
+	<Variable>
+		<Name>DatasetReplaceUpload</Name>
+		<Value>Uploading of the dataset has failed.  The file you have updated can be found atThe Dataset "" cannot be refreshed.</Value>
+	</Variable>
+	<Variable>
+		<Name>LastRevisionItemDelete</Name>
+		<Value>The last revision of an Item cannot be independently deleted. Delete the Item object itself.</Value>
+	</Variable>
+	<Variable>
+		<Name>DocumentCutError</Name>
+		<Value>The current user does not have delete access to the object "Document".</Value>
+	</Variable>
+	<Variable>
+	<Name>NewVendorError</Name>
+	<Value>An existing item is found. Create/Save-As only creates new Items. 
+In order to create a new Item Revision, please use the File->Revise command.</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveVendorError</Name>
+		<Value>There are no Vendor Roles attached to selected Vendor Revision.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnsavedChanges</Name>
+		<Value>This Summary View currently responds to selections in other Views, and there are changes to FormName that have not been saved.</Value>
+	</Variable>
+	<Variable>
+		<Name>UnsavedChanges@1</Name>
+		<Value>This Viewer View currently responds to selections in other Views, and there are changes to DSWord that have not been saved.</Value>
+	</Variable>
+		<Variable>
+		<Name>UnableToReviseError</Name>
+		<Value>Only Item Revisions are valid to be Revised! Please select an Item Revision and try again.</Value>
+	</Variable>
+	<Variable>
+		<Name>ProjectCreationError</Name>
+		<Value>Some errors occured when assigning objects to Project</Value>
+	</Variable>
+		<Variable>
+		<Name>RemoveProjectError</Name>
+		<Value>You have insufficient privilege to remove object ($) from Project</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoveProjectError@1</Name>
+		<Value>0 of 1 selections were removed from projects.
+You have insufficient privilege to remove object ($) from Project</Value>
+	</Variable>
+	<Variable>
+		<Name>BranchDeleteError</Name>
+		<Value>The Branch "$" cannot be deleted, because it is associated to other Branch objects. Please remove all Branch relations before deleting the object.</Value>
+	</Variable>
+	<Variable>
+		<Name>BranchPasteError</Name>
+		<Value>No additional objects of type "Branch" can be attached with a relation "Branch To Branch Relation" under the object "$" of type "Branch", because this would exceed the set limit for the primary object. Please refer to the rule for "Branch, Branch, Branch To Branch Relation".</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteItemRevisionError</Name>
+		<Value>Object ITEMNAME is already in the target folder as Branch Content.</Value>
+	</Variable>
+	<Variable>
+		<Name>ProductContextPasteError</Name>
+		<Value>No additional objects of type "Configurator Context" can be attached with a relation "Variability Scope" under the object "ItemA" of type "Item", because this would exceed the set limit for the secondary objects. Please refer to the rule for "Item, Configurator Context, Variability Scope".</Value>
+	</Variable>
+	<Variable>
+		<Name>ProductContextPasteError@1</Name>
+		<Value>No additional object "$" of type "Configurator Context" can be attached with a relation "Variability Scope" under the object "ItemA", because this would exceed the set limit for the secondary objects. Please refer to the GRM rule for "Item, Configurator Context, Variability Scope".</Value>
+	</Variable>
+	<Variable>
+		<Name>SetPerspectiveError</Name>
+		<Value>You are not a Project Administrator.</Value>
+	</Variable>
+	<Variable>
+		<Name>CheckedOut_Object_Error</Name>
+		<Value>The object ITEMNAME is Checked-Out and cannot be attached as a target for release.</Value>
+	</Variable>
+	<Variable>
+		<Name>CircularStructureFound</Name>
+		<Value>Circular structure is found. The where used details have already been displayed for this occurrence. Cannot proceed.</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateProperties</Name>
+		<Value>Adding duplicate properties will result in multiple columns showing the same information.
+Are you sure you still want to add the following property to the set of displayed properties?
+
+PropName</Value>
+	</Variable>
+	<Variable>
+		<Name>UnsavedChangesViewerError</Name>
+		<Value>The object has been changed and the panel needs to be refreshed. 
+There are unsaved data in this panel. Do you want to save the changes?</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemCreateAccDeniedOnFldrError</Name>
+		<Value>The object "$" could not be loaded or refreshed. Please refer to the preceding errors in this error stack for more information.</Value>
+	</Variable>
+	<Variable>
+	<Name>ItemCreateAccDeniedOnFldrDetailError</Name>
+		<Value>The object "$" could not be loaded or refreshed. Please refer to the preceding errors in this error stack for more information.The access is denied.The "Write" access is denied on the object "$" of class Folder (Folder).</Value>
+	</Variable>
+	<Variable>
+	    <Name>CancelCheckoutErrorMsg</Name>
+		<Value>The "Cancel Check-Out"/"Object Restore" operation is not supported for this object. Check-in ItemRevision</Value>
+	</Variable>
+	<Variable>
+	    <Name>LockSitePreferences</Name>
+		<Value>The site preferences have been successfully locked.
+Preferences will now be refreshed to show any updates from other sessions.
+Please unlock the site preferences when finished.</Value>
+	</Variable>
+	<Variable>
+		<Name>InformationSitePreferences</Name>
+		<Value>The lock/unlock/create/modify/delete of site preferences has failed.
+
+Another system administrator ("USERNAME") is currently editing site preferences and owns the lock on the node "SERVERNAME" in a session started</Value>
+	</Variable>
+	<Variable>
+		<Name>UnlockSitePreferences</Name>
+		<Value>The site preferences have been successfully unlocked.</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchButtonTooltip</Name>
+		<Value>Find users if user field is not empty, filtering results with role and group; Find roles if user field is empty and role field is not empty; Find groups if both user and role fields are empty and group field is not empty.</Value>
+	</Variable>
+	<Variable>
+		<Name>UserIDOrUserNameTooltip</Name>
+		<Value>User ID or User Name criteria. It is case insensitive, and wildcard characters are allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>RoleNameTooltip</Name>
+		<Value>Role name criteria. Wildcard characters are allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>GroupNameTooltip</Name>
+		<Value>Group name criteria. Wildcard characters are allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>WorklistReadOnlyMessage</Name>
+		<Value>sDatasetName is read only. Any changes will be lost.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExitFromTeamcenter</Name>
+		<Value>Is it ok to exit?</Value>
+	</Variable>
+	<Variable>
+		<Name>FormSaveAsError</Name>
+		<Value>The "Save As" action performed on the object "FormName" has failed.
+The ItemType "FormName" could not be copied to a new ItemType.
+The current user does not have copy access to the object "FormName".</Value>
+	</Variable>
+	<Variable>
+		<Name>DataSetCheckoutError</Name>
+		<Value>DSName is checked out by UserName. Any changes will be lost.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>DataSetCheckoutExportError</Name>
+		<Value>failed to check out the file. the file cannot be exported because it already exists at this location: c:\temp\FileName. please move this file, or select the "overwrite existing files" option, in the check out dialog.</Value>
+	</Variable>
+	<Variable>
+		<Name>SaveAsMorethanOneErr</Name>
+		<Value>Can not save more than one objects at same time.</Value>
+	</Variable>
+	<Variable>
+		<Name>CopyAsRevision</Name>
+		<Value>The "Save As" action performed on the object "item1name" has failed.$The user "username" has already created the Revision "item2_revid" on the Item "sItemName"</Value>
+	</Variable>
+	<Variable>
+		<Name>PasteContentError</Name>
+		<Value>Object $ is already in the target folder as Contents.</Value>
+	</Variable>	
+	<Variable>
+		<Name>ChkOutItemDeleteError</Name>
+		<Value>Deleting a checked-out object is not allowed.</Value>
+	</Variable>	
+	<Variable>
+		<Name>ItemMasterDeleteError</Name>
+		<Value>The Form "$" of type "Item Master" could not be deleted.</Value>
+	</Variable>
+	<Variable>
+		<Name>SubscriptionErrorMsg</Name>
+		<Value>The target user does not have access to the subscription. Event / Target / User</Value>
+	</Variable>
+	<Variable>
+		<Name>SearchResultMsg</Name>
+		<Value>No subscriptions found with the given search criteria!</Value>
+	</Variable>
+	<Variable>
+		<Name>subscriptionDuplicationError</Name>
+		<Value>A subscription already exists with the attributes you have specified. Please change this using the "Modify Subscription" command.</Value>
+	</Variable>
+	<Variable>
+		<Name>ViewerViewUnsavedChanges</Name>
+		<Value>This Viewer View currently responds to selections in other Views, and there are changes to ExcelName that have not been saved.</Value>
+	</Variable>
+	<Variable>
+		<Name>SavePropertiesErrorMsg</Name>
+		<Value>The object "NodeName" has been changed by another client while being edited in this session. Both sessions have changed the following properties: Description. Your panel needs to be refreshed to keep it up to date. Click the "OK" button to close this window, and then use the Refresh menu to get the latest values from the database. Note that the refresh will erase your unsaved data and replace it with the incoming values.</Value>
+	</Variable>		
+	<Variable>
+		<Name>SavePropertiesErrorMsg_2</Name>
+		<Value>One or more objects could not be locked. Possible reasons are: The object is already locked or checked-out by another user; The object is already released; The user does not have access permissions to modify the object. Please refer to the Teamcenter syslog for additional details.</Value>
+	</Variable>
+	<Variable>
+		<Name>ValueChangedError</Name>
+		<Value>This object has been changed by another client or view and the panel needs to be refreshed to keep it up-to-date. Note that the refresh will erase the unsaved data that you have in your panel and replace it with the incoming values.</Value>
+	</Variable>
+	<Variable>
+		<Name>SavePropertiesErrorMsg@1</Name>
+		<Value>The object "ItemID" has been changed by another client while being edited in this session. Both sessions have changed the following properties: User Data 1. Your panel needs to be refreshed to keep it up to date. Click the "OK" button to close this window, and then use the Refresh menu to get the latest values from the database. Note that the refresh will erase your unsaved data and replace it with the incoming values.</Value>	
+	</Variable>
+	<Variable>
+		<Name>VendorPartCreationErrMsg</Name>
+		<Value>Unable to create Business Object.
+The relation of type "Part Vendors" between "PartName" of type "PartType" and "VendorName" cannot be created, because the current user does not have write access to modify "PartName".</Value>	
+	</Variable>
+	<Variable>
+		<Name>NonDBAAccessError</Name>
+		<Value>not an authorized user</Value>	
+	</Variable>
+	<Variable>
+		<Name>LoginErrorMessage</Name>
+		<Value>The specified user is inactive</Value>	
+	</Variable>
+	<Variable>
+		<Name>InvalidRoleErrMsg@1</Name>
+		<Value>The "Login" operation was successful but had some warning messages:
+
+The role entered is invalid. Logging in with the default role...</Value>	
+	</Variable>
+	<Variable>
+		<Name>UnAuthorizedAccessError</Name>
+		<Value>Only DBA's may run this application!</Value>	
+	</Variable>
+	<Variable>
+		<Name>PasteAttachmentsError</Name>
+		<Value>Following components selected are invalid for paste</Value>	
+	</Variable>
+	<Variable>
+		<Name>UnableToLogout</Name>
+		<Value>Unable to logout: There are applications running that are launched from Rich client for viewing or editing following data:
+PDF_DatasetName.pdf 
+Please close those and exit.
+
+Do you really want to exit Teamcenter client? This may cause loss of data in Teamcenter as well as for clients connected to Teamcenter</Value>	
+	</Variable>
+	<Variable>
+		<Name>AccessDeniedError</Name>
+		<Value>Item Revision $ is not modifiableVBLFThe current user does not have write access to the object "ItemName".</Value>	
+	</Variable>
+	<Variable>
+		<Name>EditItemIDPropertiesError</Name>
+		<Value>Property ID is not modifiable.</Value>	
+	</Variable>
+	<Variable>
+		<Name>CheckInErrorMsg</Name>
+		<Value>The action cannot be performed because "ItemID" was checked-out by "UserName" on</Value>
+	</Variable>
+	<Variable>
+		<Name>CutBOMViewRevision</Name>
+		<Value>Cannot cut BOMViewRev from Item Revision.</Value>
+	</Variable>
+	<Variable>
+		<Name>DeleteBOMViewRevision</Name>
+		<Value>The BOM View Revision cannot be deleted because it contains occurrences.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidIDErrMsg</Name>
+		<Value>Unable to create item...invalid ID entered!</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportRemoteError</Name>
+		<Value>Unable to export .
+Insufficent privilege to perform this Import/Export operation.</Value>
+	</Variable>
+	<Variable>
+		<Name>SuccessfulRemoteImportMsg</Name>
+		<Value>For the WorkspaceObject ItmNm#,
+the remote import from site SiteA# to site SiteB# was successful.</Value>
+	</Variable>
+	<Variable>
+		<Name>FailedRemoteImportMsg</Name>
+		<Value>the remote export from Site-A to site Site-B failed with error code 100107.
+
+
+Error 100107 - Attempted function %1$s at site %2$s on host %3$s.
+Contents of Error Stack: 
+       41150: Item "ITEMID" has no released revision to export.
+      100107: Attempted function idsm_export_status at site Site-A on host BT-W19VS19O19.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportRemoteImportError</Name>
+		<Value>Unable to import $.
+Attempted function idsm_export_status at site Site# on host Server#.
+Checked-Out object "$" cannot be exported to another owning site. This object must not be Checked-Out for this operation to succeed.
+The action cannot be performed because "$" was checked-out by "User#@Site#" on ddmmyy#</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportRemoteImportError@1</Name>
+		<Value>Unable to import ItemName.
+Attempted function idsm_export_status at site Site-A on host BT-W19VS19O19.
+Object in release process "ItemRevision" cannot be exported to another owning site.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportObjectError</Name>
+		<Value>Specified directory already contains an exported object. 
+Please select different folder.</Value>
+	</Variable>
+	<Variable>
+		<Name>ExportObjectImportError</Name>
+		<Value>An error occurred while storing objects in the export directory.
+Exporting user "User#" has no EXPORT privilege for object "$$".</Value>
+	</Variable>
+	<Variable>
+		<Name>DuplicateItemIDError</Name>
+		<Value>The Item ID "item_id=#" is already registered.</Value>
+	</Variable>
+	<Variable>
+		<Name>RemoteImportError</Name>
+		<Value>Unable to import Item#.
+Attempted function idsm_export_status at site Site# on host Server#.
+The user "User#" is not found in site "Site#".
+Enhanced data sharing security at site "Site#" requires that all remote users are defined.</Value>
+	</Variable>
+	<Variable>
+		<Name>DiproCheckInErrorMsg</Name>
+		<Value>You do not have sufficient privileges for the object "objectName". Verify its protection.</Value>
+	</Variable>
+	<Variable>
+	<Name>RemoteExportError</Name>
+		<Value>Unable to export .
+Object in release process "$" cannot be exported to another owning site.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReviseError@1</Name>
+		<Value>Working Revisions limit exceeded for Item. The Maximum number of revisions allowed is : RevisionNumber</Value>
+	</Variable>
+	<Variable>
+		<Name>FailedRemoteImportMsg@2</Name>
+		<Value>the remote export from SiteA# to site SiteB# failed with error code 100107.
+
+
+Error 100107 - Attempted function %1$s at site %2$s on host %3$s.
+Contents of Error Stack: 
+       41132: For object "ItmNm#", importing site has no IMPORT privilege granted at the exporting site.
+      100107: Attempted function idsm_export_status at site SiteA# on host ServerA#.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReviseErrorLongerName</Name>
+		<Value> The name '$' exceeds the allowed length of '32'.</Value>
+	</Variable>
+	<Variable>
+		<Name>ItemAlreadyExists_1</Name>
+		<Value>The object "ItemName" is not saved because "ItemId" is not unique.</Value>
+	</Variable>
+	<Variable>
+		<Name>PR_Error</Name>
+		<Value>The object "ObjectName" is not saved because "ObjectID" is not unique.</Value>
+	</Variable>
+	<Variable>
+		<Name>ReadOnlyMessage@2</Name>
+		<Value>is read only. Any changes will be lost.
+Do you want to continue?</Value>
+	</Variable>
+	<Variable>
+		<Name>FormSaveAsError@2</Name>
+		<Value>The "Save As" action performed on the object "FormName" has failed.
+The ItemType "FormName" could not be copied to a new ItemType.</Value>
+	</Variable>
+	<Variable>
+		<Name>BMIDENamingRuleErrMsg</Name>
+		<Value>Unable to create Business Object.
+The value "#" for the property "@" of type "$" is invalid, because no matching Naming Rule pattern could be found.</Value>
+	</Variable>
+	<Variable>
+		<Name>BMIDECustomItemCreateErr</Name>
+		<Value>Unable to create Business Object.
+The value "abcdefghi" for the property "#" of type "Greg $ Revision Master" is invalid, because no matching Naming Rule pattern could be found.</Value>
+	</Variable>
+	<Variable>
+		<Name>InvalidRevision</Name>
+		<Value> The value "I" for the property "item_revision_id" of type "ExcludeNRItem" is invalid, because no matching Naming Rule pattern could be found.</Value>
+	</Variable>
+	<Variable>
+		<Name>DDEItemAlreadyExists</Name>
+		<Value>"ItemRevName" was not added because it already exists.</Value>
+	</Variable>
+	<Variable>
+		<Name>DDEItemAlreadySiteCheckedOut</Name>
+		<Value>Object "ItemRevName" is already site checked out.</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,29 @@
+<Environment>
+	<Variable>
+		<Name>InActiveGrpMemberLoginError</Name>
+		<Value>UserName has no active roles in GrpName group.</Value>	
+	</Variable>
+	<Variable>
+		<Name>UserModifyErrMsg</Name>
+		<Value>You can not deactivate the user's last role from his/her default group.
+RoleName is the last active role of the user UserName in his/her default group.</Value>	
+	</Variable>
+	<Variable>
+		<Name>UserDeleteErrMsg</Name>
+		<Value>User is referenced by Signoff objects and hence cannot be deleted. User can be deactivated by changing the user status to inactive.</Value>	
+	</Variable>
+	<Variable>
+		<Name>NoObjectsFound</Name>
+		<Value>No referencing objects found</Value>	
+	</Variable>
+	<Variable>
+		<Name>RemoveUserErrMsg</Name>
+		<Value>Delete member  failed
+User is referenced by Signoff objects and hence cannot be deleted. User can be deactivated by changing the user status to inactive.</Value>	
+	</Variable>
+	<Variable>
+		<Name>ImportTemplateErrMsg</Name>
+		<Value>Check if the used template contains the appropriate tags. Data sheets need to contain the start, end and rule tags. Instruction sheets need to contain the ignore tags. Refer to the user guide for more details on tag usage in templates.
+</Value>	
+	</Variable>
+</Environment>

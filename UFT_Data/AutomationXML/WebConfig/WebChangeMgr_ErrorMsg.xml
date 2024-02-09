@@ -1,0 +1,58 @@
+<Environment>
+	<Variable>
+		<Name>SameIDError</Name>
+		<Value>The Item "~" is not unique.</Value>
+	</Variable>
+	<Variable>
+		<Name>IDPatternIE</Name>
+		<Value>valid Naming Rule pattern is</Value>
+	</Variable>
+	<Variable>
+		<Name>IDPatternFF</Name>
+		<Value>Valid pattern is</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationshipError</Name>
+		<Value>No relationship is defined for the selected object(s):</Value>
+	</Variable>
+	<Variable>
+		<Name>SolutionItemsRelation</Name>
+		<Value>Paste is not allowed</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationErrorSolItem</Name>
+		<Value>The Relation creation is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationErrorSolItemPasteAs</Name>
+		<Value>The condition Cm0isCMHasSolutionItemCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationCreateError</Name>
+		<Value>The Relation creation is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>WrongDataTypeError</Name>
+		<Value>The argument data type does not match what the specified function call expects.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelErrorImpactedItem</Name>
+		<Value>The condition Cm0isCMHasImpactedItemCreatable is not satisfied</Value>
+	</Variable>
+	<Variable>
+		<Name>RelCreationErrorImpactedItem</Name>
+		<Value>The Relation creation is not allowed.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelErrorProblemItem</Name>
+		<Value>The condition Cm0isCMHasProblemItemCreatable is not satisfied</Value>
+	</Variable>
+	<Variable>
+		<Name>RelationErrorRefItem</Name>
+		<Value>The condition isCMReferencesCreatable is not satisfied.</Value>
+	</Variable>
+	<Variable>
+		<Name>RelErrorImplementItem</Name>
+		<Value>The condition isCMImplementsCreatable is not satisfied</Value>
+	</Variable>
+</Environment>
