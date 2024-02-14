@@ -1,0 +1,73 @@
+﻿Option Explicit
+
+Dim sUserName,sPassword
+Dim sFName,sLName,sAdd,sCity,sState
+Dim iZipCode,iPhone,iSSN
+
+Function RegisterNewUser(sFName,sLName,sAdd,sCity,sState,iZipCode,iPhone,iSSN, sUserName,sPassword)
+	
+	On ERROR RESUME NEXT
+	
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").Sync
+ 	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.firstName").Set sFName
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.lastName").Set sLName
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebElement("Address:").Click
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.address.street").Set sAdd
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.address.city").Set  sCity
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.address.state").Set sState
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.address.zipCode").Set iZipCode
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.phoneNumber").Set iPhone
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.ssn").Set iSSN
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.username").Set  sUserName
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("customer.password").Set sPassword
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebEdit("repeatedPassword").Set sPassword
+	Browser("ParaBank | Register for").Page("ParaBank | Register for").WebButton("Register").Click
+	Browser("ParaBank | Register for").Page("ParaBank | Customer Created").Link("Log Out").Click
+	
+	If ERR.NUMBER>0 Then
+		RegisterNewUser=False
+	else
+		RegisterNewUser=True
+	End If
+	
+	err.CLEAR
+	
+	On error Goto 0
+	
+End Function
+
+
+Dim sFName1,sLName1,sAdd1,sCity1,sState1
+Dim iZipCode1,iPhone1
+
+
+Function updateContactInfo(sFName1,sLName1,sAdd1,sCity1,sState1,iZipCode1,iPhone1)
+	
+	On ERROR RESUME NEXT
+	
+		Browser("ParaBank | Register for").Page("ParaBank | Accounts Overview").Link("Update Contact Info").Click
+		Browser("ParaBank | Register for").Page("ParaBank | Accounts Overview").WebEdit("customer.firstName").Set sFName1
+		Browser("ParaBank | Register for").Page("ParaBank | Accounts Overview").WebEdit("customer.lastName").Set sLName1
+		Browser("ParaBank | Register for").Page("ParaBank | Accounts Overview").WebEdit("customer.address.street").Set sAdd1
+		Browser("ParaBank | Register for").Page("ParaBank | Accounts Overview").WebEdit("customer.address.state").Set sState1
+		Browser("ParaBank | Register for").Page("ParaBank | Accounts Overview").WebEdit("customer.address.zipCode").Set iZipCode1
+		Browser("ParaBank | Register for").Page("ParaBank | Accounts Overview").WebEdit("customer.phoneNumber").Set iPhone1
+		Browser("ParaBank | Register for").Page("ParaBank | Update Profile").WebButton("Update Profile").Click
+	
+			If ERR.NUMBER>0 Then
+				updateContactInfo=False
+			else
+				updateContactInfo=True
+			End If
+	
+			err.CLEAR
+	
+	On error Goto 0
+	
+End Function
+
+
+	
+
+
+

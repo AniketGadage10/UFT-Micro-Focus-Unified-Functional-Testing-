@@ -1,0 +1,20 @@
+﻿Option Explicit
+
+Dim sUserName1,sPassword1
+
+Function Login (sUserName1,sPassword1)
+
+Browser("ParaBank | Register for").Page("ParaBank | Welcome | Online").WebEdit("username").Set sUserName
+Browser("ParaBank | Register for").Page("ParaBank | Welcome | Online").WebEdit("password").Set sPassword
+Browser("ParaBank | Register for").Page("ParaBank | Welcome | Online").WebButton("Log In").Click
+End Function
+
+
+Function LaunchedApplication ()
+	SystemUtil.Run "C:\Program Files\Google\Chrome\Application\chrome.exe","https://parabank.parasoft.com/parabank/index.htm "
+End Function
+
+
+Function logoutFromApplication ()
+	Browser("ParaBank | Register for").Page("ParaBank | Update Profile").Link("Log Out").Click
+End Function
