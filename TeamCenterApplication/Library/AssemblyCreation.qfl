@@ -1,0 +1,119 @@
+﻿Option  Explicit
+
+' Function List
+'================================================================================================================================================================
+'0. fn_CreateFolder()                              This function is used to Create Folder Under TeamCenter Application
+'1 fn_AddItem()					     This function is used to Add Item Under TeamCenter Application
+' =========================================================End Of List ==========================================================================================
+
+
+'#####################################################################################################
+'###    FUNCTION NAME   :   fn_CreateFolder(sFolder,sDesc)
+'###
+'###    DESCRIPTION     :    This function is used to Create Folder Under TeamCenter Application
+'###
+'###    PARAMETERS      :   sFolder- Folder Name
+'###					    sDesc- Folder Description
+'###
+'###    HISTORY         :   AUTHOR         DATE        
+'###
+'###    CREATED BY      :   Aniket Gadage         15/02/2024    
+'###
+'###    MODIFIED BY     :   
+'###
+'###    EXAMPLE         :   
+'#######################################################################################################
+
+Function  fn_CreateFolder(sFolder,sDesc)
+
+ 	On Error Resume Next
+ 	
+		JavaWindow("TeamcenterUI").JavaMenu("File").JavaMenu("New").JavaMenu("Folder...").Select
+		
+		JavaWindow("TeamcenterUI").JavaWindow("New Folder").JavaEdit("Business Object Type").Set "Folder"
+		
+		JavaWindow("TeamcenterUI").JavaWindow("New Folder").JavaButton("Next >").Click
+		
+		JavaWindow("TeamcenterUI").JavaWindow("New Folder").JavaEdit("FolderName").Set sFolder
+
+		JavaWindow("TeamcenterUI").JavaWindow("New Folder").JavaEdit("Description:").Set sDesc
+		
+		JavaWindow("TeamcenterUI").JavaWindow("New Folder").JavaCheckBox("Open On Create").Set "ON"
+		
+		JavaWindow("TeamcenterUI").JavaWindow("New Folder").JavaButton("Finish").Click
+		
+		JavaWindow("TeamcenterUI").JavaWindow("New Folder").JavaButton("Close").Click
+		
+		If Err.Number>0 Then
+			fn_CreateFolder=False
+		Else
+			fn_CreateFolder=True
+		End If
+	
+	On Error Goto 0
+	
+	Err.Clear
+	
+End Function
+
+
+
+'#####################################################################################################
+'###    FUNCTION NAME   :   fn_AddItem(sItemId,sItemName)
+'###
+'###    DESCRIPTION     :    This function is used to Create Folder Under TeamCenter Application
+'###
+'###    PARAMETERS      :   
+'###
+'###    HISTORY         :   AUTHOR         DATE        
+'###
+'###    CREATED BY      :   Aniket Gadage         15/02/2024    
+'###
+'###    MODIFIED BY     :   
+'###
+'###    EXAMPLE         :   
+'#######################################################################################################
+
+Function  fn_AddItem()
+	Dim sItemId,sItemName
+	Dim Iterator
+ 	On Error Resume Next
+ 		 
+ 		For Iterator = 1 To 1 Step 1
+ 		
+ 			 sItemId=DataTable.Value("Item_Id","TeamCenterLogin")
+ 			 sItemName=DataTable.Value("Item_Name","TeamCenterLogin")
+ 			 
+ 			 JavaWindow("TeamcenterUI").JavaMenu("File").JavaMenu("New").JavaMenu("Item...").Select
+		
+	       	JavaWindow("TeamcenterUI").JavaWindow("New Item").JavaEdit("Business Object Type").Set "Item"
+		
+		      JavaWindow("TeamcenterUI").JavaWindow("New Item").JavaButton("Next >").Click
+		
+	       	JavaWindow("TeamcenterUI").JavaWindow("New Item").JavaEdit("(required)").Set sItemId
+		
+	       	JavaWindow("TeamcenterUI").JavaWindow("New Item").JavaEdit("ItemName").Set sItemName
+
+		      JavaWindow("TeamcenterUI").JavaWindow("New Item").JavaButton("Finish").Click
+		
+			DataTable.SetNextRow
+ 		Next
+		
+		JavaWindow("TeamcenterUI").JavaWindow("New Item").JavaButton("Close").Click
+
+		
+		If Err.Number>0 Then
+			fn_AddItem=False
+		Else
+			fn_AddItem=True
+		End If
+	
+	On Error Goto 0
+	
+	Err.Clear
+	
+End Function
+
+
+
+
