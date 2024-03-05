@@ -1,0 +1,22 @@
+
+TESTCASE NAME   :   ChgOwnershipSingle
+
+QART            :  http://cipgweb/qacgi-bin/tt_view.cgi?release=Tc_9.0&feature=REGMN&cobid=146005&tcobid=1046548
+
+Ported  BY      :   Pooja B			26-July-2012	 
+
+Run on Tc Build : Run on Server 166  Build  2012071800
+
+Changes         : modified in Action 2 at line no 108,Adding GetRO property ofJavaButton("OwingUser") for getting text of java button. 
+----------------------------------------------------------------------------------------------------------------------------
+
+
+TESTCASE NAME   :   ChgOwnershipSingle
+
+QART            :  https://tidev.industrysoftware.automation.siemens.com/qart/qacgi-bin/tt_view.cgi?release=TC_11.1&feature=REGMN&category=ObjectProtection&testcase=ChgOwnershipSingle
+
+Ported  BY      :   Ankit Nigam			18-MARCH-2015	 
+
+Run on Tc Build : Run on Server 222  Build  2015021800
+
+Changes         : in action 2 Function Change : Fn_MyTc_ChangeOwnership and Script Change: for sUser1

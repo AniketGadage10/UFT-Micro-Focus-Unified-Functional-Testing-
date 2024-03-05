@@ -1,0 +1,23 @@
+1.Modified the Script to Select Dataset under New Stuff folder
+2. Increased Sync
+###########################################################################################
+1. Lib OR Association Done.
+2. Updated Logs with DataFlow.
+3. Change in Script:
+                                a)Added Code for PR1741114
+4. QART Changes From TC8.3: Yes
+				a)Added PR1741114
+5. Sync issuse managed: Yes
+6. Checked REG-Feature,Category
+7. Removed Extra Variables.
+8. Removed Unused Code.
+#################################################################################################
+'//######################################################################################
+Porting Details[Teamcenter 11.2]
+QART Link 11.2:	https://tidev.industrysoftware.automation.siemens.com/qart/qacgi-bin/tt_view.cgi?		release=TC_11.1&feature=REGMN&category=Datasets&testcase=DatasetSaveAs
+  BUILD  :2015031100(pnv6s111)
+
+  Porting Done By :Jotiba Takkekar	    Date : 24-March-2015
+   Porting Comments: 1.Modified the Script to handle AutoTestDBA session to set preferences. 
+                                        2. Removed Unused code. 
+'##################################################################################

@@ -1,0 +1,11 @@
+'$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+'//$$$$    Porting ( Test case Name)          : Checkout_Disable_After_Checkout
+'//$$$$
+'//$$$$    QART Link           :https://tidev.industrysoftware.automation.siemens.com/qart/qacgi-bin/tt_view.cgi?release=TC_11.1&feature=REGMN&category=CheckIN-OUT&testcase=Checkout_Disable_After_Checkout
+'//$$$$ 
+'//$$$$    PORTED BY           : Jotiba Takkekar                     Date: 26-02-2015
+'//$$$$ 
+'//$$$$
+'//$$$$    Run on Tc Build     : TC 11.2 (2015020400)  Server pnv6s106 
+'//$$$$   Descriptions:              Modified OR for Summary Header. 
+'//$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$

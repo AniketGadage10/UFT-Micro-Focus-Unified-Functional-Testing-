@@ -1,0 +1,67 @@
+-----------------------------------------------------------------------------------------------
+Setup Details
+-----------------------------------------------------------------------------------------------
+Teamcenter Release		 - TC_11.1_Core
+Teamcenter Build		 - 20140924
+Teamcenter Server Host   - pnv6s224
+Teamcenter RAC Host		 - PNI6W034-SQS
+Tester Name				 - Administrator
+
+
+-----------------------------------------------------------------------------------------------
+Test Case Information
+-----------------------------------------------------------------------------------------------
+QART Root				 - TcCore
+QART Release			 - TC__Automation
+QART Feature			 - REG - My_Teamcenter
+QART Category			 - Forms
+QART TestCase			 - CreateFormDataset
+Test Run Date			 - October/1/2014
+Test Run Time			 - 1:33:12 PM
+
+
+-----------------------------------------------------------------------------------------------
+Test Script Logs
+-----------------------------------------------------------------------------------------------
+
+
+[1:33:13 PM]  -  QTP [Action1] - Start
+[1:33:42 PM] - ACTION - PASS | Successfully Created Preference [TC_Allow_Longer_ID_Name] with Value [False]
+[1:36:06 PM] - Action - Pass | Successfully Found Tc Session for User [AutoTest2:AutoTest2:Engineering:Designer::autotest2]
+[1:36:21 PM] - Action - Pass | Successfully set My Teamcenter Perspective
+[1:36:25 PM] - QTP Action 1 - End
+-----------------------------------------------------------------------------------------------
+[1:36:25 PM] - QTP Action 2 - Start
+[1:36:30 PM] - Action - Pass | Successfully Expanded  [Home:AutomatedTests] folder
+[1:36:39 PM] - Action - Pass | Successfully Selected  [Home:AutomatedTests] folder
+[1:37:02 PM] - Action - Pass | Successfully Created Test case Folder [CreateFormDataset_27334]
+[1:37:06 PM] - Action - Pass | Successfully Expanded  [Home:AutomatedTests:CreateFormDataset_27334]
+[1:37:16 PM] - Action - Pass | Successfully Selected  [Home:AutomatedTests:CreateFormDataset_27334]
+[1:37:46 PM] - Action - Pass | Successfully Created New Datset [ TestDataset5 ]
+[1:37:58 PM] - Action - Pass | Successfully Select New Datset [ TestDataset5 ]
+[1:38:33 PM] - Action - Pass | Successfully Created Form [TestForm2]
+[1:38:43 PM] - Action - Pass | Successfully Expand  Dataset [TestDataset5]
+[1:38:43 PM] - Verify - Pass | VP1 - Successfully verified the form [ TestForm2 ] created by expanding the dataset [ TestDataset5 ] 
+[1:38:53 PM] - Action - Pass | Successfully Select  Form [TestForm2]
+[1:39:06 PM] - Action - Pass | Successfully New Form
+[1:39:36 PM] - Action - Pass | Successfully Set name [ A23456789112345678921234567893124 ] which exceeds the allowed length of 32.
+[1:39:43 PM] - Action - Pass | Successfully Set Description [ This is a Test Form ] .
+[1:39:49 PM] - Action - Pass | Successfully Set CheckBox.
+[1:40:01 PM] - Action - Pass | Successfully Clicked On Finish.
+[1:40:26 PM] - Action - Pass | Successfully Click On Ok Button [ A23456789112345678921234567893124 ] exceeds the allowed length of 32, So Click on Ok Button
+[1:40:32 PM] - Action - Pass | Successfully Clicked On Cancel.
+[1:40:36 PM] - Action - Pass | Successfully try to create form <formname> - The name [ A23456789112345678921234567893124 ] exceeds the allowed length of 32, so form cannot created because it exceeds the limit allowed.
+[1:40:37 PM] - Verify - Pass | VP2 - Successfully verified When the preference is set to false then the user should not be allowed to enter more than 32 characters, so the Form created with the first 32 character only when Tc_Allow_Longer_ID_Name is set to False
+[1:40:39 PM] - Action - Pass | My Teamcenter Perspective successfully closed
+[10/1/2014 1:41:18 PM] - ACTION - PASS | Successfully Set site Preference [TC_Allow_Longer_ID_Name] to default value [True]
+---------------------------------------------------------------------------------------
+******************* Action 2 Execution : END*********************
+----------------------------------------------------------------------------------------
+Execution End Time :: 10/1/2014 1:41:19 PM
+-------------------------------------
+Test Execution Result: PASS
+-------------------------------------
+[1:46:17 PM] - QTP [Action2] - End
+-----------------------------------------------------------------------------------------------
+[1:46:17 PM] - Final - Pass | Test Execution Result: PASS
+-----------------------------------------------------------------------------------------------

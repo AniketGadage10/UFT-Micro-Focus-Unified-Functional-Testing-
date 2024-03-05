@@ -1,0 +1,10 @@
+<Environment>
+	<Variable>
+		<Name>RootNode</Name>
+		<Value>Item|TopA|TopA</Value>
+	</Variable>
+	<Variable>
+		<Name>TopA</Name>
+		<Value>Item|Comp1|Comp1</Value>
+	</Variable>
+</Environment>

@@ -1,0 +1,11 @@
+﻿Option  Explicit
+
+' Function List
+'================================================================================================================================================================
+'0. fn_setup_TestCaseinit()                         This function is used to add external Test data 
+' =========================================================End Of List ==========================================================================================
+
+
+Function fn_setup_TestCaseinit()
+	DataTable.ImportSheet "C:\Users\agadage\Desktop\TeamCenterApplication\TestData\TeamCenter.xlsx",1,"Action1"
+End Function

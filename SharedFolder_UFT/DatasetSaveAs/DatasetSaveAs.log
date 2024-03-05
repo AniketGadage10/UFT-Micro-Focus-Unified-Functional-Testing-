@@ -1,0 +1,64 @@
+-----------------------------------------------------------------------------------------------
+Setup Details
+-----------------------------------------------------------------------------------------------
+Teamcenter Release		 - TC_11.3_SP
+Teamcenter Build		 - 20170509d
+Teamcenter Server Host   - pnv6s1340
+Teamcenter RAC Host		 - PNI6W11152
+Tester Name				 - sewr5n
+
+
+-----------------------------------------------------------------------------------------------
+Test Case Information
+-----------------------------------------------------------------------------------------------
+QART Root				 - TcCore
+QART Release			 - TC_11.3_SP
+QART Feature			 - REG - My_Teamcenter
+QART Category			 - Datasets
+QART TestCase			 - DatasetSaveAs
+Test Run Date			 - May/31/2017
+Test Run Time			 - 4:07:12 PM
+
+
+-----------------------------------------------------------------------------------------------
+Test Script Logs
+-----------------------------------------------------------------------------------------------
+
+
+[4:07:12 PM]  -  QTP [Action1] - Start
+[4:08:05 PM] - Action - Pass | Successfully Found Tc Session for User [AutoTest3:AutoTest3:Engineering:Designer::autotest3]
+[4:08:17 PM] - Action - Pass | Successfully set My Teamcenter Perspective
+4:08:23 PM ***************************** QTP Action1 - End **********************************
+[[4:08:23 PM] ********************************* QTP Action2 - Start ************************************
+[5/31/2017 4:08:52 PM] - Action - PASS | Successfully Created TestCase Folder [ DatasetSaveAs_70939 ] under [ Home:AutomatedTests ] 
+[5/31/2017 4:08:55 PM] - Action - PASS | Successfully Expanded TestCase Folder [ Home:AutomatedTests:DatasetSaveAs_70939 ] under [ Home:AutomatedTests ] 
+[4:09:14 PM]  - Action - PASS | Successfully Created Dataset[87792_1]
+4:09:39 PM - Action - Pass | Successfully Performed Menu operation [ Edit:Copy ] 
+4:09:45 PM - Action - Pass | Successfully Selected  Folder [ Home:AutomatedTests:DatasetSaveAs_70939] 
+[4:09:56 PM]  - Action - PASS | Successfully Created Folder[87792]
+4:10:00 PM - Action - Pass | Successfully Selected  Folder [ Home:AutomatedTests:DatasetSaveAs_70939:87792] 
+[4:10:02 PM] - Verify - VP1 - PASS | Successfully  Verified That The Dataset [87792_1] That was Copied is Pasted Under The Folder[87792]
+4:10:08 PM - Action - Pass | Successfully Dataset [ Home:AutomatedTests:DatasetSaveAs_70939:87792:87792_1] 
+[4:10:12 PM]  - Action - PASS | Successfully Save as Dataset [Newstuff_87792] Under NewStuff Folder
+4:10:15 PM - Action - Pass | Successfully Expanded Folder [ Home:Newstuff] 
+[4:10:18 PM] - Verify - VP2 - PASS | Successfully Verified That when File-->Save As... is Performed The Dataset gets Saved in The NewStuff Folder with The Specified Name as [Newstuff_87792]
+4:10:26 PM - Action - Pass | Successfully Clicked on Dataset [ Home:Newstuff:Newstuff_87792] 
+[4:10:31 PM] - Verify - VP3 - PASS | Successfully Verified Dataset  [Newstuff_87792] Contains The Same Text as The Original 
+[4:10:31 PM] -----------------------------------------PR#1741114 Implementation---------------------------------------------.
+[4:11:34 PM] - Action - Pass | Successfully Found Tc Session for User [AutoTestDBA:AutoTestDBA:dba:DBA::autotestdba]
+[4:12:07 PM] - ACTION - PASS | Successfully Verified the Preference TC_Allow_Longer_ID_Name.
+[4:12:35 PM] - ACTION - PASS | Successfully Set the TC_Allow_Longer_ID_Name Preference to False.
+[4:13:03 PM] - Action - Pass | Successfully set My Teamcenter Perspective
+[4:13:25 PM]  - Action - PASS | Successfully Created Dataset[DataSet315201716139zw2rjby4d29qv]
+[4:13:34 PM]  - Action - PASS | Successfully Save As Dataset [DataSet315201716139zw2rjby4d29qv]
+[4:13:39 PM]  - Verify - VP4 - PASS | Successfully Verified  that the name field should not allowed more than 32 character.
+[4:14:13 PM] - ACTION - PASS | Successfully Verified the Preference TC_Allow_Longer_ID_Name.
+[4:14:41 PM] - ACTION - PASS | Successfully Set the TC_Allow_Longer_ID_Name Preference to True.
+[4:15:06 PM]  - Action - PASS | Successfully Save As Dataset [DataSet315201716153m1fjdtwipxs69zbk3iqfnrofea1owtwqv95b6g43t0zywpa6iub10niwq3ynvpwk0kh5r49ee0jf3n2yx0unz4dwoisqtm1mgwlh324751b88]
+[4:15:07 PM]  - Verify - VP5 - PASS | Successfully Verified that the name field should not allowed more than 128 character..
+[4:15:29 PM] - QTP [Action2] - End
+-----------------------------------------------------------------------------------------------
+[4:15:29 PM] - Final - Pass | Test Execution Result: PASS
+-----------------------------------------------------------------------------------------------
+Total Test Execution Time : 8 mins, 18 seconds
+-----------------------------------------------------------------------------------------------

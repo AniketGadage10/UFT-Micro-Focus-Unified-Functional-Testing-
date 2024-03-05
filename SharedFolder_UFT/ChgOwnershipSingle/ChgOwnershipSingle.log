@@ -1,0 +1,54 @@
+-----------------------------------------------------------------------------------------------
+Setup Details
+-----------------------------------------------------------------------------------------------
+Teamcenter Release		 - TC_11.2_Core
+Teamcenter Build		 - 2015021800
+Teamcenter Server Host   - pnv6s222
+Teamcenter RAC Host		 - PNI6W034-SQS
+Tester Name				 - Administrator
+
+
+-----------------------------------------------------------------------------------------------
+Test Case Information
+-----------------------------------------------------------------------------------------------
+QART Root				 - TcCore
+QART Release			 - TC_11.2__Automation
+QART Feature			 - REG - My Teamcenter
+QART Category			 - ObjectProtection
+QART TestCase			 - ChgOwnershipSingle
+Test Run Date			 - March/18/2015
+Test Run Time			 - 7:46:10 PM
+
+
+-----------------------------------------------------------------------------------------------
+Test Script Logs
+-----------------------------------------------------------------------------------------------
+
+
+[7:46:11 PM]  -  QTP [Action1] - Start
+[3/18/2015 7:47:31 PM] - Action - PASS | Successfully Found Tc Session for User [AutoTest1:AutoTest1:Engineering:Designer::autotest1]
+[3/18/2015 7:47:45 PM] - Action - PASS | Successfully set My Teamcenter Perspective
+[3/18/2015 7:47:59 PM] - Action - PASS | Successfully Reset My Teamcenter Perspective
+[3/18/2015 7:47:59 PM] - QTP Action 1 - End
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+[3/18/2015 7:48:00 PM] - QTP Action 2 - Start
+[3/18/2015 7:48:37 PM] - Action - PASS |  Successfully Created Test case Folder [ChgOwnershipSingle_44632]
+[3/18/2015 7:49:43 PM] - Action - PASS |  Successfully  created Item [000088-Item1]  under Testcase folder
+[3/18/2015 7:50:00 PM] - Action - PASS |  Successfully Selected  Item [000088-Item1]  under Testcase folder
+[3/18/2015 7:50:08 PM] - VP1    - PASS |  Successfully Verified that  the Change Ownership dialog box is displayed with Selected object  [000088-Item1] and  name [Engineering/AutoTest1 (autotest1)]  of the Owner of the object
+[3/18/2015 7:50:41 PM] - VP2    - PASS |  Successfully Verified that  the Organization Selection dialog displays the Site's organization tree
+[3/18/2015 7:50:41 PM] - VP3    - PASS |  Successfully Verified that  the Organization Selection dialog box is dismissed and name of User Selected[Engineering/Designer/AutoTest2 (autotest2)] is Displaying on the New Owing User Button 
+[3/18/2015 7:51:00 PM] - Action - PASS |  Successfully Refeshed the Window
+[3/18/2015 7:51:43 PM] - VP4    - PASS |  Successfully Verified that  the User [AutoTest2 (autotest2)] is now the Owner of the Object  [000088-Item1]
+[3/18/2015 7:52:19 PM] - VP5    - PASS |  Successfully Verified that the Error Message is Appearing [The access is denied.] ,when we are trying to change the Ownership Again
+[3/18/2015 7:52:48 PM] - Action - PASS |  Successfully Found Tc Session for User [AutoTest2:AutoTest2:Engineering:Designer::autotest2]
+[3/18/2015 7:53:19 PM] - Action - PASS |  Successfully set My Teamcenter Perspective
+[3/18/2015 7:53:31 PM] - Action - PASS |  Successfully Reset My Teamcenter Perspective
+[3/18/2015 7:53:44 PM] - Action - PASS |  Successfully  Searched the  Item [000088-Item1] by the New Owner [AutoTest2 (autotest2)]
+[3/18/2015 7:54:10 PM] - Action - PASS |  Successfully  Selected   Item [000088-Item1] by the New Owner[AutoTest2 (autotest2)]
+[3/18/2015 7:54:11 PM] - VP6    - PASS |  Successfully Verified that the Object [000088-Item1] Exists and Owner is [AutoTest2 (autotest2)] when logging in with the new Owner [AutoTest2 (autotest2)]
+[7:55:34 PM] - QTP [Action2] - End
+-----------------------------------------------------------------------------------------------
+[7:55:34 PM] - Final - Pass | Test Execution Result: PASS
+-----------------------------------------------------------------------------------------------
